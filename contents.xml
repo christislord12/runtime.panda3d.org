@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contents seq="68">
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <package name="ai" platform="linux_amd64" version="cmu_1.7" filename="ai/cmu_1.7/linux_amd64/ai.cmu_1.7.linux_amd64.xml" size="985" timestamp="1302902285" hash="8ae3fd3e7f94062f18c40e73088457f4" seq="2">
+        <import filename="ai/cmu_1.7/linux_amd64/ai.cmu_1.7.linux_amd64.import.xml" size="407" timestamp="1302902285" hash="c201b9dbfb3c9c978becd13ec9f7494b" />
+    </package>
+    <package name="ai" platform="linux_amd64" version="cmu_1.8" filename="ai/cmu_1.8/linux_amd64/ai.cmu_1.8.linux_amd64.xml" size="985" timestamp="1365894059" hash="9b24ca9731976105cd7bc612eef7a723" seq="2">
+        <import filename="ai/cmu_1.8/linux_amd64/ai.cmu_1.8.linux_amd64.import.xml" size="407" timestamp="1365894059" hash="13d32d666feee83ecaf7ec8ac61f0d07" />
+    </package>
+    <package name="ai" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="ai/cmu_1.9/linux_amd64/ai.cmu_1.9.linux_amd64.xml" size="1118" timestamp="1455007775" hash="255548731b2cd8f97a42ca74bb979f4d" seq="3">
+        <import filename="ai/cmu_1.9/linux_amd64/ai.cmu_1.9.linux_amd64.import.xml" size="483" timestamp="1455007776" hash="d9f59b079038bf5bbb3aeda03b6a255c" />
+    </package>
+    <package name="ai" platform="linux_i386" version="cmu_1.7" filename="ai/cmu_1.7/linux_i386/ai.cmu_1.7.linux_i386.xml" size="979" timestamp="1302891751" hash="a776b7303be5fa584306528e870abfe3" seq="2">
+        <import filename="ai/cmu_1.7/linux_i386/ai.cmu_1.7.linux_i386.import.xml" size="405" timestamp="1302891751" hash="17fedcaa437fe7a4dfbcebe5ed33a627" />
+    </package>
+    <package name="ai" platform="linux_i386" version="cmu_1.8" filename="ai/cmu_1.8/linux_i386/ai.cmu_1.8.linux_i386.xml" size="979" timestamp="1365894333" hash="9e2cd9184b74b4b2fae3b95b89be7a46" seq="2">
+        <import filename="ai/cmu_1.8/linux_i386/ai.cmu_1.8.linux_i386.import.xml" size="405" timestamp="1365894333" hash="2cb67586d0e305497408502f97c2848c" />
+    </package>
+    <package name="ai" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="ai/cmu_1.9/linux_i386/ai.cmu_1.9.linux_i386.xml" size="1112" timestamp="1455007777" hash="042b54e211f267c032f61d8dcb3dda24" seq="3">
+        <import filename="ai/cmu_1.9/linux_i386/ai.cmu_1.9.linux_i386.import.xml" size="481" timestamp="1455007777" hash="4fade35014961ba6796b59e20fd9207e" />
+    </package>
+    <package name="ai" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="ai/cmu_1.9/osx_amd64/ai.cmu_1.9.osx_amd64.xml" size="1231" timestamp="1482770480" hash="333aaa317c05b51372974c5a1694af54" seq="2">
+        <import filename="ai/cmu_1.9/osx_amd64/ai.cmu_1.9.osx_amd64.import.xml" size="519" timestamp="1482770480" hash="de2202e8a81c7e4fd5018e5e810d387c" />
+    </package>
+    <package name="ai" platform="osx_i386" version="cmu_1.7" filename="ai/cmu_1.7/osx_i386/ai.cmu_1.7.osx_i386.xml" size="969" timestamp="1302893812" hash="d8a0025d7a58df7fb366524c461effea" seq="2">
+        <import filename="ai/cmu_1.7/osx_i386/ai.cmu_1.7.osx_i386.import.xml" size="404" timestamp="1302893812" hash="edf6e78c9dd211b59d611585c457c389" />
+    </package>
+    <package name="ai" platform="osx_i386" version="cmu_1.8" filename="ai/cmu_1.8/osx_i386/ai.cmu_1.8.osx_i386.xml" size="969" timestamp="1365900217" hash="3aefbc98e3cc3c2ed8e453d50bd5e9db" seq="2">
+        <import filename="ai/cmu_1.8/osx_i386/ai.cmu_1.8.osx_i386.import.xml" size="404" timestamp="1365900217" hash="8ce3cc71208e1c5d07d3d55be181dbbb" />
+    </package>
+    <package name="ai" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="ai/cmu_1.9/osx_i386/ai.cmu_1.9.osx_i386.xml" size="1221" timestamp="1482770480" hash="4ad2aa40ef18b553b401a01afd3176e3" seq="2">
+        <import filename="ai/cmu_1.9/osx_i386/ai.cmu_1.9.osx_i386.import.xml" size="517" timestamp="1482770480" hash="140fde2b1395075944a17d600f17c76e" />
+    </package>
+    <package name="ai" platform="osx_ppc" version="cmu_1.7" filename="ai/cmu_1.7/osx_ppc/ai.cmu_1.7.osx_ppc.xml" size="963" timestamp="1302893812" hash="460408c75e15df25d7c9b3da335d5ced" seq="2">
+        <import filename="ai/cmu_1.7/osx_ppc/ai.cmu_1.7.osx_ppc.import.xml" size="402" timestamp="1302893812" hash="b4bfceb006008991c1ea2230883bc71a" />
+    </package>
+    <package name="ai" platform="osx_ppc" version="cmu_1.8" filename="ai/cmu_1.8/osx_ppc/ai.cmu_1.8.osx_ppc.xml" size="963" timestamp="1365900217" hash="601b6e1019e7572bfbdbfb47b36569f3" seq="2">
+        <import filename="ai/cmu_1.8/osx_ppc/ai.cmu_1.8.osx_ppc.import.xml" size="402" timestamp="1365900217" hash="43acdfbace4c9e2fea8f40ca0f98db38" />
+    </package>
+    <package name="ai" platform="win32" version="cmu_1.7" filename="ai/cmu_1.7/win32/ai.cmu_1.7.win32.xml" size="1074" timestamp="1302892762" hash="9500f0acdca6f9fea33a6f8be277e9fd" seq="2">
+        <import filename="ai/cmu_1.7/win32/ai.cmu_1.7.win32.import.xml" size="449" timestamp="1302892762" hash="ece9e5a27c92d94c2f588a50de9b305f" />
+    </package>
+    <package name="ai" platform="win32" version="cmu_1.8" filename="ai/cmu_1.8/win32/ai.cmu_1.8.win32.xml" size="1074" timestamp="1365945993" hash="f775f2c7ac0817434cfe5836a80e7c07" seq="2">
+        <import filename="ai/cmu_1.8/win32/ai.cmu_1.8.win32.import.xml" size="449" timestamp="1365945993" hash="ee6caf7167259080603d77c4f5f9a8f6" />
+    </package>
+    <package name="ai" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="ai/cmu_1.9/win_amd64/ai.cmu_1.9.win_amd64.xml" size="1227" timestamp="1482770480" hash="d86fec0c3b3877694b8f3de7b09a84d5" seq="2">
+        <import filename="ai/cmu_1.9/win_amd64/ai.cmu_1.9.win_amd64.import.xml" size="519" timestamp="1482770480" hash="7a00f57e49532bcada3433e3b09e3902" />
+    </package>
+    <package name="ai" platform="win_i386" version="cmu_1.9" per_platform="1" filename="ai/cmu_1.9/win_i386/ai.cmu_1.9.win_i386.xml" size="1221" timestamp="1482770480" hash="90fa26a749d46b7da7642a8dc6303c61" seq="2">
+        <import filename="ai/cmu_1.9/win_i386/ai.cmu_1.9.win_i386.import.xml" size="517" timestamp="1482770480" hash="ce886717922fc19315bf6f55367b97e9" />
+    </package>
+    <package name="audio" version="cmu_1.7" filename="audio/cmu_1.7/audio.cmu_1.7.xml" size="816" timestamp="1302902285" hash="bb208be571997de228dfe756c50ce69c" seq="2">
+        <import filename="audio/cmu_1.7/audio.cmu_1.7.import.xml" size="414" timestamp="1302902285" hash="5330095014d0bfbd7e2c4ede43f4c6fc" />
+    </package>
+    <package name="audio" version="cmu_1.8" filename="audio/cmu_1.8/audio.cmu_1.8.xml" size="816" timestamp="1365945993" hash="0a46478f776c978e0904e79b9c28dce0" seq="2">
+        <import filename="audio/cmu_1.8/audio.cmu_1.8.import.xml" size="414" timestamp="1365945993" hash="6f8e7e9e46160f4ca2e0d1be701de4a9" />
+    </package>
+    <package name="audio" version="cmu_1.9" per_platform="1" filename="audio/cmu_1.9/audio.cmu_1.9.xml" size="833" timestamp="1482770480" hash="9f5b96e1a2ed122057387aa80c87bc4e" seq="2">
+        <import filename="audio/cmu_1.9/audio.cmu_1.9.import.xml" size="414" timestamp="1482770480" hash="6f4bb4a8c05ae84d68bebe203d722023" />
+    </package>
+    <package name="box2d" version="cmu_1.8" filename="box2d/cmu_1.8/box2d.cmu_1.8.xml" size="763" timestamp="1365894333" hash="25cb07f0e44104a90b69e5fe89f32c2d" seq="2">
+        <import filename="box2d/cmu_1.8/box2d.cmu_1.8.import.xml" size="349" timestamp="1365894333" hash="96713157f99d4569524f0fd4bfd59bc0" />
+    </package>
+    <package name="box2d" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="box2d/cmu_1.9/linux_amd64/box2d.cmu_1.9.linux_amd64.xml" size="1010" timestamp="1455007777" hash="c78b6992693e007f391d7b3b84af97a4" seq="3">
+        <import filename="box2d/cmu_1.9/linux_amd64/box2d.cmu_1.9.linux_amd64.import.xml" size="535" timestamp="1455007777" hash="a8073839d2c3f65e97319cc45185a832" />
+    </package>
+    <package name="box2d" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="box2d/cmu_1.9/linux_i386/box2d.cmu_1.9.linux_i386.xml" size="1004" timestamp="1455007777" hash="eb823e16ae274afc625e6a9c417726f1" seq="3">
+        <import filename="box2d/cmu_1.9/linux_i386/box2d.cmu_1.9.linux_i386.import.xml" size="533" timestamp="1455007777" hash="2a437998d5fa2ceb336821c2e120b31a" />
+    </package>
+    <package name="box2d" platform="osx_i386" version="cmu_1.7" filename="box2d/cmu_1.7/osx_i386/box2d.cmu_1.7.osx_i386.xml" size="1101" timestamp="1302893812" hash="1cb5d9505a9ded0862f59c978ab45dd5" seq="2">
+        <import filename="box2d/cmu_1.7/osx_i386/box2d.cmu_1.7.osx_i386.import.xml" size="555" timestamp="1302893812" hash="cb0c498b092493b707545b684cfe617b" />
+    </package>
+    <package name="box2d" platform="osx_ppc" version="cmu_1.7" filename="box2d/cmu_1.7/osx_ppc/box2d.cmu_1.7.osx_ppc.xml" size="1095" timestamp="1302893812" hash="f8141f194a5a92f6f7088dd29dba57d9" seq="2">
+        <import filename="box2d/cmu_1.7/osx_ppc/box2d.cmu_1.7.osx_ppc.import.xml" size="553" timestamp="1302893812" hash="19b72e0126493530eb6a5e5271ce4a25" />
+    </package>
+    <package name="box2d" platform="win32" version="cmu_1.7" filename="box2d/cmu_1.7/win32/box2d.cmu_1.7.win32.xml" size="1705" timestamp="1302892762" hash="da590818be337f76257e049681992e2c" seq="2">
+        <import filename="box2d/cmu_1.7/win32/box2d.cmu_1.7.win32.import.xml" size="797" timestamp="1302892762" hash="1ceb7d3c6ebedad73a14ac6555a5bc8e" />
+    </package>
+    <package name="box2d" platform="win32" version="cmu_1.8" filename="box2d/cmu_1.8/win32/box2d.cmu_1.8.win32.xml" size="1705" timestamp="1365945993" hash="82343889a128e690f0e0063791ccdd68" seq="2">
+        <import filename="box2d/cmu_1.8/win32/box2d.cmu_1.8.win32.import.xml" size="828" timestamp="1365945993" hash="a15f045e8fa65193000a87026ab705ff" />
+    </package>
+    <package name="bullet" platform="linux_amd64" version="cmu_1.8" filename="bullet/cmu_1.8/linux_amd64/bullet.cmu_1.8.linux_amd64.xml" size="1022" timestamp="1365894059" hash="b641abe7b606aa5b946759ef7af288f9" seq="2">
+        <import filename="bullet/cmu_1.8/linux_amd64/bullet.cmu_1.8.linux_amd64.import.xml" size="415" timestamp="1365894059" hash="70a1109d2f2d4b18c0ade045e7bbd4fd" />
+    </package>
+    <package name="bullet" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="bullet/cmu_1.9/linux_amd64/bullet.cmu_1.9.linux_amd64.xml" size="1676" timestamp="1455007777" hash="acf1f843bbdf3c3b281830c2db3a8325" seq="3">
+        <import filename="bullet/cmu_1.9/linux_amd64/bullet.cmu_1.9.linux_amd64.import.xml" size="716" timestamp="1455007777" hash="58777be9e70df19c188e26fe278ef0f0" />
+    </package>
+    <package name="bullet" platform="linux_i386" version="cmu_1.8" filename="bullet/cmu_1.8/linux_i386/bullet.cmu_1.8.linux_i386.xml" size="1015" timestamp="1365894333" hash="def1fe288cee71ae5e73d0e4b587bb50" seq="2">
+        <import filename="bullet/cmu_1.8/linux_i386/bullet.cmu_1.8.linux_i386.import.xml" size="413" timestamp="1365894333" hash="5fc987ee830849350a5c5822d15a0707" />
+    </package>
+    <package name="bullet" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="bullet/cmu_1.9/linux_i386/bullet.cmu_1.9.linux_i386.xml" size="1670" timestamp="1455007777" hash="31b48ba49c2d9e888b4366e9ca5cc3c4" seq="3">
+        <import filename="bullet/cmu_1.9/linux_i386/bullet.cmu_1.9.linux_i386.import.xml" size="714" timestamp="1455007777" hash="3aa08d6a6577a27145edb05791893356" />
+    </package>
+    <package name="bullet" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="bullet/cmu_1.9/osx_amd64/bullet.cmu_1.9.osx_amd64.xml" size="1269" timestamp="1482770480" hash="755998db95d37a5105c2a5c58e21e3e1" seq="2">
+        <import filename="bullet/cmu_1.9/osx_amd64/bullet.cmu_1.9.osx_amd64.import.xml" size="535" timestamp="1482770480" hash="d14ceb9256e3936935bf2577dda8f728" />
+    </package>
+    <package name="bullet" platform="osx_i386" version="cmu_1.8" filename="bullet/cmu_1.8/osx_i386/bullet.cmu_1.8.osx_i386.xml" size="1006" timestamp="1365900217" hash="4123c5fe5b9a9262614632b9c366dee7" seq="2">
+        <import filename="bullet/cmu_1.8/osx_i386/bullet.cmu_1.8.osx_i386.import.xml" size="412" timestamp="1365900217" hash="898ad9bef8205009f9a061658e31198b" />
+    </package>
+    <package name="bullet" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="bullet/cmu_1.9/osx_i386/bullet.cmu_1.9.osx_i386.xml" size="1262" timestamp="1482770480" hash="1efc762b8d80e809839e52c7670bc57f" seq="2">
+        <import filename="bullet/cmu_1.9/osx_i386/bullet.cmu_1.9.osx_i386.import.xml" size="533" timestamp="1482770480" hash="6190e31a8c775bee750f8c5610d2a673" />
+    </package>
+    <package name="bullet" platform="osx_ppc" version="cmu_1.8" filename="bullet/cmu_1.8/osx_ppc/bullet.cmu_1.8.osx_ppc.xml" size="1000" timestamp="1365900217" hash="1431637496587fb70783f2cdf48c4a94" seq="2">
+        <import filename="bullet/cmu_1.8/osx_ppc/bullet.cmu_1.8.osx_ppc.import.xml" size="410" timestamp="1365900217" hash="763705b83188a579cb0407c61c840d88" />
+    </package>
+    <package name="bullet" platform="win32" version="cmu_1.8" filename="bullet/cmu_1.8/win32/bullet.cmu_1.8.win32.xml" size="1115" timestamp="1365945993" hash="8758768c53cc44de9d7061238ea39c68" seq="2">
+        <import filename="bullet/cmu_1.8/win32/bullet.cmu_1.8.win32.import.xml" size="461" timestamp="1365945993" hash="c996806c403a542241b2153cde05eff4" />
+    </package>
+    <package name="bullet" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="bullet/cmu_1.9/win_amd64/bullet.cmu_1.9.win_amd64.xml" size="1268" timestamp="1482770480" hash="48e95fb7c55dfbf20dabb045c9825a80" seq="2">
+        <import filename="bullet/cmu_1.9/win_amd64/bullet.cmu_1.9.win_amd64.import.xml" size="535" timestamp="1482770480" hash="7c65594fd4f496d4b40a69f67f0ff915" />
+    </package>
+    <package name="bullet" platform="win_i386" version="cmu_1.9" per_platform="1" filename="bullet/cmu_1.9/win_i386/bullet.cmu_1.9.win_i386.xml" size="1259" timestamp="1482770480" hash="133d3d229254ff9d7adb1736efd20860" seq="2">
+        <import filename="bullet/cmu_1.9/win_i386/bullet.cmu_1.9.win_i386.import.xml" size="533" timestamp="1482770480" hash="bb8ce1b3b2ca943a64eba81f1622b94e" />
+    </package>
+    <package name="certlist" per_platform="1" filename="certlist/certlist.xml" size="611" timestamp="1482770480" hash="95524f11614cb45b96ac8c6a29a3f1c5" seq="2">
+        <import filename="certlist/certlist.import.xml" size="212" timestamp="1482770480" hash="eb7e5ef5b20ba3d04ed2662920916e7e" />
+    </package>
+    <package name="coreapi" platform="linux_amd64" solo="1" filename="coreapi/linux_amd64/p3d_plugin.so" size="1898512" timestamp="1454965128" hash="26c4aef6d6ad7be8f9278f610692d408" seq="1" />
+    <package name="coreapi" platform="linux_i386" solo="1" filename="coreapi/linux_i386/p3d_plugin.so" size="1800356" timestamp="1454964137" hash="6901603ad704a4e5f5c00371534082e0" seq="1" />
+    <package name="coreapi" platform="osx_amd64" solo="1" filename="coreapi/osx_amd64/p3d_plugin.dylib" size="1179200" timestamp="1482728536" hash="6457f4bfbb65ee72263c610bd427328e" />
+    <package name="coreapi" platform="osx_i386" solo="1" filename="coreapi/osx_i386/p3d_plugin.dylib" size="1179200" timestamp="1482728534" hash="6457f4bfbb65ee72263c610bd427328e" />
+    <package name="coreapi" platform="osx_ppc" solo="1" filename="coreapi/osx_ppc/p3d_plugin.dylib" size="1879948" timestamp="1365896367" hash="c802e70a39155016b180254599a1f17c" />
+    <package name="coreapi" platform="win32" solo="1" filename="coreapi/win_i386/p3d_plugin.dll" size="914944" timestamp="1482717251" hash="e4cc8d88a828bdc9e41fc01ecf80e9b9" />
+    <package name="coreapi" platform="win_amd64" solo="1" filename="coreapi/win_amd64/p3d_plugin.dll" size="1275392" timestamp="1482728777" hash="a920a37e70009b9426bfa661485de522" />
+    <package name="coreapi" platform="win_i386" solo="1" filename="coreapi/win_i386/p3d_plugin.dll" size="914944" timestamp="1482717251" hash="e4cc8d88a828bdc9e41fc01ecf80e9b9" />
+    <package name="egg" platform="linux_amd64" version="cmu_1.7" filename="egg/cmu_1.7/linux_amd64/egg.cmu_1.7.linux_amd64.xml" size="1103" timestamp="1302902285" hash="f86d970d7158ac39cf60bd2ef263cd61" seq="2">
+        <import filename="egg/cmu_1.7/linux_amd64/egg.cmu_1.7.linux_amd64.import.xml" size="446" timestamp="1302902285" hash="05446cd8374e3cecb53b72a72f34f105" />
+    </package>
+    <package name="egg" platform="linux_amd64" version="cmu_1.8" filename="egg/cmu_1.8/linux_amd64/egg.cmu_1.8.linux_amd64.xml" size="1103" timestamp="1365894059" hash="6024def7167e33370ef591a6eb729fd7" seq="2">
+        <import filename="egg/cmu_1.8/linux_amd64/egg.cmu_1.8.linux_amd64.import.xml" size="446" timestamp="1365894059" hash="66003ec96fa76eee5d72f5a8556d7f6b" />
+    </package>
+    <package name="egg" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="egg/cmu_1.9/linux_amd64/egg.cmu_1.9.linux_amd64.xml" size="1362" timestamp="1455007777" hash="994c4ee35e12fca073fff93f50b9ee1d" seq="3">
+        <import filename="egg/cmu_1.9/linux_amd64/egg.cmu_1.9.linux_amd64.import.xml" size="570" timestamp="1455007777" hash="01845f4383fd5d21510a9ac1eab57c3f" />
+    </package>
+    <package name="egg" platform="linux_i386" version="cmu_1.7" filename="egg/cmu_1.7/linux_i386/egg.cmu_1.7.linux_i386.xml" size="1097" timestamp="1302891751" hash="bcad6c41f58ec4dd8c8069b7645c61fa" seq="2">
+        <import filename="egg/cmu_1.7/linux_i386/egg.cmu_1.7.linux_i386.import.xml" size="444" timestamp="1302891751" hash="04ae0f4b27be7a932ed0a198d15861c8" />
+    </package>
+    <package name="egg" platform="linux_i386" version="cmu_1.8" filename="egg/cmu_1.8/linux_i386/egg.cmu_1.8.linux_i386.xml" size="1097" timestamp="1365894333" hash="6465aaca141293306b544a434d9d4e86" seq="2">
+        <import filename="egg/cmu_1.8/linux_i386/egg.cmu_1.8.linux_i386.import.xml" size="444" timestamp="1365894333" hash="3b7dd665a1e68bbe877ad07a7561f4e9" />
+    </package>
+    <package name="egg" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="egg/cmu_1.9/linux_i386/egg.cmu_1.9.linux_i386.xml" size="1356" timestamp="1455007777" hash="47b757febc9cf5bab37531b4e68874f2" seq="3">
+        <import filename="egg/cmu_1.9/linux_i386/egg.cmu_1.9.linux_i386.import.xml" size="568" timestamp="1455007777" hash="963793b762295e7f9b349b6121811c7c" />
+    </package>
+    <package name="egg" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="egg/cmu_1.9/osx_amd64/egg.cmu_1.9.osx_amd64.xml" size="1475" timestamp="1482770480" hash="59b4965f4d84698ed433cb5864f6a823" seq="2">
+        <import filename="egg/cmu_1.9/osx_amd64/egg.cmu_1.9.osx_amd64.import.xml" size="609" timestamp="1482770480" hash="eccea5eb82ab1d1754c43eb1150b7144" />
+    </package>
+    <package name="egg" platform="osx_i386" version="cmu_1.7" filename="egg/cmu_1.7/osx_i386/egg.cmu_1.7.osx_i386.xml" size="1088" timestamp="1302893812" hash="ffd19d26b214ada0cf1b96e668e19dfc" seq="2">
+        <import filename="egg/cmu_1.7/osx_i386/egg.cmu_1.7.osx_i386.import.xml" size="443" timestamp="1302893812" hash="ab2072c12fb6833682d3200bee5e37a8" />
+    </package>
+    <package name="egg" platform="osx_i386" version="cmu_1.8" filename="egg/cmu_1.8/osx_i386/egg.cmu_1.8.osx_i386.xml" size="1088" timestamp="1365900217" hash="d47610fb70e53bfcc3975c509de9549e" seq="2">
+        <import filename="egg/cmu_1.8/osx_i386/egg.cmu_1.8.osx_i386.import.xml" size="443" timestamp="1365900217" hash="cf7b54724a8ca3698ccf3ca92a11b51c" />
+    </package>
+    <package name="egg" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="egg/cmu_1.9/osx_i386/egg.cmu_1.9.osx_i386.xml" size="1468" timestamp="1482770480" hash="8728d20c3bcfb95e4bc69ab65725b7d6" seq="2">
+        <import filename="egg/cmu_1.9/osx_i386/egg.cmu_1.9.osx_i386.import.xml" size="607" timestamp="1482770480" hash="e30388a8163433cc042d4402e30c5a1d" />
+    </package>
+    <package name="egg" platform="osx_ppc" version="cmu_1.7" filename="egg/cmu_1.7/osx_ppc/egg.cmu_1.7.osx_ppc.xml" size="1082" timestamp="1302893812" hash="23704aa0be8f385ee291114f82ad0c50" seq="2">
+        <import filename="egg/cmu_1.7/osx_ppc/egg.cmu_1.7.osx_ppc.import.xml" size="441" timestamp="1302893812" hash="ef7b7abc20888bba906cffce456a7434" />
+    </package>
+    <package name="egg" platform="osx_ppc" version="cmu_1.8" filename="egg/cmu_1.8/osx_ppc/egg.cmu_1.8.osx_ppc.xml" size="1082" timestamp="1365900217" hash="554a92f1003522e78a0de910b7627944" seq="2">
+        <import filename="egg/cmu_1.8/osx_ppc/egg.cmu_1.8.osx_ppc.import.xml" size="441" timestamp="1365900217" hash="64017cf6526d8c4d7f01dd575271810d" />
+    </package>
+    <package name="egg" platform="win32" version="cmu_1.7" filename="egg/cmu_1.7/win32/egg.cmu_1.7.win32.xml" size="1194" timestamp="1302892762" hash="397833481c631b8f0974697dd51e1d4d" seq="2">
+        <import filename="egg/cmu_1.7/win32/egg.cmu_1.7.win32.import.xml" size="489" timestamp="1302892762" hash="23c3483e0aec0731a0dbdfb506749c9d" />
+    </package>
+    <package name="egg" platform="win32" version="cmu_1.8" filename="egg/cmu_1.8/win32/egg.cmu_1.8.win32.xml" size="1194" timestamp="1365945993" hash="dbbffd16e4fbf53f3db03e8148cd5e40" seq="2">
+        <import filename="egg/cmu_1.8/win32/egg.cmu_1.8.win32.import.xml" size="489" timestamp="1365945993" hash="5b5aefa9e568363949182391eddc7d5e" />
+    </package>
+    <package name="egg" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="egg/cmu_1.9/win_amd64/egg.cmu_1.9.win_amd64.xml" size="1471" timestamp="1482770480" hash="611f598a8d56de8bdb3fa96c79f9af93" seq="2">
+        <import filename="egg/cmu_1.9/win_amd64/egg.cmu_1.9.win_amd64.import.xml" size="607" timestamp="1482770480" hash="84c7f7a6e3d9582f6d5dcdd5eb5517df" />
+    </package>
+    <package name="egg" platform="win_i386" version="cmu_1.9" per_platform="1" filename="egg/cmu_1.9/win_i386/egg.cmu_1.9.win_i386.xml" size="1462" timestamp="1482770480" hash="7b576c88dcd7758f8acf6a0d5a1e35de" seq="2">
+        <import filename="egg/cmu_1.9/win_i386/egg.cmu_1.9.win_i386.import.xml" size="605" timestamp="1482770480" hash="9d19a4becd7fb44421944a7cd3be897a" />
+    </package>
+    <package name="ffmpeg" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="ffmpeg/cmu_1.9/linux_amd64/ffmpeg.cmu_1.9.linux_amd64.xml" size="2828" timestamp="1455007777" hash="f1e281cc1376815452880cf54a4e6579" seq="3">
+        <import filename="ffmpeg/cmu_1.9/linux_amd64/ffmpeg.cmu_1.9.linux_amd64.import.xml" size="1083" timestamp="1455007777" hash="7f58254d70e5843efa943105aa682833" />
+    </package>
+    <package name="ffmpeg" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="ffmpeg/cmu_1.9/linux_i386/ffmpeg.cmu_1.9.linux_i386.xml" size="2821" timestamp="1455007777" hash="7d1ed6fba14e3ddd1bfef2017a6ed440" seq="3">
+        <import filename="ffmpeg/cmu_1.9/linux_i386/ffmpeg.cmu_1.9.linux_i386.import.xml" size="1081" timestamp="1455007777" hash="1bb8eb34d11219b4cea850956f31b9ec" />
+    </package>
+    <package name="ffmpeg" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="ffmpeg/cmu_1.9/osx_amd64/ffmpeg.cmu_1.9.osx_amd64.xml" size="1141" timestamp="1482770480" hash="e8c56bbf2f287e933525141eb092611f" seq="2">
+        <import filename="ffmpeg/cmu_1.9/osx_amd64/ffmpeg.cmu_1.9.osx_amd64.import.xml" size="451" timestamp="1482770480" hash="f94091d7ffb996a428a76dff72787053" />
+    </package>
+    <package name="ffmpeg" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="ffmpeg/cmu_1.9/osx_i386/ffmpeg.cmu_1.9.osx_i386.xml" size="1135" timestamp="1482770480" hash="d9d41db83f1eb5aa12ecd462287e266a" seq="2">
+        <import filename="ffmpeg/cmu_1.9/osx_i386/ffmpeg.cmu_1.9.osx_i386.import.xml" size="449" timestamp="1482770480" hash="6a4340bee7dd7a25786498f87edfb6e2" />
+    </package>
+    <package name="ffmpeg" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="ffmpeg/cmu_1.9/win_amd64/ffmpeg.cmu_1.9.win_amd64.xml" size="1735" timestamp="1482770480" hash="841287f852af44571c39e2c7d5ccda05" seq="2">
+        <import filename="ffmpeg/cmu_1.9/win_amd64/ffmpeg.cmu_1.9.win_amd64.import.xml" size="670" timestamp="1482770480" hash="047139bc602869821a8bfe448c237c58" />
+    </package>
+    <package name="ffmpeg" platform="win_i386" version="cmu_1.9" per_platform="1" filename="ffmpeg/cmu_1.9/win_i386/ffmpeg.cmu_1.9.win_i386.xml" size="1729" timestamp="1482770480" hash="8d5242406e09a740ef47214d78ac4a60" seq="2">
+        <import filename="ffmpeg/cmu_1.9/win_i386/ffmpeg.cmu_1.9.win_i386.import.xml" size="668" timestamp="1482770480" hash="b2ee06f3fe53e21abcfe4b25e0f44715" />
+    </package>
+    <package name="fmod" platform="linux_amd64" version="cmu_1.7" filename="fmod/cmu_1.7/linux_amd64/fmod.cmu_1.7.linux_amd64.xml" size="1230" timestamp="1302902285" hash="435a0f992266c82a05a1651881ef26f4" seq="2">
+        <import filename="fmod/cmu_1.7/linux_amd64/fmod.cmu_1.7.linux_amd64.import.xml" size="494" timestamp="1302902285" hash="4343b157d452731696079b8a7c971714" />
+    </package>
+    <package name="fmod" platform="linux_amd64" version="cmu_1.8" filename="fmod/cmu_1.8/linux_amd64/fmod.cmu_1.8.linux_amd64.xml" size="1230" timestamp="1365894059" hash="8bd573839150fea6bbce96044427850b" seq="2">
+        <import filename="fmod/cmu_1.8/linux_amd64/fmod.cmu_1.8.linux_amd64.import.xml" size="494" timestamp="1365894059" hash="7fc2161fd646e3463b0550283be241d4" />
+    </package>
+    <package name="fmod" platform="linux_i386" version="cmu_1.7" filename="fmod/cmu_1.7/linux_i386/fmod.cmu_1.7.linux_i386.xml" size="1224" timestamp="1302891751" hash="4b88f94121cb943b2266438f50e529bb" seq="2">
+        <import filename="fmod/cmu_1.7/linux_i386/fmod.cmu_1.7.linux_i386.import.xml" size="492" timestamp="1302891751" hash="64c4cc6ecb543e4efc80887fd18821d3" />
+    </package>
+    <package name="fmod" platform="linux_i386" version="cmu_1.8" filename="fmod/cmu_1.8/linux_i386/fmod.cmu_1.8.linux_i386.xml" size="1224" timestamp="1365894333" hash="f169c3c43d9e288d87041770d6efc4a6" seq="2">
+        <import filename="fmod/cmu_1.8/linux_i386/fmod.cmu_1.8.linux_i386.import.xml" size="492" timestamp="1365894333" hash="c95f881404a4ad13136e6f27615fd5e2" />
+    </package>
+    <package name="fmod" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="fmod/cmu_1.9/osx_amd64/fmod.cmu_1.9.osx_amd64.xml" size="1240" timestamp="1482770480" hash="82774143c623a0bd7bd24fb2132149d7" seq="2">
+        <import filename="fmod/cmu_1.9/osx_amd64/fmod.cmu_1.9.osx_amd64.import.xml" size="496" timestamp="1482770480" hash="d0be598f5f167c4ac2515e503126c544" />
+    </package>
+    <package name="fmod" platform="osx_i386" version="cmu_1.7" filename="fmod/cmu_1.7/osx_i386/fmod.cmu_1.7.osx_i386.xml" size="1213" timestamp="1302893812" hash="3266c64e0bbf209b2c68a16fbafe8928" seq="2">
+        <import filename="fmod/cmu_1.7/osx_i386/fmod.cmu_1.7.osx_i386.import.xml" size="494" timestamp="1302893812" hash="d6b4d73b16b5e808c4bf32cbbf238c0e" />
+    </package>
+    <package name="fmod" platform="osx_i386" version="cmu_1.8" filename="fmod/cmu_1.8/osx_i386/fmod.cmu_1.8.osx_i386.xml" size="1217" timestamp="1365900217" hash="fa9bbd51559ea9a095020f6f72ce4372" seq="2">
+        <import filename="fmod/cmu_1.8/osx_i386/fmod.cmu_1.8.osx_i386.import.xml" size="494" timestamp="1365900217" hash="df4cbf0b3ae6683cf0b1cbd1434ebe5a" />
+    </package>
+    <package name="fmod" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="fmod/cmu_1.9/osx_i386/fmod.cmu_1.9.osx_i386.xml" size="1234" timestamp="1482770480" hash="714b7024b814ead5850e81ca3e220888" seq="2">
+        <import filename="fmod/cmu_1.9/osx_i386/fmod.cmu_1.9.osx_i386.import.xml" size="494" timestamp="1482770480" hash="d40532d00c7ab20d3d435d47d4c449d6" />
+    </package>
+    <package name="fmod" platform="osx_ppc" version="cmu_1.7" filename="fmod/cmu_1.7/osx_ppc/fmod.cmu_1.7.osx_ppc.xml" size="1207" timestamp="1302893812" hash="07ab506bccce9a819756a2a5f6f11997" seq="2">
+        <import filename="fmod/cmu_1.7/osx_ppc/fmod.cmu_1.7.osx_ppc.import.xml" size="492" timestamp="1302893812" hash="5f56c0a50d26132ee6270137e8aa7808" />
+    </package>
+    <package name="fmod" platform="osx_ppc" version="cmu_1.8" filename="fmod/cmu_1.8/osx_ppc/fmod.cmu_1.8.osx_ppc.xml" size="1087" timestamp="1365900217" hash="0cd030c0115a902ee440042de1e99719" seq="2">
+        <import filename="fmod/cmu_1.8/osx_ppc/fmod.cmu_1.8.osx_ppc.import.xml" size="447" timestamp="1365900217" hash="52e9378d77cb73c2750e01cae8ac9b56" />
+    </package>
+    <package name="fmod" platform="win32" version="cmu_1.7" filename="fmod/cmu_1.7/win32/fmod.cmu_1.7.win32.xml" size="1433" timestamp="1302892762" hash="9812560e08a654e5efa8cbf5e1b81f9a" seq="2">
+        <import filename="fmod/cmu_1.7/win32/fmod.cmu_1.7.win32.import.xml" size="580" timestamp="1302892762" hash="91dc79e5b658e239d20edc391ed5b796" />
+    </package>
+    <package name="fmod" platform="win32" version="cmu_1.8" filename="fmod/cmu_1.8/win32/fmod.cmu_1.8.win32.xml" size="1318" timestamp="1365945993" hash="8d12234ecbc4e5d8f21a0df230a224ff" seq="2">
+        <import filename="fmod/cmu_1.8/win32/fmod.cmu_1.8.win32.import.xml" size="539" timestamp="1365945993" hash="f0b6b282819f5c6b72277ee26c6c87e9" />
+    </package>
+    <package name="fmod" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="fmod/cmu_1.9/win_amd64/fmod.cmu_1.9.win_amd64.xml" size="1235" timestamp="1482770480" hash="e8fa2b161dfa494b55b143ff4b80ef59" seq="2">
+        <import filename="fmod/cmu_1.9/win_amd64/fmod.cmu_1.9.win_amd64.import.xml" size="491" timestamp="1482770480" hash="92a0576b06696bf50ed64fc2af3feef1" />
+    </package>
+    <package name="fmod" platform="win_i386" version="cmu_1.9" per_platform="1" filename="fmod/cmu_1.9/win_i386/fmod.cmu_1.9.win_i386.xml" size="1227" timestamp="1482770480" hash="a4d04f1e511d4dbf403d5263cd22f207" seq="2">
+        <import filename="fmod/cmu_1.9/win_i386/fmod.cmu_1.9.win_i386.import.xml" size="487" timestamp="1482770480" hash="30a418aa0207fdc9aba0b12a76f3ba02" />
+    </package>
+    <package name="httplib2" version="cmu_1.7" filename="httplib2/cmu_1.7/httplib2.cmu_1.7.xml" size="789" timestamp="1302893812" hash="8e81c64ec7d3f73c37a098c1f285ffe1" seq="3">
+        <import filename="httplib2/cmu_1.7/httplib2.cmu_1.7.import.xml" size="505" timestamp="1302893812" hash="373766a6059bf6dc7b8b4fa3d929940f" />
+    </package>
+    <package name="httplib2" version="cmu_1.8" filename="httplib2/cmu_1.8/httplib2.cmu_1.8.xml" size="792" timestamp="1365945993" hash="26357e1a1ee0278cea3ae8ce8c002a8e" seq="2">
+        <import filename="httplib2/cmu_1.8/httplib2.cmu_1.8.import.xml" size="542" timestamp="1365945993" hash="b861fac522e5eb6734e6e7168ecf5281" />
+    </package>
+    <package name="httplib2" version="cmu_1.9" per_platform="1" filename="httplib2/cmu_1.9/httplib2.cmu_1.9.xml" size="809" timestamp="1455007777" hash="3360ab42470058d95eff64e77df6d05b" seq="3">
+        <import filename="httplib2/cmu_1.9/httplib2.cmu_1.9.import.xml" size="542" timestamp="1455007777" hash="4877581dc6126486b4805afbe25ce121" />
+    </package>
+    <package name="httplib2" platform="linux_amd64" version="cmu_1.7" filename="httplib2/cmu_1.7/linux_amd64/httplib2.cmu_1.7.linux_amd64.xml" size="1001" timestamp="1302902285" hash="f17b07d9623ff3f5b4b5e49a433b6fd7" seq="2">
+        <import filename="httplib2/cmu_1.7/linux_amd64/httplib2.cmu_1.7.linux_amd64.import.xml" size="623" timestamp="1302902285" hash="a4ec7cc455d7bf78514376352dbea0d1" />
+    </package>
+    <package name="httplib2" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="httplib2/cmu_1.9/linux_amd64/httplib2.cmu_1.9.linux_amd64.xml" size="1018" timestamp="1448450508" hash="fe5ff82d9efd2ab5fb423a974fad5dfb" seq="6">
+        <import filename="httplib2/cmu_1.9/linux_amd64/httplib2.cmu_1.9.linux_amd64.import.xml" size="1528" timestamp="1448450508" hash="5b7890ad271361c9e95b7bd571b28928" />
+    </package>
+    <package name="httplib2" platform="linux_i386" version="cmu_1.7" filename="httplib2/cmu_1.7/linux_i386/httplib2.cmu_1.7.linux_i386.xml" size="995" timestamp="1302891751" hash="61321220dcbf056fd9ca4996975ca699" seq="2">
+        <import filename="httplib2/cmu_1.7/linux_i386/httplib2.cmu_1.7.linux_i386.import.xml" size="621" timestamp="1302891751" hash="661659bcb1a1e892749f224d4f5b0e6d" />
+    </package>
+    <package name="httplib2" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="httplib2/cmu_1.9/linux_i386/httplib2.cmu_1.9.linux_i386.xml" size="1012" timestamp="1448450508" hash="e5c4ef6c831892c1b0f11183496ea399" seq="5">
+        <import filename="httplib2/cmu_1.9/linux_i386/httplib2.cmu_1.9.linux_i386.import.xml" size="1526" timestamp="1448450508" hash="db66c6e2a81f8dd5df10861dcdb809e6" />
+    </package>
+    <package name="images" per_platform="1" filename="images/images.xml" size="1925" timestamp="1482770480" hash="9992cd748d25aec778444eb0e9700dea" seq="2">
+        <import filename="images/images.import.xml" size="562" timestamp="1482770480" hash="48ae30fdf05ca4a8a36bead30f61d6fe" />
+    </package>
+    <package name="models" version="cmu_1.7" filename="models/cmu_1.7/models.cmu_1.7.xml" size="700" timestamp="1302902285" hash="397e5366f100d10441aa97f6a68d5ca2" seq="2">
+        <import filename="models/cmu_1.7/models.cmu_1.7.import.xml" size="3139" timestamp="1302902285" hash="1ad73a99965c90d9324f3b78c5b7a9ae" />
+    </package>
+    <package name="models" version="cmu_1.8" filename="models/cmu_1.8/models.cmu_1.8.xml" size="700" timestamp="1365945993" hash="a1ff5c5f4680fd39e269bccc06a6569f" seq="2">
+        <import filename="models/cmu_1.8/models.cmu_1.8.import.xml" size="3608" timestamp="1365945993" hash="7be359aad9bb167ddec6bbc0661b4754" />
+    </package>
+    <package name="models" version="cmu_1.9" per_platform="1" filename="models/cmu_1.9/models.cmu_1.9.xml" size="828" timestamp="1482770480" hash="cafaeedde82ebbcf6e1544e0c7db21a7" seq="2">
+        <import filename="models/cmu_1.9/models.cmu_1.9.import.xml" size="4102" timestamp="1482770480" hash="72558cd3c39a329e57aa28064e954cde" />
+    </package>
+    <package name="morepy" platform="linux_amd64" version="cmu_1.7" filename="morepy/cmu_1.7/linux_amd64/morepy.cmu_1.7.linux_amd64.xml" size="4708" timestamp="1302902285" hash="9c82ce3dc48cd663dbf09e54006821b7" seq="2">
+        <import filename="morepy/cmu_1.7/linux_amd64/morepy.cmu_1.7.linux_amd64.import.xml" size="16271" timestamp="1302902285" hash="1991af640bf312a4068f0e44034a0093" />
+    </package>
+    <package name="morepy" platform="linux_amd64" version="cmu_1.8" filename="morepy/cmu_1.8/linux_amd64/morepy.cmu_1.8.linux_amd64.xml" size="4595" timestamp="1365894059" hash="f6dc16f9f5f527a8277d59ba44c94c6d" seq="2">
+        <import filename="morepy/cmu_1.8/linux_amd64/morepy.cmu_1.8.linux_amd64.import.xml" size="16631" timestamp="1365894059" hash="507184cfed4337fb00386351e65a1d65" />
+    </package>
+    <package name="morepy" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="morepy/cmu_1.9/linux_amd64/morepy.cmu_1.9.linux_amd64.xml" size="5340" timestamp="1455007777" hash="25d6036fcbc6306ae7a41534b118d60c" seq="3">
+        <import filename="morepy/cmu_1.9/linux_amd64/morepy.cmu_1.9.linux_amd64.import.xml" size="16730" timestamp="1455007777" hash="731411a12069e2f9c8317b4ee11e1377" />
+    </package>
+    <package name="morepy" platform="linux_i386" version="cmu_1.7" filename="morepy/cmu_1.7/linux_i386/morepy.cmu_1.7.linux_i386.xml" size="4919" timestamp="1302891751" hash="3ad948441583d2a2897d07ea0d1914a0" seq="2">
+        <import filename="morepy/cmu_1.7/linux_i386/morepy.cmu_1.7.linux_i386.import.xml" size="16344" timestamp="1302891751" hash="b3bf67db43d53d7b8f8bf33e6b157995" />
+    </package>
+    <package name="morepy" platform="linux_i386" version="cmu_1.8" filename="morepy/cmu_1.8/linux_i386/morepy.cmu_1.8.linux_i386.xml" size="4807" timestamp="1365894333" hash="4efd1008751a2f9c998ef8a6c0c89600" seq="2">
+        <import filename="morepy/cmu_1.8/linux_i386/morepy.cmu_1.8.linux_i386.import.xml" size="16704" timestamp="1365894333" hash="c094bb29c3271bd39890fd2fc41bf92f" />
+    </package>
+    <package name="morepy" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="morepy/cmu_1.9/linux_i386/morepy.cmu_1.9.linux_i386.xml" size="5553" timestamp="1455007777" hash="c61f8a686ef61abfe20567f453e457ca" seq="3">
+        <import filename="morepy/cmu_1.9/linux_i386/morepy.cmu_1.9.linux_i386.import.xml" size="16803" timestamp="1455007777" hash="08d433491689bd423579dfd0dfcafce8" />
+    </package>
+    <package name="morepy" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="morepy/cmu_1.9/osx_amd64/morepy.cmu_1.9.osx_amd64.xml" size="5168" timestamp="1482770480" hash="cdae0febe9b3b953beb6d7c338006508" seq="2">
+        <import filename="morepy/cmu_1.9/osx_amd64/morepy.cmu_1.9.osx_amd64.import.xml" size="17163" timestamp="1482770480" hash="6b7f46777b94cc4b0d841bebfc3ce1df" />
+    </package>
+    <package name="morepy" platform="osx_i386" version="cmu_1.7" filename="morepy/cmu_1.7/osx_i386/morepy.cmu_1.7.osx_i386.xml" size="5346" timestamp="1302893812" hash="97e5926af90f6a7f370f170c5ef2eff4" seq="2">
+        <import filename="morepy/cmu_1.7/osx_i386/morepy.cmu_1.7.osx_i386.import.xml" size="17129" timestamp="1302893812" hash="c92832f3b877fe796250af77ba8c1473" />
+    </package>
+    <package name="morepy" platform="osx_i386" version="cmu_1.8" filename="morepy/cmu_1.8/osx_i386/morepy.cmu_1.8.osx_i386.xml" size="4905" timestamp="1365900217" hash="b070ffbea7afde8cb418e0f4f62495b6" seq="2">
+        <import filename="morepy/cmu_1.8/osx_i386/morepy.cmu_1.8.osx_i386.import.xml" size="16998" timestamp="1365900217" hash="6b05d90ba317e47a4a4dac85d4f9c1a3" />
+    </package>
+    <package name="morepy" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="morepy/cmu_1.9/osx_i386/morepy.cmu_1.9.osx_i386.xml" size="5163" timestamp="1482770480" hash="0a39594cace45d60f4bf5f0c2e7a03c1" seq="2">
+        <import filename="morepy/cmu_1.9/osx_i386/morepy.cmu_1.9.osx_i386.import.xml" size="17161" timestamp="1482770480" hash="f2f14e52214c02dfc3f7f2f430f77395" />
+    </package>
+    <package name="morepy" platform="osx_ppc" version="cmu_1.7" filename="morepy/cmu_1.7/osx_ppc/morepy.cmu_1.7.osx_ppc.xml" size="5337" timestamp="1302893812" hash="e569dbac7f5bdea60313104f82a8e280" seq="2">
+        <import filename="morepy/cmu_1.7/osx_ppc/morepy.cmu_1.7.osx_ppc.import.xml" size="17127" timestamp="1302893812" hash="7afd6ad94d6221acb170da0a03f91bea" />
+    </package>
+    <package name="morepy" platform="osx_ppc" version="cmu_1.8" filename="morepy/cmu_1.8/osx_ppc/morepy.cmu_1.8.osx_ppc.xml" size="4896" timestamp="1365900217" hash="60a3a3d0510a39edae9b4de89c3a8763" seq="2">
+        <import filename="morepy/cmu_1.8/osx_ppc/morepy.cmu_1.8.osx_ppc.import.xml" size="16996" timestamp="1365900217" hash="5fbb4e962c794ed3e2c6b266d601e9bc" />
+    </package>
+    <package name="morepy" platform="win32" version="cmu_1.7" filename="morepy/cmu_1.7/win32/morepy.cmu_1.7.win32.xml" size="2358" timestamp="1302892762" hash="2232c8e49b43969263f3bf6b58631713" seq="2">
+        <import filename="morepy/cmu_1.7/win32/morepy.cmu_1.7.win32.import.xml" size="15864" timestamp="1302892762" hash="f938562f806d11e410df7fdccc3d1352" />
+    </package>
+    <package name="morepy" platform="win32" version="cmu_1.8" filename="morepy/cmu_1.8/win32/morepy.cmu_1.8.win32.xml" size="2359" timestamp="1365945993" hash="5741bede1e0103e3ea7950c1a0f535cb" seq="2">
+        <import filename="morepy/cmu_1.8/win32/morepy.cmu_1.8.win32.import.xml" size="15846" timestamp="1365945993" hash="198849d94574e19fefd398a265cbd8ca" />
+    </package>
+    <package name="morepy" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="morepy/cmu_1.9/win_amd64/morepy.cmu_1.9.win_amd64.xml" size="2176" timestamp="1482770480" hash="77f7b295c5771ca5329a6903930d17d9" seq="2">
+        <import filename="morepy/cmu_1.9/win_amd64/morepy.cmu_1.9.win_amd64.import.xml" size="15676" timestamp="1482770480" hash="39c664ff5049572133bf3664b3179e41" />
+    </package>
+    <package name="morepy" platform="win_i386" version="cmu_1.9" per_platform="1" filename="morepy/cmu_1.9/win_i386/morepy.cmu_1.9.win_i386.xml" size="2168" timestamp="1482770480" hash="606608cd462e6822c62b5e7c47a7334c" seq="2">
+        <import filename="morepy/cmu_1.9/win_i386/morepy.cmu_1.9.win_i386.import.xml" size="15674" timestamp="1482770480" hash="37c9f31ea3a72551d6104c758cc84ca8" />
+    </package>
+    <package name="numpy" platform="linux_amd64" version="cmu_1.7" filename="numpy/cmu_1.7/linux_amd64/numpy.cmu_1.7.linux_amd64.xml" size="2704" timestamp="1302902285" hash="66b821325b5aa115cab2a289c9a42b73" seq="2">
+        <import filename="numpy/cmu_1.7/linux_amd64/numpy.cmu_1.7.linux_amd64.import.xml" size="6831" timestamp="1302902285" hash="6f536f3570c325e9950693aeaf2eb93f" />
+    </package>
+    <package name="numpy" platform="linux_amd64" version="cmu_1.8" filename="numpy/cmu_1.8/linux_amd64/numpy.cmu_1.8.linux_amd64.xml" size="2466" timestamp="1365894059" hash="9c869f775e9dc3eefbeaa0c195b18deb" seq="2">
+        <import filename="numpy/cmu_1.8/linux_amd64/numpy.cmu_1.8.linux_amd64.import.xml" size="10745" timestamp="1365894059" hash="c0d0c76f1d583c6bfda72ba1728cab59" />
+    </package>
+    <package name="numpy" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="numpy/cmu_1.9/linux_amd64/numpy.cmu_1.9.linux_amd64.xml" size="4159" timestamp="1455007777" hash="593d4641c324f3a3bdf8eb5bdcb83705" seq="3">
+        <import filename="numpy/cmu_1.9/linux_amd64/numpy.cmu_1.9.linux_amd64.import.xml" size="11598" timestamp="1455007777" hash="ac4c9121d40fc77f3792a93e0daf139b" />
+    </package>
+    <package name="numpy" platform="linux_i386" version="cmu_1.7" filename="numpy/cmu_1.7/linux_i386/numpy.cmu_1.7.linux_i386.xml" size="2695" timestamp="1302891751" hash="0d35d91ebc351c0c5ab73af39d3bb7e5" seq="2">
+        <import filename="numpy/cmu_1.7/linux_i386/numpy.cmu_1.7.linux_i386.import.xml" size="6829" timestamp="1302891751" hash="446836809a43c78d24d513d26efe5a4f" />
+    </package>
+    <package name="numpy" platform="linux_i386" version="cmu_1.8" filename="numpy/cmu_1.8/linux_i386/numpy.cmu_1.8.linux_i386.xml" size="2457" timestamp="1365894333" hash="42e1904620a86ac12c33f0fd83990d7c" seq="2">
+        <import filename="numpy/cmu_1.8/linux_i386/numpy.cmu_1.8.linux_i386.import.xml" size="10743" timestamp="1365894333" hash="42f4c4486468fb894ceadc2028ac559f" />
+    </package>
+    <package name="numpy" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="numpy/cmu_1.9/linux_i386/numpy.cmu_1.9.linux_i386.xml" size="4151" timestamp="1455007777" hash="2bd1323ef3774b75f8af5511994eee2b" seq="3">
+        <import filename="numpy/cmu_1.9/linux_i386/numpy.cmu_1.9.linux_i386.import.xml" size="11596" timestamp="1455007777" hash="35e0de7a88ad74ebd69d6a702dec1548" />
+    </package>
+    <package name="numpy" platform="osx_i386" version="cmu_1.7" filename="numpy/cmu_1.7/osx_i386/numpy.cmu_1.7.osx_i386.xml" size="2797" timestamp="1302893812" hash="473e8d71a192c5059b37d9d2b9337250" seq="2">
+        <import filename="numpy/cmu_1.7/osx_i386/numpy.cmu_1.7.osx_i386.import.xml" size="6224" timestamp="1302893812" hash="42858c49e3f40d23448b580531afdf88" />
+    </package>
+    <package name="numpy" platform="osx_i386" version="cmu_1.8" filename="numpy/cmu_1.8/osx_i386/numpy.cmu_1.8.osx_i386.xml" size="2680" timestamp="1365900217" hash="c92a1a566d98f169a5e453571b7f5c90" seq="2">
+        <import filename="numpy/cmu_1.8/osx_i386/numpy.cmu_1.8.osx_i386.import.xml" size="10903" timestamp="1365900217" hash="33a7b50dc6c2055cb2420f3fd3cf64dd" />
+    </package>
+    <package name="numpy" platform="osx_ppc" version="cmu_1.7" filename="numpy/cmu_1.7/osx_ppc/numpy.cmu_1.7.osx_ppc.xml" size="2791" timestamp="1302893812" hash="e0f6520002dc73fb32ea14649cede23f" seq="2">
+        <import filename="numpy/cmu_1.7/osx_ppc/numpy.cmu_1.7.osx_ppc.import.xml" size="6222" timestamp="1302893812" hash="cf658d655445d566335eedf84e812fb0" />
+    </package>
+    <package name="numpy" platform="osx_ppc" version="cmu_1.8" filename="numpy/cmu_1.8/osx_ppc/numpy.cmu_1.8.osx_ppc.xml" size="2674" timestamp="1365900217" hash="f76ccea1347cc35d9eb3a41acd166e92" seq="2">
+        <import filename="numpy/cmu_1.8/osx_ppc/numpy.cmu_1.8.osx_ppc.import.xml" size="10901" timestamp="1365900217" hash="5b798cd796786640071b62186038666e" />
+    </package>
+    <package name="numpy" platform="win32" version="cmu_1.7" filename="numpy/cmu_1.7/win32/numpy.cmu_1.7.win32.xml" size="2468" timestamp="1302892763" hash="d364911c071539b2e25fd99ec8421f14" seq="2">
+        <import filename="numpy/cmu_1.7/win32/numpy.cmu_1.7.win32.import.xml" size="6134" timestamp="1302892763" hash="1cb0b33549cf266aaab96ade2f3de51c" />
+    </package>
+    <package name="numpy" platform="win32" version="cmu_1.8" filename="numpy/cmu_1.8/win32/numpy.cmu_1.8.win32.xml" size="2473" timestamp="1365945993" hash="3c9dcf65886d08b573c73c8330bd2547" seq="2">
+        <import filename="numpy/cmu_1.8/win32/numpy.cmu_1.8.win32.import.xml" size="11713" timestamp="1365945993" hash="4d6c9718010f7eff97cd3ae68518c7e3" />
+    </package>
+    <package name="ode" platform="linux_amd64" version="cmu_1.7" filename="ode/cmu_1.7/linux_amd64/ode.cmu_1.7.linux_amd64.xml" size="1018" timestamp="1302902285" hash="232f1d99df06ba4a379cd9d9a99d21cb" seq="2">
+        <import filename="ode/cmu_1.7/linux_amd64/ode.cmu_1.7.linux_amd64.import.xml" size="409" timestamp="1302902285" hash="5f5cb109df70ef4e65ff03f0c01b2e35" />
+    </package>
+    <package name="ode" platform="linux_amd64" version="cmu_1.8" filename="ode/cmu_1.8/linux_amd64/ode.cmu_1.8.linux_amd64.xml" size="1018" timestamp="1365894059" hash="af37baad0417d441e2c4013453a2de73" seq="2">
+        <import filename="ode/cmu_1.8/linux_amd64/ode.cmu_1.8.linux_amd64.import.xml" size="409" timestamp="1365894059" hash="741da4ec2f18e89e99f62509c93c65f5" />
+    </package>
+    <package name="ode" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="ode/cmu_1.9/linux_amd64/ode.cmu_1.9.linux_amd64.xml" size="1268" timestamp="1455007777" hash="45fea4f5547ca1e80f2ef645c1ebc28d" seq="3">
+        <import filename="ode/cmu_1.9/linux_amd64/ode.cmu_1.9.linux_amd64.import.xml" size="528" timestamp="1455007777" hash="56d8a4133cd1b6cab9f88d080c0ac14a" />
+    </package>
+    <package name="ode" platform="linux_i386" version="cmu_1.7" filename="ode/cmu_1.7/linux_i386/ode.cmu_1.7.linux_i386.xml" size="1012" timestamp="1302891751" hash="915fd9115010e37660a9da9e32d1b6cb" seq="2">
+        <import filename="ode/cmu_1.7/linux_i386/ode.cmu_1.7.linux_i386.import.xml" size="407" timestamp="1302891751" hash="3afd873bf447990c3f87a51b023e1d42" />
+    </package>
+    <package name="ode" platform="linux_i386" version="cmu_1.8" filename="ode/cmu_1.8/linux_i386/ode.cmu_1.8.linux_i386.xml" size="1012" timestamp="1365894333" hash="f49d0baeb969f7ead89e07f0b055910a" seq="2">
+        <import filename="ode/cmu_1.8/linux_i386/ode.cmu_1.8.linux_i386.import.xml" size="407" timestamp="1365894333" hash="356008a058792a82212055678c40d8de" />
+    </package>
+    <package name="ode" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="ode/cmu_1.9/linux_i386/ode.cmu_1.9.linux_i386.xml" size="1262" timestamp="1455007777" hash="e4bd3aed72fd06edc82495c572d334cd" seq="3">
+        <import filename="ode/cmu_1.9/linux_i386/ode.cmu_1.9.linux_i386.import.xml" size="526" timestamp="1455007777" hash="081d5be0a101b7dd641323e89e7e9b11" />
+    </package>
+    <package name="ode" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="ode/cmu_1.9/osx_amd64/ode.cmu_1.9.osx_amd64.xml" size="1262" timestamp="1482770480" hash="86aa6725cc9ab701396901b86188b3f3" seq="2">
+        <import filename="ode/cmu_1.9/osx_amd64/ode.cmu_1.9.osx_amd64.import.xml" size="523" timestamp="1482770480" hash="a3e6e70d30aba71fd108e5f95c4ba981" />
+    </package>
+    <package name="ode" platform="osx_i386" version="cmu_1.7" filename="ode/cmu_1.7/osx_i386/ode.cmu_1.7.osx_i386.xml" size="1002" timestamp="1302893812" hash="faffc9e3c601eb61e6f4e548ddd42299" seq="2">
+        <import filename="ode/cmu_1.7/osx_i386/ode.cmu_1.7.osx_i386.import.xml" size="406" timestamp="1302893812" hash="e835953f70632a2d78389171ea2fa4c0" />
+    </package>
+    <package name="ode" platform="osx_i386" version="cmu_1.8" filename="ode/cmu_1.8/osx_i386/ode.cmu_1.8.osx_i386.xml" size="1002" timestamp="1365900217" hash="8de91d7826390e3c773d2e4fdfb6db10" seq="2">
+        <import filename="ode/cmu_1.8/osx_i386/ode.cmu_1.8.osx_i386.import.xml" size="406" timestamp="1365900217" hash="3d4b5c37741186d88b6a06765d29dd85" />
+    </package>
+    <package name="ode" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="ode/cmu_1.9/osx_i386/ode.cmu_1.9.osx_i386.xml" size="1255" timestamp="1482770480" hash="85e29302210a3321c405ceac4fbbdbbe" seq="2">
+        <import filename="ode/cmu_1.9/osx_i386/ode.cmu_1.9.osx_i386.import.xml" size="521" timestamp="1482770480" hash="aa6e8e9eb9ae4c14277eff3b797a127f" />
+    </package>
+    <package name="ode" platform="osx_ppc" version="cmu_1.7" filename="ode/cmu_1.7/osx_ppc/ode.cmu_1.7.osx_ppc.xml" size="996" timestamp="1302893812" hash="bab0003dae63b392dee87e9cbd2e6f1a" seq="2">
+        <import filename="ode/cmu_1.7/osx_ppc/ode.cmu_1.7.osx_ppc.import.xml" size="404" timestamp="1302893812" hash="13d037f87d4bf45239bfca3a61be8b56" />
+    </package>
+    <package name="ode" platform="osx_ppc" version="cmu_1.8" filename="ode/cmu_1.8/osx_ppc/ode.cmu_1.8.osx_ppc.xml" size="996" timestamp="1365900217" hash="ba83939e48a2425d19866564b17515dd" seq="2">
+        <import filename="ode/cmu_1.8/osx_ppc/ode.cmu_1.8.osx_ppc.import.xml" size="404" timestamp="1365900217" hash="eb0cf5550ff00b03260355d50236f634" />
+    </package>
+    <package name="ode" platform="win32" version="cmu_1.7" filename="ode/cmu_1.7/win32/ode.cmu_1.7.win32.xml" size="1108" timestamp="1302892763" hash="3c538742a30fb52361f6f035e3e1d9ff" seq="2">
+        <import filename="ode/cmu_1.7/win32/ode.cmu_1.7.win32.import.xml" size="452" timestamp="1302892763" hash="5004f6a1aba29368276b960a706462fd" />
+    </package>
+    <package name="ode" platform="win32" version="cmu_1.8" filename="ode/cmu_1.8/win32/ode.cmu_1.8.win32.xml" size="1108" timestamp="1365945993" hash="7d5a23beafd5c5c45fd0f990e0e35df6" seq="2">
+        <import filename="ode/cmu_1.8/win32/ode.cmu_1.8.win32.import.xml" size="452" timestamp="1365945993" hash="2d6d41eceb87fc835adb0fd7cb01074a" />
+    </package>
+    <package name="ode" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="ode/cmu_1.9/win_amd64/ode.cmu_1.9.win_amd64.xml" size="1260" timestamp="1482770480" hash="38403fb583a2fcebe3bd1a4dfd922b00" seq="2">
+        <import filename="ode/cmu_1.9/win_amd64/ode.cmu_1.9.win_amd64.import.xml" size="523" timestamp="1482770480" hash="4016fd9b72cc7924d19792972efc983d" />
+    </package>
+    <package name="ode" platform="win_i386" version="cmu_1.9" per_platform="1" filename="ode/cmu_1.9/win_i386/ode.cmu_1.9.win_i386.xml" size="1251" timestamp="1482770480" hash="638213f42a1ffb163cd9f2aca9463413" seq="2">
+        <import filename="ode/cmu_1.9/win_i386/ode.cmu_1.9.win_i386.import.xml" size="521" timestamp="1482770480" hash="8bddefc1dce2d1e71c41a2578c2934fb" />
+    </package>
+    <package name="openal" platform="linux_amd64" version="cmu_1.7" filename="openal/cmu_1.7/linux_amd64/openal.cmu_1.7.linux_amd64.xml" size="1244" timestamp="1302902285" hash="474198ac99b2ebcc5c43b46f32f3053d" seq="2">
+        <import filename="openal/cmu_1.7/linux_amd64/openal.cmu_1.7.linux_amd64.import.xml" size="502" timestamp="1302902285" hash="8a951b2ab1656abfb7b43b0d4ced1799" />
+    </package>
+    <package name="openal" platform="linux_amd64" version="cmu_1.8" filename="openal/cmu_1.8/linux_amd64/openal.cmu_1.8.linux_amd64.xml" size="1244" timestamp="1365894059" hash="bc0d916d5857b66706b6ade1ea6feb7d" seq="2">
+        <import filename="openal/cmu_1.8/linux_amd64/openal.cmu_1.8.linux_amd64.import.xml" size="502" timestamp="1365894059" hash="5f4983398d92df47798df0ca2bf31fb0" />
+    </package>
+    <package name="openal" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="openal/cmu_1.9/linux_amd64/openal.cmu_1.9.linux_amd64.xml" size="1260" timestamp="1482770433" hash="fd58c999586aebfcb5fd6471f5ed7ec7" seq="3">
+        <import filename="openal/cmu_1.9/linux_amd64/openal.cmu_1.9.linux_amd64.import.xml" size="502" timestamp="1469011368" hash="cd04c653255afb94c9de389cdea64141" />
+    </package>
+    <package name="openal" platform="linux_i386" version="cmu_1.7" filename="openal/cmu_1.7/linux_i386/openal.cmu_1.7.linux_i386.xml" size="1238" timestamp="1302891751" hash="b4b82511e7b2b0569d62f88470abbd39" seq="2">
+        <import filename="openal/cmu_1.7/linux_i386/openal.cmu_1.7.linux_i386.import.xml" size="500" timestamp="1302891751" hash="20d78adb947a5fc0f37ada69fabef1b9" />
+    </package>
+    <package name="openal" platform="linux_i386" version="cmu_1.8" filename="openal/cmu_1.8/linux_i386/openal.cmu_1.8.linux_i386.xml" size="1238" timestamp="1365894333" hash="aac7d59e7bc57009cbc88190780da619" seq="2">
+        <import filename="openal/cmu_1.8/linux_i386/openal.cmu_1.8.linux_i386.import.xml" size="500" timestamp="1365894333" hash="fcb017ffa6fea2f3ae6b45f54204a68f" />
+    </package>
+    <package name="openal" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="openal/cmu_1.9/linux_i386/openal.cmu_1.9.linux_i386.xml" size="1254" timestamp="1482770433" hash="a202da99bd9d5e055a06d915d3969801" seq="3">
+        <import filename="openal/cmu_1.9/linux_i386/openal.cmu_1.9.linux_i386.import.xml" size="500" timestamp="1469011368" hash="f7ebc8b3f3c6a919cd2de024823e5792" />
+    </package>
+    <package name="openal" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="openal/cmu_1.9/osx_amd64/openal.cmu_1.9.osx_amd64.xml" size="1132" timestamp="1482770480" hash="9935910094d8ee11fb94c5ba7ff71f57" seq="2">
+        <import filename="openal/cmu_1.9/osx_amd64/openal.cmu_1.9.osx_amd64.import.xml" size="457" timestamp="1482770480" hash="57afe857eaf3eeab9da99281a6e74624" />
+    </package>
+    <package name="openal" platform="osx_i386" version="cmu_1.7" filename="openal/cmu_1.7/osx_i386/openal.cmu_1.7.osx_i386.xml" size="1109" timestamp="1302893812" hash="0ef00ae347a4b28f63f382761181cfd0" seq="2">
+        <import filename="openal/cmu_1.7/osx_i386/openal.cmu_1.7.osx_i386.import.xml" size="455" timestamp="1302893812" hash="692a03647f47b0694da8ad5031fff518" />
+    </package>
+    <package name="openal" platform="osx_i386" version="cmu_1.8" filename="openal/cmu_1.8/osx_i386/openal.cmu_1.8.osx_i386.xml" size="1109" timestamp="1365900217" hash="e14cbfca3e64f901cb5fbcd4e61e7fcf" seq="2">
+        <import filename="openal/cmu_1.8/osx_i386/openal.cmu_1.8.osx_i386.import.xml" size="455" timestamp="1365900217" hash="592f191a30208aaa3ed35e03bf7ca9bd" />
+    </package>
+    <package name="openal" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="openal/cmu_1.9/osx_i386/openal.cmu_1.9.osx_i386.xml" size="1122" timestamp="1482770480" hash="2e3bbd12304e16111ba057831a17a738" seq="2">
+        <import filename="openal/cmu_1.9/osx_i386/openal.cmu_1.9.osx_i386.import.xml" size="455" timestamp="1482770480" hash="ca6eccc975db21749e105a4c29ce5375" />
+    </package>
+    <package name="openal" platform="osx_ppc" version="cmu_1.7" filename="openal/cmu_1.7/osx_ppc/openal.cmu_1.7.osx_ppc.xml" size="1103" timestamp="1302893812" hash="4645d83a52ff6c0cd0854458dcb23f72" seq="2">
+        <import filename="openal/cmu_1.7/osx_ppc/openal.cmu_1.7.osx_ppc.import.xml" size="453" timestamp="1302893812" hash="961b487d488fb4d61b4460e7132552f9" />
+    </package>
+    <package name="openal" platform="osx_ppc" version="cmu_1.8" filename="openal/cmu_1.8/osx_ppc/openal.cmu_1.8.osx_ppc.xml" size="1103" timestamp="1365900217" hash="9155005b69801a13264e0a72e63e5130" seq="2">
+        <import filename="openal/cmu_1.8/osx_ppc/openal.cmu_1.8.osx_ppc.import.xml" size="453" timestamp="1365900217" hash="bf0559544eb133612bb800466fed837c" />
+    </package>
+    <package name="openal" platform="win32" version="cmu_1.7" filename="openal/cmu_1.7/win32/openal.cmu_1.7.win32.xml" size="1339" timestamp="1302892763" hash="e2d2870568dda06fb84398b505f99d90" seq="2">
+        <import filename="openal/cmu_1.7/win32/openal.cmu_1.7.win32.import.xml" size="549" timestamp="1302892763" hash="d89139b0f78d31d92e577ca4d0221e4d" />
+    </package>
+    <package name="openal" platform="win32" version="cmu_1.8" filename="openal/cmu_1.8/win32/openal.cmu_1.8.win32.xml" size="1339" timestamp="1365945993" hash="a200d2ad88ce3a6db9d67ad09219ac96" seq="2">
+        <import filename="openal/cmu_1.8/win32/openal.cmu_1.8.win32.import.xml" size="549" timestamp="1365945993" hash="755cf15792b1c1793ebe73ca8c7ae192" />
+    </package>
+    <package name="openal" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="openal/cmu_1.9/win_amd64/openal.cmu_1.9.win_amd64.xml" size="1247" timestamp="1482770480" hash="64f41ac81053245f5d59235c92109cd4" seq="2">
+        <import filename="openal/cmu_1.9/win_amd64/openal.cmu_1.9.win_amd64.import.xml" size="497" timestamp="1482770480" hash="8d20c61a46f1013faf63baff53c1b590" />
+    </package>
+    <package name="openal" platform="win_i386" version="cmu_1.9" per_platform="1" filename="openal/cmu_1.9/win_i386/openal.cmu_1.9.win_i386.xml" size="1241" timestamp="1482770480" hash="335443f8f9c4716ba83599876dbae4a4" seq="2">
+        <import filename="openal/cmu_1.9/win_i386/openal.cmu_1.9.win_i386.import.xml" size="495" timestamp="1482770480" hash="577c1f5cb436349b135e0a32c5ff8060" />
+    </package>
+    <package name="p3dcert" platform="linux_amd64" per_platform="1" filename="p3dcert/linux_amd64/p3dcert.linux_amd64.xml" size="980" timestamp="1455007777" hash="f54dc471891c75e567b6125bf4d0b2d9" seq="3">
+        <import filename="p3dcert/linux_amd64/p3dcert.linux_amd64.import.xml" size="315" timestamp="1455007777" hash="a22c0d8534ce5db5f5d93647aa96d7d7" />
+    </package>
+    <package name="p3dcert" platform="linux_i386" per_platform="1" filename="p3dcert/linux_i386/p3dcert.linux_i386.xml" size="975" timestamp="1455007777" hash="823a763762e3e13ea090550522f84063" seq="3">
+        <import filename="p3dcert/linux_i386/p3dcert.linux_i386.import.xml" size="314" timestamp="1455007777" hash="e04ea23a3bb437a8f5d830f7a027a819" />
+    </package>
+    <package name="p3dcert" platform="osx_amd64" per_platform="1" filename="p3dcert/osx_amd64/p3dcert.osx_amd64.xml" size="1376" timestamp="1482770480" hash="60696fea54d25ae9d72cb47e0a6ddccb" seq="2">
+        <import filename="p3dcert/osx_amd64/p3dcert.osx_amd64.import.xml" size="498" timestamp="1482770480" hash="92e4cded0c1b6752efd8e5d3c54d0dfe" />
+    </package>
+    <package name="p3dcert" platform="osx_i386" per_platform="1" filename="p3dcert/osx_i386/p3dcert.osx_i386.xml" size="1371" timestamp="1482770480" hash="bcfb3831bd22fa3e39627a9aaab13751" seq="2">
+        <import filename="p3dcert/osx_i386/p3dcert.osx_i386.import.xml" size="497" timestamp="1482770480" hash="1400f7efb880b3adaf896d6ef0ecf45c" />
+    </package>
+    <package name="p3dcert" platform="osx_ppc" filename="p3dcert/osx_ppc/p3dcert.osx_ppc.xml" size="1431" timestamp="1365900217" hash="6645c26664ef304f283e0a17f24e84c2" seq="2">
+        <import filename="p3dcert/osx_ppc/p3dcert.osx_ppc.import.xml" size="581" timestamp="1365900217" hash="833554a62a8e22f3ff92c23a46212d60" />
+    </package>
+    <package name="p3dcert" platform="win32" filename="p3dcert/win32/p3dcert.win32.xml" size="1533" timestamp="1365945993" hash="963046d74e6ed0bf02c376e11728a807" seq="2">
+        <import filename="p3dcert/win32/p3dcert.win32.import.xml" size="540" timestamp="1365945993" hash="cd34f64e7bf3f6b135e3c1a9c0fbcedf" />
+    </package>
+    <package name="p3dcert" platform="win_amd64" per_platform="1" filename="p3dcert/win_amd64/p3dcert.win_amd64.xml" size="1089" timestamp="1482770480" hash="6cdc8812b6568e142f4577276561cddc" seq="2">
+        <import filename="p3dcert/win_amd64/p3dcert.win_amd64.import.xml" size="357" timestamp="1482770480" hash="8dcf7395b6ad6aa4cbffea1b20b9c30c" />
+    </package>
+    <package name="p3dcert" platform="win_i386" per_platform="1" filename="p3dcert/win_i386/p3dcert.win_i386.xml" size="1084" timestamp="1482770480" hash="e61040b8ea1d33d34466d99ce02f389b" seq="2">
+        <import filename="p3dcert/win_i386/p3dcert.win_i386.import.xml" size="356" timestamp="1482770480" hash="bd5bdd9808bb3d51700adbdade5084fe" />
+    </package>
+    <package name="p3dembed" platform="linux_amd64" per_platform="1" filename="p3dembed/linux_amd64/p3dembed.linux_amd64.xml" size="935" timestamp="1455007777" hash="84f22c6906659283f233789fa0eb8e7a" seq="3">
+        <import filename="p3dembed/linux_amd64/p3dembed.linux_amd64.import.xml" size="317" timestamp="1455007777" hash="8d5fa4dc59733aa0ce6baba93b7b95f8" />
+    </package>
+    <package name="p3dembed" platform="linux_i386" per_platform="1" filename="p3dembed/linux_i386/p3dembed.linux_i386.xml" size="930" timestamp="1455007777" hash="bd651787fc0f1d6fabc327ebba5c310f" seq="3">
+        <import filename="p3dembed/linux_i386/p3dembed.linux_i386.import.xml" size="316" timestamp="1455007777" hash="f2aef4cfd8b12dbe79b7494287fb3dba" />
+    </package>
+    <package name="p3dembed" platform="osx_amd64" per_platform="1" filename="p3dembed/osx_amd64/p3dembed.osx_amd64.xml" size="1171" timestamp="1482770480" hash="9fdb650274d6a15a2cbe735217c89251" seq="2">
+        <import filename="p3dembed/osx_amd64/p3dembed.osx_amd64.import.xml" size="412" timestamp="1482770480" hash="8b07b514444ae4cdcf0fb762a89a6162" />
+    </package>
+    <package name="p3dembed" platform="osx_i386" per_platform="1" filename="p3dembed/osx_i386/p3dembed.osx_i386.xml" size="1166" timestamp="1482770480" hash="3c7e19a5da82388235704027d1ecfe29" seq="2">
+        <import filename="p3dembed/osx_i386/p3dembed.osx_i386.import.xml" size="411" timestamp="1482770480" hash="1822d738fec1793f023d0a5286750f5f" />
+    </package>
+    <package name="p3dembed" platform="win32" filename="p3dembed/win32/p3dembed.win32.xml" size="1846" timestamp="1365945993" hash="8fa91e262f6cc5de34304c853d9aec8e" seq="2">
+        <import filename="p3dembed/win32/p3dembed.win32.import.xml" size="679" timestamp="1365945993" hash="36f020c9427b65583a00c8e161a8e0d0" />
+    </package>
+    <package name="p3dembed" platform="win_amd64" per_platform="1" filename="p3dembed/win_amd64/p3dembed.win_amd64.xml" size="1163" timestamp="1482770480" hash="5f982eba09d32397987d4c583d124136" seq="2">
+        <import filename="p3dembed/win_amd64/p3dembed.win_amd64.import.xml" size="402" timestamp="1482770480" hash="1609baf16aeab6e09651ee46e0bff8b1" />
+    </package>
+    <package name="p3dembed" platform="win_i386" per_platform="1" filename="p3dembed/win_i386/p3dembed.win_i386.xml" size="1158" timestamp="1482770480" hash="975f3a3f7dabe0776513b097a368282c" seq="2">
+        <import filename="p3dembed/win_i386/p3dembed.win_i386.import.xml" size="401" timestamp="1482770480" hash="c31865ffe307e156e4a9f8b650a84531" />
+    </package>
+    <package name="panda3d" platform="linux_amd64" version="cmu_1.7" filename="panda3d/cmu_1.7/linux_amd64/panda3d.cmu_1.7.linux_amd64.xml" size="8010" timestamp="1482770434" hash="43cf8db48beff98dcb19f136ad457b44" seq="3">
+        <import filename="panda3d/cmu_1.7/linux_amd64/panda3d.cmu_1.7.linux_amd64.import.xml" size="23465" timestamp="1469011368" hash="e71cb57b52e2d75380feb240ebcfd377" />
+    </package>
+    <package name="panda3d" platform="linux_amd64" version="cmu_1.8" filename="panda3d/cmu_1.8/linux_amd64/panda3d.cmu_1.8.linux_amd64.xml" size="9575" timestamp="1482770434" hash="f6831649b34ffec827604ab43def1ddc" seq="3">
+        <import filename="panda3d/cmu_1.8/linux_amd64/panda3d.cmu_1.8.linux_amd64.import.xml" size="24619" timestamp="1469011368" hash="62c541bf6a848d2ed7edd0ba903b3260" />
+    </package>
+    <package name="panda3d" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="panda3d/cmu_1.9/linux_amd64/panda3d.cmu_1.9.linux_amd64.xml" size="6464" timestamp="1455007777" hash="4b2cbd546e5aa401048be4d20dd9e2b9" seq="3">
+        <import filename="panda3d/cmu_1.9/linux_amd64/panda3d.cmu_1.9.linux_amd64.import.xml" size="23625" timestamp="1455007777" hash="ec83737b8c871068f2d5bd55dbd9a34e" />
+    </package>
+    <package name="panda3d" platform="linux_i386" version="cmu_1.7" filename="panda3d/cmu_1.7/linux_i386/panda3d.cmu_1.7.linux_i386.xml" size="7995" timestamp="1482770435" hash="9a8d82915642c8bbea0ad7b859a5ab61" seq="3">
+        <import filename="panda3d/cmu_1.7/linux_i386/panda3d.cmu_1.7.linux_i386.import.xml" size="23457" timestamp="1469011368" hash="9cc90b772157d37719641df0ed1eb8cc" />
+    </package>
+    <package name="panda3d" platform="linux_i386" version="cmu_1.8" filename="panda3d/cmu_1.8/linux_i386/panda3d.cmu_1.8.linux_i386.xml" size="9440" timestamp="1482770435" hash="a67131973732825937dbf38b99919e22" seq="3">
+        <import filename="panda3d/cmu_1.8/linux_i386/panda3d.cmu_1.8.linux_i386.import.xml" size="24568" timestamp="1469011368" hash="d65ab2d75625b1e165d1779cbacf6b52" />
+    </package>
+    <package name="panda3d" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="panda3d/cmu_1.9/linux_i386/panda3d.cmu_1.9.linux_i386.xml" size="6456" timestamp="1455007777" hash="16714bbf4a90fc1aa8636fe77b586cff" seq="3">
+        <import filename="panda3d/cmu_1.9/linux_i386/panda3d.cmu_1.9.linux_i386.import.xml" size="23624" timestamp="1455007777" hash="b83b12a6a9b0d50c0a5d40bb21f6d54d" />
+    </package>
+    <package name="panda3d" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="panda3d/cmu_1.9/osx_amd64/panda3d.cmu_1.9.osx_amd64.xml" size="8610" timestamp="1482770480" hash="1d3970058c237682a18fbb380636298f" seq="2">
+        <import filename="panda3d/cmu_1.9/osx_amd64/panda3d.cmu_1.9.osx_amd64.import.xml" size="26794" timestamp="1482770480" hash="0d3f1568b8b3a1cecfc0ed12672b0d39" />
+    </package>
+    <package name="panda3d" platform="osx_i386" version="cmu_1.7" filename="panda3d/cmu_1.7/osx_i386/panda3d.cmu_1.7.osx_i386.xml" size="9448" timestamp="1302893812" hash="d32b7a40cb34ddc2723803be2f17ef13" seq="2">
+        <import filename="panda3d/cmu_1.7/osx_i386/panda3d.cmu_1.7.osx_i386.import.xml" size="26455" timestamp="1302893812" hash="25947fb1865a060957ed9b191fa50d22" />
+    </package>
+    <package name="panda3d" platform="osx_i386" version="cmu_1.8" filename="panda3d/cmu_1.8/osx_i386/panda3d.cmu_1.8.osx_i386.xml" size="9448" timestamp="1365900217" hash="e98438ccf76069c542842dd11c6d58fe" seq="2">
+        <import filename="panda3d/cmu_1.8/osx_i386/panda3d.cmu_1.8.osx_i386.import.xml" size="27064" timestamp="1365900217" hash="092b10ea3599b7b041f29fbd2075e24e" />
+    </package>
+    <package name="panda3d" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="panda3d/cmu_1.9/osx_i386/panda3d.cmu_1.9.osx_i386.xml" size="8612" timestamp="1482770480" hash="7bc6a12642618c40326253439d810c85" seq="2">
+        <import filename="panda3d/cmu_1.9/osx_i386/panda3d.cmu_1.9.osx_i386.import.xml" size="26793" timestamp="1482770480" hash="04e4655970ba30854cd58b670994afe6" />
+    </package>
+    <package name="panda3d" platform="osx_ppc" version="cmu_1.7" filename="panda3d/cmu_1.7/osx_ppc/panda3d.cmu_1.7.osx_ppc.xml" size="9442" timestamp="1302893812" hash="87439f77ebdff8ac45ac58ac37bde18d" seq="2">
+        <import filename="panda3d/cmu_1.7/osx_ppc/panda3d.cmu_1.7.osx_ppc.import.xml" size="26454" timestamp="1302893812" hash="8c9e21db288aa4f2efcbc580e4599c20" />
+    </package>
+    <package name="panda3d" platform="osx_ppc" version="cmu_1.8" filename="panda3d/cmu_1.8/osx_ppc/panda3d.cmu_1.8.osx_ppc.xml" size="9334" timestamp="1365900217" hash="32b34ce8329cff4c01c9448a0d363b9e" seq="2">
+        <import filename="panda3d/cmu_1.8/osx_ppc/panda3d.cmu_1.8.osx_ppc.import.xml" size="27031" timestamp="1365900217" hash="edd712c8f78349946722e97ed5dc284e" />
+    </package>
+    <package name="panda3d" platform="win32" version="cmu_1.7" filename="panda3d/cmu_1.7/win32/panda3d.cmu_1.7.win32.xml" size="7644" timestamp="1302892763" hash="638c6eea58ec9698f7f31e2729c0f745" seq="2">
+        <import filename="panda3d/cmu_1.7/win32/panda3d.cmu_1.7.win32.import.xml" size="23603" timestamp="1302892763" hash="d6ce3380fc7531ba725ac5c468f9bff0" />
+    </package>
+    <package name="panda3d" platform="win32" version="cmu_1.8" filename="panda3d/cmu_1.8/win32/panda3d.cmu_1.8.win32.xml" size="8215" timestamp="1365945993" hash="9f3d2bcdb73056eaff25cda4f0ccca1c" seq="2">
+        <import filename="panda3d/cmu_1.8/win32/panda3d.cmu_1.8.win32.import.xml" size="25033" timestamp="1365945993" hash="a2097b31dbc37779c2a59c3e778b233b" />
+    </package>
+    <package name="panda3d" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="panda3d/cmu_1.9/win_amd64/panda3d.cmu_1.9.win_amd64.xml" size="5063" timestamp="1482770480" hash="b5c9f2c3a8bcbe5c66194a46fdc8eb10" seq="2">
+        <import filename="panda3d/cmu_1.9/win_amd64/panda3d.cmu_1.9.win_amd64.import.xml" size="23385" timestamp="1482770480" hash="63a6bc51f5532c19bccb7aaa94c5e45b" />
+    </package>
+    <package name="panda3d" platform="win_i386" version="cmu_1.9" per_platform="1" filename="panda3d/cmu_1.9/win_i386/panda3d.cmu_1.9.win_i386.xml" size="5053" timestamp="1482770480" hash="43e724229e7e45eddc1900ac257e4870" seq="2">
+        <import filename="panda3d/cmu_1.9/win_i386/panda3d.cmu_1.9.win_i386.import.xml" size="23384" timestamp="1482770480" hash="c0c6edda615f3429b5d6e6ba2556cfb9" />
+    </package>
+    <package name="physx" platform="linux_amd64" version="cmu_1.7" filename="physx/cmu_1.7/linux_amd64/physx.cmu_1.7.linux_amd64.xml" size="1260" timestamp="1302902285" hash="873605e2cec6b35df3d783fe274610a7" seq="2">
+        <import filename="physx/cmu_1.7/linux_amd64/physx.cmu_1.7.linux_amd64.import.xml" size="511" timestamp="1302902285" hash="0705f4b087923675505a7c40be040c13" />
+    </package>
+    <package name="physx" platform="linux_amd64" version="cmu_1.8" filename="physx/cmu_1.8/linux_amd64/physx.cmu_1.8.linux_amd64.xml" size="1260" timestamp="1365894059" hash="ef6ba639fe1f9679c89be395e6c83e42" seq="2">
+        <import filename="physx/cmu_1.8/linux_amd64/physx.cmu_1.8.linux_amd64.import.xml" size="511" timestamp="1365894059" hash="e51b29379b2c52504b7c7741a4d3f706" />
+    </package>
+    <package name="physx" platform="linux_i386" version="cmu_1.7" filename="physx/cmu_1.7/linux_i386/physx.cmu_1.7.linux_i386.xml" size="1254" timestamp="1302891751" hash="8593dc89d3347302e00a033d50eea4a5" seq="2">
+        <import filename="physx/cmu_1.7/linux_i386/physx.cmu_1.7.linux_i386.import.xml" size="509" timestamp="1302891751" hash="66dc3641324b05c2e015fbb0d4ac81b1" />
+    </package>
+    <package name="physx" platform="linux_i386" version="cmu_1.8" filename="physx/cmu_1.8/linux_i386/physx.cmu_1.8.linux_i386.xml" size="1254" timestamp="1365894333" hash="1626bcce34d9eb7b58bc67f7e40166e5" seq="2">
+        <import filename="physx/cmu_1.8/linux_i386/physx.cmu_1.8.linux_i386.import.xml" size="509" timestamp="1365894333" hash="fb96aad429427943535904e5de92b446" />
+    </package>
+    <package name="physx" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="physx/cmu_1.9/osx_amd64/physx.cmu_1.9.osx_amd64.xml" size="1261" timestamp="1482770480" hash="667d78fe17f7781971f99b1e1cd270a3" seq="2">
+        <import filename="physx/cmu_1.9/osx_amd64/physx.cmu_1.9.osx_amd64.import.xml" size="531" timestamp="1482770480" hash="c742f75958cc96f15eea6d348d0e9f34" />
+    </package>
+    <package name="physx" platform="osx_i386" version="cmu_1.7" filename="physx/cmu_1.7/osx_i386/physx.cmu_1.7.osx_i386.xml" size="1000" timestamp="1302893812" hash="9e5c5d3a903747541705a17eefa9c0dc" seq="2">
+        <import filename="physx/cmu_1.7/osx_i386/physx.cmu_1.7.osx_i386.import.xml" size="410" timestamp="1302893812" hash="88076589789a02b648c84264a3c4d804" />
+    </package>
+    <package name="physx" platform="osx_i386" version="cmu_1.8" filename="physx/cmu_1.8/osx_i386/physx.cmu_1.8.osx_i386.xml" size="1000" timestamp="1365900217" hash="78ed5d498de6ce677cda836b4b837fa4" seq="2">
+        <import filename="physx/cmu_1.8/osx_i386/physx.cmu_1.8.osx_i386.import.xml" size="410" timestamp="1365900217" hash="e919f0519cf52778e857584cd90b11f0" />
+    </package>
+    <package name="physx" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="physx/cmu_1.9/osx_i386/physx.cmu_1.9.osx_i386.xml" size="1255" timestamp="1482770480" hash="09305b02ce7878bb0b4e9a0a46bd0187" seq="2">
+        <import filename="physx/cmu_1.9/osx_i386/physx.cmu_1.9.osx_i386.import.xml" size="529" timestamp="1482770480" hash="188cd56e882914632ac9f9ee58494b2c" />
+    </package>
+    <package name="physx" platform="osx_ppc" version="cmu_1.7" filename="physx/cmu_1.7/osx_ppc/physx.cmu_1.7.osx_ppc.xml" size="849" timestamp="1302893812" hash="ba1d70900c8b4e6e6d2addaafdd5a120" seq="2">
+        <import filename="physx/cmu_1.7/osx_ppc/physx.cmu_1.7.osx_ppc.import.xml" size="359" timestamp="1302893812" hash="1800b174ff1ab11b331b104f989d46c7" />
+    </package>
+    <package name="physx" platform="osx_ppc" version="cmu_1.8" filename="physx/cmu_1.8/osx_ppc/physx.cmu_1.8.osx_ppc.xml" size="849" timestamp="1365900217" hash="539e8dd9d22e34ec106e5a25e3a924b3" seq="2">
+        <import filename="physx/cmu_1.8/osx_ppc/physx.cmu_1.8.osx_ppc.import.xml" size="359" timestamp="1365900217" hash="6ef9f9598d261ab9ba2182871e45e539" />
+    </package>
+    <package name="physx" platform="win32" version="cmu_1.7" filename="physx/cmu_1.7/win32/physx.cmu_1.7.win32.xml" size="1704" timestamp="1302892763" hash="4a91b3535a6d3304cf3ae0bec6ba9889" seq="2">
+        <import filename="physx/cmu_1.7/win32/physx.cmu_1.7.win32.import.xml" size="683" timestamp="1302892763" hash="16e1417baef15d5877f61b2764072df8" />
+    </package>
+    <package name="physx" platform="win32" version="cmu_1.8" filename="physx/cmu_1.8/win32/physx.cmu_1.8.win32.xml" size="1704" timestamp="1365945993" hash="258b15877339190a1ccb54e6471b9023" seq="2">
+        <import filename="physx/cmu_1.8/win32/physx.cmu_1.8.win32.import.xml" size="683" timestamp="1365945993" hash="692b3662f736f16f8665f0ffacf69afb" />
+    </package>
+    <package name="physx" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="physx/cmu_1.9/win_amd64/physx.cmu_1.9.win_amd64.xml" size="1503" timestamp="1482770480" hash="8c7109156fba79aa814811da3e5561c1" seq="2">
+        <import filename="physx/cmu_1.9/win_amd64/physx.cmu_1.9.win_amd64.import.xml" size="625" timestamp="1482770480" hash="63b9cd1ab8991762cb8e0cc143ccb941" />
+    </package>
+    <package name="physx" platform="win_i386" version="cmu_1.9" per_platform="1" filename="physx/cmu_1.9/win_i386/physx.cmu_1.9.win_i386.xml" size="1731" timestamp="1482770480" hash="fa5d42eeeb3155b1b08af1e7a2d6bec8" seq="2">
+        <import filename="physx/cmu_1.9/win_i386/physx.cmu_1.9.win_i386.import.xml" size="712" timestamp="1482770480" hash="a85a76610d45227b9abeaa7f232d5dad" />
+    </package>
+    <package name="pil" platform="linux_amd64" version="cmu_1.8" filename="pil/cmu_1.8/linux_amd64/pil.cmu_1.8.linux_amd64.xml" size="1343" timestamp="1365894059" hash="16ca2342099ea3abf74473a712c441db" seq="2">
+        <import filename="pil/cmu_1.8/linux_amd64/pil.cmu_1.8.linux_amd64.import.xml" size="3537" timestamp="1365894059" hash="a154a4d049eb180d67173c98f9ed16c1" />
+    </package>
+    <package name="pil" platform="linux_i386" version="cmu_1.8" filename="pil/cmu_1.8/linux_i386/pil.cmu_1.8.linux_i386.xml" size="1336" timestamp="1365894333" hash="3a12c726c26862dac55405c2e6b6c044" seq="2">
+        <import filename="pil/cmu_1.8/linux_i386/pil.cmu_1.8.linux_i386.import.xml" size="3535" timestamp="1365894333" hash="f510674581f382c6d6ea8fe0b11e8b3a" />
+    </package>
+    <package name="pil" platform="osx_i386" version="cmu_1.8" filename="pil/cmu_1.8/osx_i386/pil.cmu_1.8.osx_i386.xml" size="1321" timestamp="1365900217" hash="d6da12033095d247d55a7b0e3d69bf2c" seq="2">
+        <import filename="pil/cmu_1.8/osx_i386/pil.cmu_1.8.osx_i386.import.xml" size="3498" timestamp="1365900217" hash="0cc3ef20e37657dc89ed2dfd99f637a9" />
+    </package>
+    <package name="pil" platform="osx_ppc" version="cmu_1.8" filename="pil/cmu_1.8/osx_ppc/pil.cmu_1.8.osx_ppc.xml" size="1315" timestamp="1365900217" hash="c040132f71d8fa1d944fe88310090380" seq="2">
+        <import filename="pil/cmu_1.8/osx_ppc/pil.cmu_1.8.osx_ppc.import.xml" size="3496" timestamp="1365900217" hash="88c274206c55f8206e5bd0cf9d283e30" />
+    </package>
+    <package name="pil" platform="win32" version="cmu_1.7" filename="pil/cmu_1.7/win32/pil.cmu_1.7.win32.xml" size="1436" timestamp="1302892763" hash="7b38b70cf4b71c6d307a9c95cee94fc7" seq="2">
+        <import filename="pil/cmu_1.7/win32/pil.cmu_1.7.win32.import.xml" size="3614" timestamp="1302892763" hash="afa933f81e3671a80e478c0bfd6a43da" />
+    </package>
+    <package name="pil" platform="win32" version="cmu_1.8" filename="pil/cmu_1.8/win32/pil.cmu_1.8.win32.xml" size="1436" timestamp="1365945993" hash="f6e23e5cc535735dd2b4a63495387971" seq="2">
+        <import filename="pil/cmu_1.8/win32/pil.cmu_1.8.win32.import.xml" size="3614" timestamp="1365945993" hash="f7886731fa09a2fbf91a18ecb456be2f" />
+    </package>
+    <package name="pygame" platform="linux_amd64" version="cmu_1.7" filename="pygame/cmu_1.7/linux_amd64/pygame.cmu_1.7.linux_amd64.xml" size="6809" timestamp="1302902285" hash="e57867deb74b6fd4e7bd309162866c01" seq="2">
+        <import filename="pygame/cmu_1.7/linux_amd64/pygame.cmu_1.7.linux_amd64.import.xml" size="8012" timestamp="1302902285" hash="459ca35d902dd4d5d2812304c4925001" />
+    </package>
+    <package name="pygame" platform="linux_amd64" version="cmu_1.8" filename="pygame/cmu_1.8/linux_amd64/pygame.cmu_1.8.linux_amd64.xml" size="7548" timestamp="1365894059" hash="7f3473f33a58cecd3cebcc49482cac5f" seq="2">
+        <import filename="pygame/cmu_1.8/linux_amd64/pygame.cmu_1.8.linux_amd64.import.xml" size="15288" timestamp="1365894059" hash="b8f70d267811ac515bcb859985e687ca" />
+    </package>
+    <package name="pygame" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="pygame/cmu_1.9/linux_amd64/pygame.cmu_1.9.linux_amd64.xml" size="8015" timestamp="1482770435" hash="7cd1a430648389df69c66a045faf5dae" seq="3">
+        <import filename="pygame/cmu_1.9/linux_amd64/pygame.cmu_1.9.linux_amd64.import.xml" size="9583" timestamp="1469011368" hash="91250a4a325844baa722281dcaaaa0a3" />
+    </package>
+    <package name="pygame" platform="linux_i386" version="cmu_1.7" filename="pygame/cmu_1.7/linux_i386/pygame.cmu_1.7.linux_i386.xml" size="6791" timestamp="1302891751" hash="e3690a0cf7a86bff1b2061c1e1070f8b" seq="2">
+        <import filename="pygame/cmu_1.7/linux_i386/pygame.cmu_1.7.linux_i386.import.xml" size="8002" timestamp="1302891751" hash="ab228d8d983486c5810b2c51eb7f0b89" />
+    </package>
+    <package name="pygame" platform="linux_i386" version="cmu_1.8" filename="pygame/cmu_1.8/linux_i386/pygame.cmu_1.8.linux_i386.xml" size="7404" timestamp="1365894333" hash="6787739af4dbf103ada3604cb4b67ca2" seq="2">
+        <import filename="pygame/cmu_1.8/linux_i386/pygame.cmu_1.8.linux_i386.import.xml" size="15228" timestamp="1365894333" hash="0d4fd5be9eeb8dade462aec94c8d191e" />
+    </package>
+    <package name="pygame" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="pygame/cmu_1.9/linux_i386/pygame.cmu_1.9.linux_i386.xml" size="7996" timestamp="1482770436" hash="40dea02f8adf2a4572bde5820fb6e6c0" seq="3">
+        <import filename="pygame/cmu_1.9/linux_i386/pygame.cmu_1.9.linux_i386.import.xml" size="9580" timestamp="1469011368" hash="665629d9eeea5bf9f3586688a6db11f8" />
+    </package>
+    <package name="pygame" platform="osx_i386" version="cmu_1.7" filename="pygame/cmu_1.7/osx_i386/pygame.cmu_1.7.osx_i386.xml" size="4372" timestamp="1302893812" hash="cd46748c94978452ef529b71e39df122" seq="2">
+        <import filename="pygame/cmu_1.7/osx_i386/pygame.cmu_1.7.osx_i386.import.xml" size="7590" timestamp="1302893812" hash="1d85d41b769370f13eacf135f219a399" />
+    </package>
+    <package name="pygame" platform="osx_i386" version="cmu_1.8" filename="pygame/cmu_1.8/osx_i386/pygame.cmu_1.8.osx_i386.xml" size="4614" timestamp="1365900217" hash="d83214b72b0fb9c3b9ecf25df0d13987" seq="2">
+        <import filename="pygame/cmu_1.8/osx_i386/pygame.cmu_1.8.osx_i386.import.xml" size="13830" timestamp="1365900217" hash="6deff08ff5f7d0c3f1ddc63c0e114150" />
+    </package>
+    <package name="pygame" platform="osx_ppc" version="cmu_1.7" filename="pygame/cmu_1.7/osx_ppc/pygame.cmu_1.7.osx_ppc.xml" size="4365" timestamp="1302893812" hash="7637f81c776af814a9656b956bf80286" seq="2">
+        <import filename="pygame/cmu_1.7/osx_ppc/pygame.cmu_1.7.osx_ppc.import.xml" size="7587" timestamp="1302893812" hash="b4dbc3fa6a25c80fedcbd1fec59e9df5" />
+    </package>
+    <package name="pygame" platform="osx_ppc" version="cmu_1.8" filename="pygame/cmu_1.8/osx_ppc/pygame.cmu_1.8.osx_ppc.xml" size="4607" timestamp="1365900217" hash="4f25f28286d6cf01aa7262c6f9bb2d6c" seq="2">
+        <import filename="pygame/cmu_1.8/osx_ppc/pygame.cmu_1.8.osx_ppc.import.xml" size="13827" timestamp="1365900217" hash="035a17c8a4035595f6f49a4a15fc1d3f" />
+    </package>
+    <package name="pygame" platform="win32" version="cmu_1.7" filename="pygame/cmu_1.7/win32/pygame.cmu_1.7.win32.xml" size="6979" timestamp="1302892763" hash="95270c84c52e86603700d4c244659dca" seq="2">
+        <import filename="pygame/cmu_1.7/win32/pygame.cmu_1.7.win32.import.xml" size="9061" timestamp="1302892763" hash="732911b487f94ebbb17505afc91dd14a" />
+    </package>
+    <package name="pygame" platform="win32" version="cmu_1.8" filename="pygame/cmu_1.8/win32/pygame.cmu_1.8.win32.xml" size="6198" timestamp="1365945993" hash="b8609161706279f3051fffba8f269400" seq="2">
+        <import filename="pygame/cmu_1.8/win32/pygame.cmu_1.8.win32.import.xml" size="14979" timestamp="1365945993" hash="f8dda1197ab84969761393616bcc4fe0" />
+    </package>
+    <package name="pyglet" version="cmu_1.9" per_platform="1" filename="pyglet/cmu_1.9/pyglet.cmu_1.9.xml" size="894" timestamp="1455007777" hash="044c048f21d5c90b3759af590c697f5c" seq="3">
+        <import filename="pyglet/cmu_1.9/pyglet.cmu_1.9.import.xml" size="4471" timestamp="1455007777" hash="39e06cb7aaafe61fc50b132e42bdb7d0" />
+    </package>
+    <package name="pyglet" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="pyglet/cmu_1.9/linux_amd64/pyglet.cmu_1.9.linux_amd64.xml" size="1464" timestamp="1448450508" hash="b526ac13ea202c79caab5a85572f67fe" seq="6">
+        <import filename="pyglet/cmu_1.9/linux_amd64/pyglet.cmu_1.9.linux_amd64.import.xml" size="6264" timestamp="1448450508" hash="574ea0c536dbd8ce28f2178d1a188d3b" />
+    </package>
+    <package name="pyglet" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="pyglet/cmu_1.9/linux_i386/pyglet.cmu_1.9.linux_i386.xml" size="1458" timestamp="1448450508" hash="df32cd50f479b87d246a85e5e906b5f8" seq="5">
+        <import filename="pyglet/cmu_1.9/linux_i386/pyglet.cmu_1.9.linux_i386.import.xml" size="6262" timestamp="1448450508" hash="da8e7fca29e51f597fdcf8db8c8633a5" />
+    </package>
+    <package name="pyopengl" version="cmu_1.7" filename="pyopengl/cmu_1.7/pyopengl.cmu_1.7.xml" size="885" timestamp="1302902285" hash="d18ea232ce26ca723f207e10e545b478" seq="2">
+        <import filename="pyopengl/cmu_1.7/pyopengl.cmu_1.7.import.xml" size="4467" timestamp="1302902285" hash="34c039ff9ce70ef2bc485b573f897e12" />
+    </package>
+    <package name="pyopengl" version="cmu_1.8" filename="pyopengl/cmu_1.8/pyopengl.cmu_1.8.xml" size="888" timestamp="1365945993" hash="554fd131abba9e5fde0842860ff9c124" seq="2">
+        <import filename="pyopengl/cmu_1.8/pyopengl.cmu_1.8.import.xml" size="10289" timestamp="1365945993" hash="1c730ba5c09ac9709f8ee96692d55456" />
+    </package>
+    <package name="pyopengl" version="cmu_1.9" per_platform="1" filename="pyopengl/cmu_1.9/pyopengl.cmu_1.9.xml" size="902" timestamp="1455007777" hash="78b2c0fecb5dde2f1edeb96e963f272b" seq="3">
+        <import filename="pyopengl/cmu_1.9/pyopengl.cmu_1.9.import.xml" size="4467" timestamp="1455007777" hash="021fd34a0b2f3c0c7baecb4e07f2bc28" />
+    </package>
+    <package name="rocket" platform="linux_amd64" version="cmu_1.8" filename="rocket/cmu_1.8/linux_amd64/rocket.cmu_1.8.linux_amd64.xml" size="1641" timestamp="1365894059" hash="f51dd63b03f9073ae7df4fc6fa2f10e6" seq="2">
+        <import filename="rocket/cmu_1.8/linux_amd64/rocket.cmu_1.8.linux_amd64.import.xml" size="731" timestamp="1365894059" hash="5ee4f657e5499e65be7661b8952b91b9" />
+    </package>
+    <package name="rocket" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="rocket/cmu_1.9/linux_amd64/rocket.cmu_1.9.linux_amd64.xml" size="1532" timestamp="1455007777" hash="356900c602574d686087c67d7a269c8f" seq="3">
+        <import filename="rocket/cmu_1.9/linux_amd64/rocket.cmu_1.9.linux_amd64.import.xml" size="749" timestamp="1455007777" hash="c503303cc23e1e8010886c2cbd2d8c26" />
+    </package>
+    <package name="rocket" platform="linux_i386" version="cmu_1.8" filename="rocket/cmu_1.8/linux_i386/rocket.cmu_1.8.linux_i386.xml" size="1635" timestamp="1365894333" hash="8afb6d5a4ee7e14ede8c31552ffcf8d4" seq="2">
+        <import filename="rocket/cmu_1.8/linux_i386/rocket.cmu_1.8.linux_i386.import.xml" size="729" timestamp="1365894333" hash="414ce55fcab48ae5bad1a061d411da9f" />
+    </package>
+    <package name="rocket" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="rocket/cmu_1.9/linux_i386/rocket.cmu_1.9.linux_i386.xml" size="1525" timestamp="1455007777" hash="c4dc86915f191b208dd32080b8e5afb7" seq="3">
+        <import filename="rocket/cmu_1.9/linux_i386/rocket.cmu_1.9.linux_i386.import.xml" size="747" timestamp="1455007777" hash="077a95a09c80f575009790de00103583" />
+    </package>
+    <package name="rocket" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="rocket/cmu_1.9/osx_amd64/rocket.cmu_1.9.osx_amd64.xml" size="1904" timestamp="1482770480" hash="6045b21acfd1b15e539de0335bb058dc" seq="2">
+        <import filename="rocket/cmu_1.9/osx_amd64/rocket.cmu_1.9.osx_amd64.import.xml" size="897" timestamp="1482770480" hash="aaf75de1e1c5876c0a0b0e35cbea1802" />
+    </package>
+    <package name="rocket" platform="osx_i386" version="cmu_1.8" filename="rocket/cmu_1.8/osx_i386/rocket.cmu_1.8.osx_i386.xml" size="1502" timestamp="1365900217" hash="e58b5346a866f2c13603fc2c499c10d5" seq="2">
+        <import filename="rocket/cmu_1.8/osx_i386/rocket.cmu_1.8.osx_i386.import.xml" size="679" timestamp="1365900217" hash="dcd9f6db3a8fac01061f7db2ce0483a3" />
+    </package>
+    <package name="rocket" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="rocket/cmu_1.9/osx_i386/rocket.cmu_1.9.osx_i386.xml" size="1897" timestamp="1482770480" hash="668c152bbec7f0580dfb9ce63384d705" seq="2">
+        <import filename="rocket/cmu_1.9/osx_i386/rocket.cmu_1.9.osx_i386.import.xml" size="895" timestamp="1482770480" hash="e3db01fe55fd60ca3648f9625846e2f5" />
+    </package>
+    <package name="rocket" platform="osx_ppc" version="cmu_1.8" filename="rocket/cmu_1.8/osx_ppc/rocket.cmu_1.8.osx_ppc.xml" size="1497" timestamp="1365900217" hash="e51930c579bf644f1739ab10dee9b20c" seq="2">
+        <import filename="rocket/cmu_1.8/osx_ppc/rocket.cmu_1.8.osx_ppc.import.xml" size="677" timestamp="1365900217" hash="570471a0fa807030b3f1e181455bb759" />
+    </package>
+    <package name="rocket" platform="win32" version="cmu_1.8" filename="rocket/cmu_1.8/win32/rocket.cmu_1.8.win32.xml" size="1728" timestamp="1365945993" hash="95708a1f5ee43f208656cf02a8ce7b2e" seq="2">
+        <import filename="rocket/cmu_1.8/win32/rocket.cmu_1.8.win32.import.xml" size="772" timestamp="1365945993" hash="b71641eead266986121a15aa60a4a72c" />
+    </package>
+    <package name="rocket" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="rocket/cmu_1.9/win_amd64/rocket.cmu_1.9.win_amd64.xml" size="1884" timestamp="1482770480" hash="0531079e0c0940bea0a1b50ff1ca1989" seq="2">
+        <import filename="rocket/cmu_1.9/win_amd64/rocket.cmu_1.9.win_amd64.import.xml" size="879" timestamp="1482770480" hash="22a8aed44e967ec34daa752b8c20d96a" />
+    </package>
+    <package name="rocket" platform="win_i386" version="cmu_1.9" per_platform="1" filename="rocket/cmu_1.9/win_i386/rocket.cmu_1.9.win_i386.xml" size="1874" timestamp="1482770480" hash="d75199d14b69ab949de9136baba9bacc" seq="2">
+        <import filename="rocket/cmu_1.9/win_i386/rocket.cmu_1.9.win_i386.import.xml" size="877" timestamp="1482770480" hash="54114cb447c2cdc8d2fe5023a6ed7b3d" />
+    </package>
+    <package name="sqlite" platform="linux_amd64" version="cmu_1.7" filename="sqlite/cmu_1.7/linux_amd64/sqlite.cmu_1.7.linux_amd64.xml" size="1235" timestamp="1302902285" hash="321bf1183bb8129d3fa29712bea620cb" seq="2">
+        <import filename="sqlite/cmu_1.7/linux_amd64/sqlite.cmu_1.7.linux_amd64.import.xml" size="653" timestamp="1302902285" hash="b4dd6a9c831774b7599fd834b01ee5d5" />
+    </package>
+    <package name="sqlite" platform="linux_amd64" version="cmu_1.8" filename="sqlite/cmu_1.8/linux_amd64/sqlite.cmu_1.8.linux_amd64.xml" size="1121" timestamp="1365894059" hash="ac75ea59a02931242feb8167652681d0" seq="2">
+        <import filename="sqlite/cmu_1.8/linux_amd64/sqlite.cmu_1.8.linux_amd64.import.xml" size="581" timestamp="1365894059" hash="51b11eb5faf346b1946769a42266a2af" />
+    </package>
+    <package name="sqlite" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="sqlite/cmu_1.9/linux_amd64/sqlite.cmu_1.9.linux_amd64.xml" size="1137" timestamp="1455007777" hash="9008afae20e8adeb88f59fbf171b899d" seq="3">
+        <import filename="sqlite/cmu_1.9/linux_amd64/sqlite.cmu_1.9.linux_amd64.import.xml" size="581" timestamp="1455007777" hash="d7945bc09602019b05097f4eecb81bd5" />
+    </package>
+    <package name="sqlite" platform="linux_i386" version="cmu_1.7" filename="sqlite/cmu_1.7/linux_i386/sqlite.cmu_1.7.linux_i386.xml" size="1229" timestamp="1302891751" hash="9826fe3a2f1e430f83324dca4aa23661" seq="2">
+        <import filename="sqlite/cmu_1.7/linux_i386/sqlite.cmu_1.7.linux_i386.import.xml" size="651" timestamp="1302891751" hash="e582ca7f57de8c11fbe82faa8284473f" />
+    </package>
+    <package name="sqlite" platform="linux_i386" version="cmu_1.8" filename="sqlite/cmu_1.8/linux_i386/sqlite.cmu_1.8.linux_i386.xml" size="1115" timestamp="1365894333" hash="83502a5c447d3453aedaf82eeea5aa90" seq="2">
+        <import filename="sqlite/cmu_1.8/linux_i386/sqlite.cmu_1.8.linux_i386.import.xml" size="579" timestamp="1365894333" hash="6cb1b2fba8d546e348a371efd4189a90" />
+    </package>
+    <package name="sqlite" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="sqlite/cmu_1.9/linux_i386/sqlite.cmu_1.9.linux_i386.xml" size="1131" timestamp="1455007777" hash="607d6fd92eeaaae43964e9f978f796fa" seq="3">
+        <import filename="sqlite/cmu_1.9/linux_i386/sqlite.cmu_1.9.linux_i386.import.xml" size="579" timestamp="1455007777" hash="a41dc1b2849e8ae4b0a79a46176e0adf" />
+    </package>
+    <package name="sqlite" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="sqlite/cmu_1.9/osx_amd64/sqlite.cmu_1.9.osx_amd64.xml" size="1006" timestamp="1482770480" hash="53a5282e5d7edc79ab86f33bfe8a8965" seq="2">
+        <import filename="sqlite/cmu_1.9/osx_amd64/sqlite.cmu_1.9.osx_amd64.import.xml" size="532" timestamp="1482770480" hash="405efb3c868484474431db37bb28c2b1" />
+    </package>
+    <package name="sqlite" platform="osx_i386" version="cmu_1.7" filename="sqlite/cmu_1.7/osx_i386/sqlite.cmu_1.7.osx_i386.xml" size="983" timestamp="1302893812" hash="f63f83911d1db0e8477370840ee82472" seq="2">
+        <import filename="sqlite/cmu_1.7/osx_i386/sqlite.cmu_1.7.osx_i386.import.xml" size="530" timestamp="1302893812" hash="50401a0d2e875ab5dcd72de6eb9164f4" />
+    </package>
+    <package name="sqlite" platform="osx_i386" version="cmu_1.8" filename="sqlite/cmu_1.8/osx_i386/sqlite.cmu_1.8.osx_i386.xml" size="983" timestamp="1365900217" hash="04da5192fce68f941a5d2186d059e48b" seq="2">
+        <import filename="sqlite/cmu_1.8/osx_i386/sqlite.cmu_1.8.osx_i386.import.xml" size="530" timestamp="1365900217" hash="07a78d3caaffdf422c009d33254b3676" />
+    </package>
+    <package name="sqlite" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="sqlite/cmu_1.9/osx_i386/sqlite.cmu_1.9.osx_i386.xml" size="1000" timestamp="1482770480" hash="879ab1825166326f536e739e0459c28f" seq="2">
+        <import filename="sqlite/cmu_1.9/osx_i386/sqlite.cmu_1.9.osx_i386.import.xml" size="530" timestamp="1482770480" hash="bfd5b8b3e6cf4b70b082c4da25d7749d" />
+    </package>
+    <package name="sqlite" platform="osx_ppc" version="cmu_1.7" filename="sqlite/cmu_1.7/osx_ppc/sqlite.cmu_1.7.osx_ppc.xml" size="977" timestamp="1302893812" hash="2a89a88c774eb0ca14a08c3a696b9976" seq="2">
+        <import filename="sqlite/cmu_1.7/osx_ppc/sqlite.cmu_1.7.osx_ppc.import.xml" size="528" timestamp="1302893812" hash="af9417faa495bba41798acdd70694464" />
+    </package>
+    <package name="sqlite" platform="osx_ppc" version="cmu_1.8" filename="sqlite/cmu_1.8/osx_ppc/sqlite.cmu_1.8.osx_ppc.xml" size="977" timestamp="1365900217" hash="b453cdb2db28ca6f7d327e2f5e15693b" seq="2">
+        <import filename="sqlite/cmu_1.8/osx_ppc/sqlite.cmu_1.8.osx_ppc.import.xml" size="528" timestamp="1365900217" hash="d4beb11c9d74baacda31f75f0c9cd362" />
+    </package>
+    <package name="sqlite" platform="win32" version="cmu_1.7" filename="sqlite/cmu_1.7/win32/sqlite.cmu_1.7.win32.xml" size="1081" timestamp="1302892763" hash="510a7bc9d83d5160f2eca0cad6602555" seq="2">
+        <import filename="sqlite/cmu_1.7/win32/sqlite.cmu_1.7.win32.import.xml" size="597" timestamp="1302892763" hash="fa765dd4a6dcd33aed938c3cb87de2bf" />
+    </package>
+    <package name="sqlite" platform="win32" version="cmu_1.8" filename="sqlite/cmu_1.8/win32/sqlite.cmu_1.8.win32.xml" size="1081" timestamp="1365945993" hash="89fa914e04a7fc9b93e2ab52d1df8638" seq="2">
+        <import filename="sqlite/cmu_1.8/win32/sqlite.cmu_1.8.win32.import.xml" size="566" timestamp="1365945993" hash="7c183487efc9c15c3e413479e6b744db" />
+    </package>
+    <package name="sqlite" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="sqlite/cmu_1.9/win_amd64/sqlite.cmu_1.9.win_amd64.xml" size="1122" timestamp="1482770480" hash="2a783f696c54c2c425930ec762c9bf5f" seq="2">
+        <import filename="sqlite/cmu_1.9/win_amd64/sqlite.cmu_1.9.win_amd64.import.xml" size="574" timestamp="1482770480" hash="f27ac68f2d2a9ea59b6180d926f85e1f" />
+    </package>
+    <package name="sqlite" platform="win_i386" version="cmu_1.9" per_platform="1" filename="sqlite/cmu_1.9/win_i386/sqlite.cmu_1.9.win_i386.xml" size="1116" timestamp="1482770480" hash="9fa8f5f992c41c5de5b4699b506436dd" seq="2">
+        <import filename="sqlite/cmu_1.9/win_i386/sqlite.cmu_1.9.win_i386.import.xml" size="572" timestamp="1482770480" hash="e1d43e17047ed7bc5db047904835a85a" />
+    </package>
+    <package name="tk" version="cmu_1.7" filename="tk/cmu_1.7/tk.cmu_1.7.xml" size="768" timestamp="1302902285" hash="378b2ce760b643a0a5f93d18e258ec7d" seq="2">
+        <import filename="tk/cmu_1.7/tk.cmu_1.7.import.xml" size="1307" timestamp="1302902285" hash="808dbaa4ad26c6285759b02fa527bffd" />
+    </package>
+    <package name="tk" platform="linux_amd64" version="cmu_1.8" filename="tk/cmu_1.8/linux_amd64/tk.cmu_1.8.linux_amd64.xml" size="2237" timestamp="1365894059" hash="afcf679d824024b7a1f8f01bdc3b386c" seq="2">
+        <import filename="tk/cmu_1.8/linux_amd64/tk.cmu_1.8.linux_amd64.import.xml" size="3396" timestamp="1365894059" hash="4107cf98d38acb6cc15b02942ce7ab9a" />
+    </package>
+    <package name="tk" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="tk/cmu_1.9/linux_amd64/tk.cmu_1.9.linux_amd64.xml" size="2940" timestamp="1455007777" hash="6a4da9e3fdee2973d56a96e5b1889700" seq="3">
+        <import filename="tk/cmu_1.9/linux_amd64/tk.cmu_1.9.linux_amd64.import.xml" size="3797" timestamp="1455007777" hash="7e6fb52e2798d0d119ee6963351662eb" />
+    </package>
+    <package name="tk" platform="linux_i386" version="cmu_1.8" filename="tk/cmu_1.8/linux_i386/tk.cmu_1.8.linux_i386.xml" size="2230" timestamp="1365894333" hash="6688c975011c08107fb74d41425a72b4" seq="2">
+        <import filename="tk/cmu_1.8/linux_i386/tk.cmu_1.8.linux_i386.import.xml" size="3394" timestamp="1365894333" hash="cdb1b6512877b72948c3502285b8a4b1" />
+    </package>
+    <package name="tk" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="tk/cmu_1.9/linux_i386/tk.cmu_1.9.linux_i386.xml" size="2932" timestamp="1455007777" hash="f9e2535df6bbbd0f5185fe6e933347f6" seq="3">
+        <import filename="tk/cmu_1.9/linux_i386/tk.cmu_1.9.linux_i386.import.xml" size="3795" timestamp="1455007777" hash="fe3451800adc46ddd3c726df71d24599" />
+    </package>
+    <package name="tk" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="tk/cmu_1.9/osx_amd64/tk.cmu_1.9.osx_amd64.xml" size="2212" timestamp="1482770480" hash="a660ef285877e3d2d732685458a552fd" seq="2">
+        <import filename="tk/cmu_1.9/osx_amd64/tk.cmu_1.9.osx_amd64.import.xml" size="3529" timestamp="1482770480" hash="45e6996d63f12c09368d622e0fb95aa9" />
+    </package>
+    <package name="tk" platform="osx_i386" version="cmu_1.7" filename="tk/cmu_1.7/osx_i386/tk.cmu_1.7.osx_i386.xml" size="1288" timestamp="1302893812" hash="488259f7f7b2ab5c5ddd55bf13785b9b" seq="2">
+        <import filename="tk/cmu_1.7/osx_i386/tk.cmu_1.7.osx_i386.import.xml" size="1620" timestamp="1302893812" hash="04990a002470d28e7ff02941d502a0aa" />
+    </package>
+    <package name="tk" platform="osx_i386" version="cmu_1.8" filename="tk/cmu_1.8/osx_i386/tk.cmu_1.8.osx_i386.xml" size="1976" timestamp="1365900217" hash="8f72b93b479a3cb76f9d28a96fba42de" seq="2">
+        <import filename="tk/cmu_1.8/osx_i386/tk.cmu_1.8.osx_i386.import.xml" size="3303" timestamp="1365900217" hash="95213f0723738ee5120b17ab66f63336" />
+    </package>
+    <package name="tk" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="tk/cmu_1.9/osx_i386/tk.cmu_1.9.osx_i386.xml" size="2206" timestamp="1482770480" hash="ef21a90840861993109cfbbfac649ec8" seq="2">
+        <import filename="tk/cmu_1.9/osx_i386/tk.cmu_1.9.osx_i386.import.xml" size="3527" timestamp="1482770480" hash="3d60fb3e65cad75fec23cb81faa9e82d" />
+    </package>
+    <package name="tk" platform="osx_ppc" version="cmu_1.7" filename="tk/cmu_1.7/osx_ppc/tk.cmu_1.7.osx_ppc.xml" size="1282" timestamp="1302893812" hash="f60df593516df939a02fe9703fc202b8" seq="2">
+        <import filename="tk/cmu_1.7/osx_ppc/tk.cmu_1.7.osx_ppc.import.xml" size="1618" timestamp="1302893812" hash="3be786be82965c510356faeb34d3d2af" />
+    </package>
+    <package name="tk" platform="osx_ppc" version="cmu_1.8" filename="tk/cmu_1.8/osx_ppc/tk.cmu_1.8.osx_ppc.xml" size="1970" timestamp="1365900217" hash="a0a7a9b1cabd83946828813b18027937" seq="2">
+        <import filename="tk/cmu_1.8/osx_ppc/tk.cmu_1.8.osx_ppc.import.xml" size="3301" timestamp="1365900217" hash="c1cd7ed6eaad753e309b034d3d9e9720" />
+    </package>
+    <package name="tk" platform="win32" version="cmu_1.7" filename="tk/cmu_1.7/win32/tk.cmu_1.7.win32.xml" size="1290" timestamp="1302892763" hash="e77653a7425acaa0acd3aa465a3afa91" seq="2">
+        <import filename="tk/cmu_1.7/win32/tk.cmu_1.7.win32.import.xml" size="1628" timestamp="1302892763" hash="75bcd9e4b41d1bdb7d2044294db62de7" />
+    </package>
+    <package name="tk" platform="win32" version="cmu_1.8" filename="tk/cmu_1.8/win32/tk.cmu_1.8.win32.xml" size="2303" timestamp="1365945993" hash="26ec8b57bc7067cea0c13ca27e809728" seq="2">
+        <import filename="tk/cmu_1.8/win32/tk.cmu_1.8.win32.import.xml" size="3411" timestamp="1365945993" hash="f6b2e269086c53d6e7ba7e29cd5a695f" />
+    </package>
+    <package name="tk" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="tk/cmu_1.9/win_amd64/tk.cmu_1.9.win_amd64.xml" size="2328" timestamp="1482770480" hash="f10d9be1d4fbdd272ab025a58a1be30d" seq="2">
+        <import filename="tk/cmu_1.9/win_amd64/tk.cmu_1.9.win_amd64.import.xml" size="3471" timestamp="1482770480" hash="dadba70c3670bb45712db5ba346cff1d" />
+    </package>
+    <package name="tk" platform="win_i386" version="cmu_1.9" per_platform="1" filename="tk/cmu_1.9/win_i386/tk.cmu_1.9.win_i386.xml" size="2321" timestamp="1482770480" hash="e1eb82d7210337a9d2c30dbac8eba904" seq="2">
+        <import filename="tk/cmu_1.9/win_i386/tk.cmu_1.9.win_i386.import.xml" size="3469" timestamp="1482770480" hash="9a2702bcd85a2cab104c08041d556a77" />
+    </package>
+    <package name="twisted" platform="linux_amd64" version="cmu_1.7" filename="twisted/cmu_1.7/linux_amd64/twisted.cmu_1.7.linux_amd64.xml" size="3077" timestamp="1302902285" hash="c52f68d6623d1b1f836df664d51d5eb1" seq="2">
+        <import filename="twisted/cmu_1.7/linux_amd64/twisted.cmu_1.7.linux_amd64.import.xml" size="28428" timestamp="1302902285" hash="f338fbf093b4022aae8f14ce329bf573" />
+    </package>
+    <package name="twisted" platform="linux_amd64" version="cmu_1.8" filename="twisted/cmu_1.8/linux_amd64/twisted.cmu_1.8.linux_amd64.xml" size="2704" timestamp="1365894059" hash="4b996de61404f95625c9cd6424a3f52b" seq="2">
+        <import filename="twisted/cmu_1.8/linux_amd64/twisted.cmu_1.8.linux_amd64.import.xml" size="27278" timestamp="1365894059" hash="12e8303b282eeb2cc7bb73df3264a293" />
+    </package>
+    <package name="twisted" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="twisted/cmu_1.9/linux_amd64/twisted.cmu_1.9.linux_amd64.xml" size="9041" timestamp="1482770436" hash="009d1b0bb716ea518c318e81367e613d" seq="3">
+        <import filename="twisted/cmu_1.9/linux_amd64/twisted.cmu_1.9.linux_amd64.import.xml" size="33095" timestamp="1469011369" hash="8ccfddc8411b383db26b4ff78dcafef1" />
+    </package>
+    <package name="twisted" platform="linux_i386" version="cmu_1.7" filename="twisted/cmu_1.7/linux_i386/twisted.cmu_1.7.linux_i386.xml" size="3070" timestamp="1302891751" hash="4b81837d6c8cc412d43c238c29914fa0" seq="2">
+        <import filename="twisted/cmu_1.7/linux_i386/twisted.cmu_1.7.linux_i386.import.xml" size="28426" timestamp="1302891751" hash="0a524daef85bb8567ddec2719107f23f" />
+    </package>
+    <package name="twisted" platform="linux_i386" version="cmu_1.8" filename="twisted/cmu_1.8/linux_i386/twisted.cmu_1.8.linux_i386.xml" size="2697" timestamp="1365894333" hash="f7425a9150b67274d1b75e5312e1b029" seq="2">
+        <import filename="twisted/cmu_1.8/linux_i386/twisted.cmu_1.8.linux_i386.import.xml" size="27276" timestamp="1365894333" hash="4ec78031821e5ce3388202ae3434d16c" />
+    </package>
+    <package name="twisted" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="twisted/cmu_1.9/linux_i386/twisted.cmu_1.9.linux_i386.xml" size="9136" timestamp="1482770437" hash="c7dd9b9c21ddcaf0e54d6c1ba464786e" seq="3">
+        <import filename="twisted/cmu_1.9/linux_i386/twisted.cmu_1.9.linux_i386.import.xml" size="33153" timestamp="1469011369" hash="22e6af34e0f422a0a39fecea11320e3e" />
+    </package>
+    <package name="twisted" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="twisted/cmu_1.9/osx_amd64/twisted.cmu_1.9.osx_amd64.xml" size="2642" timestamp="1482770480" hash="45880d7bab77a3c275db63958ae5e1e2" seq="2">
+        <import filename="twisted/cmu_1.9/osx_amd64/twisted.cmu_1.9.osx_amd64.import.xml" size="28386" timestamp="1482770480" hash="138cb6d330bac47cec75d813ca35ad12" />
+    </package>
+    <package name="twisted" platform="osx_i386" version="cmu_1.7" filename="twisted/cmu_1.7/osx_i386/twisted.cmu_1.7.osx_i386.xml" size="2934" timestamp="1302893812" hash="a7401a14436335c5ce72f785774b6b02" seq="2">
+        <import filename="twisted/cmu_1.7/osx_i386/twisted.cmu_1.7.osx_i386.import.xml" size="28064" timestamp="1302893812" hash="338d0a6a1bdb151de027026d33a5b178" />
+    </package>
+    <package name="twisted" platform="osx_i386" version="cmu_1.8" filename="twisted/cmu_1.8/osx_i386/twisted.cmu_1.8.osx_i386.xml" size="2443" timestamp="1365900217" hash="d5f7c98fe77f4a17988f89a877ea6241" seq="2">
+        <import filename="twisted/cmu_1.8/osx_i386/twisted.cmu_1.8.osx_i386.import.xml" size="27394" timestamp="1365900217" hash="9bef5b33638e3410b54a5104fabe023c" />
+    </package>
+    <package name="twisted" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="twisted/cmu_1.9/osx_i386/twisted.cmu_1.9.osx_i386.xml" size="2636" timestamp="1482770480" hash="f9e59ed3c9b1e9db0f6edf21bbec9205" seq="2">
+        <import filename="twisted/cmu_1.9/osx_i386/twisted.cmu_1.9.osx_i386.import.xml" size="28384" timestamp="1482770480" hash="75e4d4726ff35723412f519735cba384" />
+    </package>
+    <package name="twisted" platform="osx_ppc" version="cmu_1.7" filename="twisted/cmu_1.7/osx_ppc/twisted.cmu_1.7.osx_ppc.xml" size="2923" timestamp="1302893812" hash="df527243e3e33c05aab37bd4b747f012" seq="2">
+        <import filename="twisted/cmu_1.7/osx_ppc/twisted.cmu_1.7.osx_ppc.import.xml" size="28062" timestamp="1302893812" hash="ed145677f7c34c69e50f91beae9e906a" />
+    </package>
+    <package name="twisted" platform="osx_ppc" version="cmu_1.8" filename="twisted/cmu_1.8/osx_ppc/twisted.cmu_1.8.osx_ppc.xml" size="2433" timestamp="1365900217" hash="0c5575353913cf25476954e856976c3c" seq="2">
+        <import filename="twisted/cmu_1.8/osx_ppc/twisted.cmu_1.8.osx_ppc.import.xml" size="27392" timestamp="1365900217" hash="4bbc27bccbb5cb267c4d43bc8079faad" />
+    </package>
+    <package name="twisted" platform="win32" version="cmu_1.7" filename="twisted/cmu_1.7/win32/twisted.cmu_1.7.win32.xml" size="2692" timestamp="1302892763" hash="3188414595e85c19e210b13084132684" seq="2">
+        <import filename="twisted/cmu_1.7/win32/twisted.cmu_1.7.win32.import.xml" size="28892" timestamp="1302892763" hash="c94ea51342f4ac58f48351555e4cd7f7" />
+    </package>
+    <package name="twisted" platform="win32" version="cmu_1.8" filename="twisted/cmu_1.8/win32/twisted.cmu_1.8.win32.xml" size="2559" timestamp="1365945993" hash="629832f1d4b6c686ebe7d2b740d56f56" seq="2">
+        <import filename="twisted/cmu_1.8/win32/twisted.cmu_1.8.win32.import.xml" size="27592" timestamp="1365945993" hash="8964bf9324d034bbf1d67997f166e008" />
+    </package>
+    <package name="vision" platform="linux_amd64" version="cmu_1.7" filename="vision/cmu_1.7/linux_amd64/vision.cmu_1.7.linux_amd64.xml" size="4761" timestamp="1302902285" hash="7b92352c380118ace5bd1bcba7eee310" seq="2">
+        <import filename="vision/cmu_1.7/linux_amd64/vision.cmu_1.7.linux_amd64.import.xml" size="1841" timestamp="1302902285" hash="0dc488889ef95a0c58aa490c4b632e34" />
+    </package>
+    <package name="vision" platform="linux_amd64" version="cmu_1.8" filename="vision/cmu_1.8/linux_amd64/vision.cmu_1.8.linux_amd64.xml" size="4761" timestamp="1365894059" hash="c531f3c3bd482c594736c3c25fdcc5c7" seq="2">
+        <import filename="vision/cmu_1.8/linux_amd64/vision.cmu_1.8.linux_amd64.import.xml" size="1841" timestamp="1365894059" hash="2f83412b1115a20225275af57021d4fc" />
+    </package>
+    <package name="vision" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="vision/cmu_1.9/linux_amd64/vision.cmu_1.9.linux_amd64.xml" size="1143" timestamp="1455007777" hash="b7706a530d6a465d7697f1c0e4008614" seq="3">
+        <import filename="vision/cmu_1.9/linux_amd64/vision.cmu_1.9.linux_amd64.import.xml" size="496" timestamp="1455007777" hash="32a8bff0f82ab5a16e80afdb96c80c93" />
+    </package>
+    <package name="vision" platform="linux_i386" version="cmu_1.7" filename="vision/cmu_1.7/linux_i386/vision.cmu_1.7.linux_i386.xml" size="4754" timestamp="1302891751" hash="19b146f42b32d324ffceb5c539fdb16d" seq="2">
+        <import filename="vision/cmu_1.7/linux_i386/vision.cmu_1.7.linux_i386.import.xml" size="1839" timestamp="1302891751" hash="e638600699661a5322d7ea4b075c6659" />
+    </package>
+    <package name="vision" platform="linux_i386" version="cmu_1.8" filename="vision/cmu_1.8/linux_i386/vision.cmu_1.8.linux_i386.xml" size="4754" timestamp="1365894333" hash="c7d5aa009cb150bb8ee84a0a6eb07596" seq="2">
+        <import filename="vision/cmu_1.8/linux_i386/vision.cmu_1.8.linux_i386.import.xml" size="1839" timestamp="1365894333" hash="4dfb3364ee7544806484c4f3199076a5" />
+    </package>
+    <package name="vision" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="vision/cmu_1.9/linux_i386/vision.cmu_1.9.linux_i386.xml" size="1137" timestamp="1455007777" hash="85e21fb336d418ab2a471c7eb7a378af" seq="3">
+        <import filename="vision/cmu_1.9/linux_i386/vision.cmu_1.9.linux_i386.import.xml" size="494" timestamp="1455007777" hash="11667d5c048a3407bea4487fde679599" />
+    </package>
+    <package name="vision" platform="osx_amd64" version="cmu_1.9" per_platform="1" filename="vision/cmu_1.9/osx_amd64/vision.cmu_1.9.osx_amd64.xml" size="1660" timestamp="1482770480" hash="7f58f9243dbf2b9488f8a64fd33b7a72" seq="2">
+        <import filename="vision/cmu_1.9/osx_amd64/vision.cmu_1.9.osx_amd64.import.xml" size="704" timestamp="1482770480" hash="45341b55abc57f7336e15ea6b9b2d265" />
+    </package>
+    <package name="vision" platform="osx_i386" version="cmu_1.7" filename="vision/cmu_1.7/osx_i386/vision.cmu_1.7.osx_i386.xml" size="995" timestamp="1302893812" hash="d23839132daee249cf557910936a5b67" seq="2">
+        <import filename="vision/cmu_1.7/osx_i386/vision.cmu_1.7.osx_i386.import.xml" size="409" timestamp="1302893812" hash="7fb3eda2814ff2369f19d3fdc2c7f6e9" />
+    </package>
+    <package name="vision" platform="osx_i386" version="cmu_1.8" filename="vision/cmu_1.8/osx_i386/vision.cmu_1.8.osx_i386.xml" size="995" timestamp="1365900217" hash="3db51186aa1a6124c10801ad0cc2071c" seq="2">
+        <import filename="vision/cmu_1.8/osx_i386/vision.cmu_1.8.osx_i386.import.xml" size="409" timestamp="1365900217" hash="7037475e9dcab6d256552375b533a55a" />
+    </package>
+    <package name="vision" platform="osx_i386" version="cmu_1.9" per_platform="1" filename="vision/cmu_1.9/osx_i386/vision.cmu_1.9.osx_i386.xml" size="1653" timestamp="1482770480" hash="9ee14ee5ba175a0b139ee63f5e837588" seq="2">
+        <import filename="vision/cmu_1.9/osx_i386/vision.cmu_1.9.osx_i386.import.xml" size="702" timestamp="1482770480" hash="6d626103cad9cb410db462ae4aef09e2" />
+    </package>
+    <package name="vision" platform="osx_ppc" version="cmu_1.7" filename="vision/cmu_1.7/osx_ppc/vision.cmu_1.7.osx_ppc.xml" size="988" timestamp="1302893812" hash="ee8cb6b628033653faa33118811b93dc" seq="2">
+        <import filename="vision/cmu_1.7/osx_ppc/vision.cmu_1.7.osx_ppc.import.xml" size="407" timestamp="1302893812" hash="3856298dd22fab81e4b0aa5a6a589fec" />
+    </package>
+    <package name="vision" platform="osx_ppc" version="cmu_1.8" filename="vision/cmu_1.8/osx_ppc/vision.cmu_1.8.osx_ppc.xml" size="988" timestamp="1365900217" hash="c4a89b3ab0322af48813af9e250db270" seq="2">
+        <import filename="vision/cmu_1.8/osx_ppc/vision.cmu_1.8.osx_ppc.import.xml" size="407" timestamp="1365900217" hash="9f813e7a038ecbab6f64028130a87088" />
+    </package>
+    <package name="vision" platform="win32" version="cmu_1.7" filename="vision/cmu_1.7/win32/vision.cmu_1.7.win32.xml" size="1925" timestamp="1302892763" hash="e27f75e098bcef238ec14374d2712cfe" seq="2">
+        <import filename="vision/cmu_1.7/win32/vision.cmu_1.7.win32.import.xml" size="752" timestamp="1302892763" hash="42875fdd2c2cb90ba96998ad5f9188ea" />
+    </package>
+    <package name="vision" platform="win32" version="cmu_1.8" filename="vision/cmu_1.8/win32/vision.cmu_1.8.win32.xml" size="1577" timestamp="1365945993" hash="060f2cb3ea10be1efd6edc83a67c6dbf" seq="2">
+        <import filename="vision/cmu_1.8/win32/vision.cmu_1.8.win32.import.xml" size="628" timestamp="1365945993" hash="4d960eabb0623b8b0397b10b077a370a" />
+    </package>
+    <package name="vision" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="vision/cmu_1.9/win_amd64/vision.cmu_1.9.win_amd64.xml" size="1256" timestamp="1482770480" hash="8dd7e190e8bf81b8282d8b9607cc266a" seq="2">
+        <import filename="vision/cmu_1.9/win_amd64/vision.cmu_1.9.win_amd64.import.xml" size="532" timestamp="1482770480" hash="3869ddcbd2638aa4b84467b27ead970d" />
+    </package>
+    <package name="vision" platform="win_i386" version="cmu_1.9" per_platform="1" filename="vision/cmu_1.9/win_i386/vision.cmu_1.9.win_i386.xml" size="1250" timestamp="1482770480" hash="5a04607a652ba99df367fa7f9fb07d87" seq="2">
+        <import filename="vision/cmu_1.9/win_i386/vision.cmu_1.9.win_i386.import.xml" size="530" timestamp="1482770480" hash="bf378d06c23ea971668857c69e2d57d3" />
+    </package>
+    <package name="vrpn" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="vrpn/cmu_1.9/linux_amd64/vrpn.cmu_1.9.linux_amd64.xml" size="1132" timestamp="1455007777" hash="68d5fa50a9694867126e5a3348f77367" seq="3">
+        <import filename="vrpn/cmu_1.9/linux_amd64/vrpn.cmu_1.9.linux_amd64.import.xml" size="488" timestamp="1455007777" hash="68e6a12d38d68fd079f9b9e3345bf17e" />
+    </package>
+    <package name="vrpn" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="vrpn/cmu_1.9/linux_i386/vrpn.cmu_1.9.linux_i386.xml" size="1126" timestamp="1455007777" hash="e2c86e395df21b620bdcd6b997f41119" seq="3">
+        <import filename="vrpn/cmu_1.9/linux_i386/vrpn.cmu_1.9.linux_i386.import.xml" size="486" timestamp="1455007777" hash="3fe5e1a2aa7f2f4531b5438357665b27" />
+    </package>
+    <package name="vrpn" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="vrpn/cmu_1.9/win_amd64/vrpn.cmu_1.9.win_amd64.xml" size="1240" timestamp="1482770480" hash="c07119a8d05dc787b8fb189eb6ed0fb0" seq="2">
+        <import filename="vrpn/cmu_1.9/win_amd64/vrpn.cmu_1.9.win_amd64.import.xml" size="524" timestamp="1482770480" hash="221aefa5b09335d2616dbb59d017b5e0" />
+    </package>
+    <package name="vrpn" platform="win_i386" version="cmu_1.9" per_platform="1" filename="vrpn/cmu_1.9/win_i386/vrpn.cmu_1.9.win_i386.xml" size="1234" timestamp="1482770480" hash="78a876cc374ea91a82039b1a1bac9c35" seq="2">
+        <import filename="vrpn/cmu_1.9/win_i386/vrpn.cmu_1.9.win_i386.import.xml" size="522" timestamp="1482770480" hash="fee38054d0dc50d1c30353ca26a0b9ea" />
+    </package>
+    <package name="wx" platform="linux_amd64" version="cmu_1.7" filename="wx/cmu_1.7/linux_amd64/wx.cmu_1.7.linux_amd64.xml" size="9901" timestamp="1482770437" hash="6f1c758f21784a90dbc297fa77dce475" seq="3">
+        <import filename="wx/cmu_1.7/linux_amd64/wx.cmu_1.7.linux_amd64.import.xml" size="6177" timestamp="1469011369" hash="d89194cae816adfb204c0b3e35425ead" />
+    </package>
+    <package name="wx" platform="linux_amd64" version="cmu_1.9" per_platform="1" filename="wx/cmu_1.9/linux_amd64/wx.cmu_1.9.linux_amd64.xml" size="10330" timestamp="1482770437" hash="14c31e6f413c5dcd02bfe2611f15374f" seq="3">
+        <import filename="wx/cmu_1.9/linux_amd64/wx.cmu_1.9.linux_amd64.import.xml" size="8194" timestamp="1469011369" hash="b56cdeaa30ff131a31dd480d2d22c9ef" />
+    </package>
+    <package name="wx" platform="linux_i386" version="cmu_1.7" filename="wx/cmu_1.7/linux_i386/wx.cmu_1.7.linux_i386.xml" size="9882" timestamp="1482770437" hash="214e435d36c47436206e70d967b095b3" seq="3">
+        <import filename="wx/cmu_1.7/linux_i386/wx.cmu_1.7.linux_i386.import.xml" size="6168" timestamp="1469011369" hash="99e7f08f7696f9e161ebe1d1dafda478" />
+    </package>
+    <package name="wx" platform="linux_i386" version="cmu_1.9" per_platform="1" filename="wx/cmu_1.9/linux_i386/wx.cmu_1.9.linux_i386.xml" size="10314" timestamp="1482770437" hash="774fde2041f6f8b01a98f53b1ddc8acb" seq="3">
+        <import filename="wx/cmu_1.9/linux_i386/wx.cmu_1.9.linux_i386.import.xml" size="8192" timestamp="1469011369" hash="bc3d125e5e2d4552e6a94265ff869471" />
+    </package>
+    <package name="wx" platform="osx_i386" version="cmu_1.7" filename="wx/cmu_1.7/osx_i386/wx.cmu_1.7.osx_i386.xml" size="4545" timestamp="1302893812" hash="cb75224b0c8515bb5d9ea267b7667517" seq="2">
+        <import filename="wx/cmu_1.7/osx_i386/wx.cmu_1.7.osx_i386.import.xml" size="4255" timestamp="1302893812" hash="2c3c0a62dd45fbb6e55941726388bf72" />
+    </package>
+    <package name="wx" platform="osx_i386" version="cmu_1.8" filename="wx/cmu_1.8/osx_i386/wx.cmu_1.8.osx_i386.xml" size="4013" timestamp="1365900217" hash="ee67c042e7634c32242e325dbba3aa58" seq="2">
+        <import filename="wx/cmu_1.8/osx_i386/wx.cmu_1.8.osx_i386.import.xml" size="4312" timestamp="1365900217" hash="d63465f2f5b5247dc68afca5e8a78e88" />
+    </package>
+    <package name="wx" platform="osx_ppc" version="cmu_1.7" filename="wx/cmu_1.7/osx_ppc/wx.cmu_1.7.osx_ppc.xml" size="4540" timestamp="1302893812" hash="4d4fefef4c507525316554fb406bdefe" seq="2">
+        <import filename="wx/cmu_1.7/osx_ppc/wx.cmu_1.7.osx_ppc.import.xml" size="4253" timestamp="1302893812" hash="464eb6a71aeeee4c57e54f455097b3c7" />
+    </package>
+    <package name="wx" platform="osx_ppc" version="cmu_1.8" filename="wx/cmu_1.8/osx_ppc/wx.cmu_1.8.osx_ppc.xml" size="4007" timestamp="1365900217" hash="8ebd12e17e7b4ca158cf1cdffa6dd59f" seq="2">
+        <import filename="wx/cmu_1.8/osx_ppc/wx.cmu_1.8.osx_ppc.import.xml" size="4310" timestamp="1365900217" hash="bf0bece86df10713b51bcef205cf74ec" />
+    </package>
+    <package name="wx" platform="win32" version="cmu_1.7" filename="wx/cmu_1.7/win32/wx.cmu_1.7.win32.xml" size="5613" timestamp="1302892763" hash="dcdcf3c7c2044024b4d85d00f49c97ea" seq="2">
+        <import filename="wx/cmu_1.7/win32/wx.cmu_1.7.win32.import.xml" size="4528" timestamp="1302892763" hash="1a53377d40c27a72bde48957d15a447a" />
+    </package>
+    <package name="wx" platform="win32" version="cmu_1.8" filename="wx/cmu_1.8/win32/wx.cmu_1.8.win32.xml" size="5851" timestamp="1365945993" hash="b161a439feee2273309900cdeae83242" seq="2">
+        <import filename="wx/cmu_1.8/win32/wx.cmu_1.8.win32.import.xml" size="5083" timestamp="1365945993" hash="75441f96f49dec12d8f9373fb18b7e85" />
+    </package>
+    <package name="wx" platform="win_amd64" version="cmu_1.9" per_platform="1" filename="wx/cmu_1.9/win_amd64/wx.cmu_1.9.win_amd64.xml" size="6733" timestamp="1465857104" hash="0cbd2bb4398cc88177df8351434812f5" seq="2">
+        <import filename="wx/cmu_1.9/win_amd64/wx.cmu_1.9.win_amd64.import.xml" size="6909" timestamp="1465857104" hash="80234789150f771495d3f3d95a2abea9" />
+    </package>
+    <package name="wx" platform="win_i386" version="cmu_1.9" per_platform="1" filename="wx/cmu_1.9/win_i386/wx.cmu_1.9.win_i386.xml" size="6721" timestamp="1465857104" hash="bf3ac6d9999095fbb04360e3583ecd0c" seq="2">
+        <import filename="wx/cmu_1.9/win_i386/wx.cmu_1.9.win_i386.import.xml" size="6907" timestamp="1465857104" hash="12ca10be06aec3beec6a2708d83e3cb5" />
+    </package>
+</contents>
