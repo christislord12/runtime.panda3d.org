@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="sqlite" platform="osx_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="SQLite Interface" />
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="sqlite.cmu_1.9.osx_amd64.mf" size="834837" timestamp="1482728560" hash="95ab1a8ea2994a36318013e2b3278d25" />
+    <compressed_archive filename="sqlite.cmu_1.9.osx_amd64.mf.1.pz" size="392257" timestamp="1482728560" hash="424bb2702f4fdcd0033e791d9e787742" />
+    <extract filename="_sqlite3.so" size="831424" timestamp="1448281871" hash="93f5f9535dee8636fd042835e1201747" />
+    <base_version filename="sqlite.cmu_1.9.osx_amd64.mf.base" size="834837" timestamp="1482728560" hash="95ab1a8ea2994a36318013e2b3278d25" />
+    <top_version filename="sqlite.cmu_1.9.osx_amd64.mf" size="834837" timestamp="1482728560" hash="95ab1a8ea2994a36318013e2b3278d25" />
+</package>

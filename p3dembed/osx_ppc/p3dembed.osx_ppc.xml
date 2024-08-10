@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dembed" platform="osx_ppc" seq="2" patch_version="1">
+    <uncompressed_archive filename="p3dembed.osx_ppc.mf" size="2543697" timestamp="1365896368" hash="b511aaaf5f740a3f3de52d0cce216bb7" />
+    <compressed_archive filename="p3dembed.osx_ppc.mf.1.pz" size="960127" timestamp="1365896368" hash="9b9ba1be9e2bda084b11306fcbcd918a" />
+    <extract filename="libcrypto.0.9.7.dylib" size="190692" timestamp="1221781274" hash="24cc10e910b3211826a943c7ebedee3d" />
+    <extract filename="libgcc_s.1.dylib" size="10852" timestamp="1221781274" hash="4fdc7f4641e2f8609461f467cbc4f10b" />
+    <extract filename="libssl.0.9.7.dylib" size="40196" timestamp="1221781276" hash="f3d3c4d74fc4e13dd6e7ded59a679911" />
+    <extract filename="libz.1.dylib" size="5420" timestamp="1221781279" hash="bebcb1119e01222c6a8143a88609ac2e" />
+    <extract filename="p3dembed" size="2296340" timestamp="1365896367" hash="d3635f7f82a93a17e42ae298b3c3776d" />
+    <base_version filename="p3dembed.osx_ppc.mf.base" size="2543697" timestamp="1365896368" hash="b511aaaf5f740a3f3de52d0cce216bb7" />
+    <top_version filename="p3dembed.osx_ppc.mf" size="2543697" timestamp="1365896368" hash="b511aaaf5f740a3f3de52d0cce216bb7" />
+</package>

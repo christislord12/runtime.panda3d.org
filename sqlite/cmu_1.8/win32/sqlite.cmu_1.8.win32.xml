@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="sqlite" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="SQLite Interface" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="sqlite.cmu_1.8.win32.mf" size="695589" timestamp="1365945918" hash="8cc0c10299d9440742e1e84a8f87fc67" />
+    <compressed_archive filename="sqlite.cmu_1.8.win32.mf.1.pz" size="396643" timestamp="1365945918" hash="0230cd3a9e20001e212679b0b84cf125" />
+    <extract filename="_sqlite3.pyd" size="57344" timestamp="1307905580" hash="405d29dd18cbba16bd88daad66c15362" />
+    <extract filename="sqlite3.dll" size="635392" timestamp="1307905566" hash="77098a8a7387de32bc7ecf52b6f41ef7" />
+    <base_version filename="sqlite.cmu_1.8.win32.mf.base" size="695589" timestamp="1365945918" hash="8cc0c10299d9440742e1e84a8f87fc67" />
+    <top_version filename="sqlite.cmu_1.8.win32.mf" size="695589" timestamp="1365945918" hash="8cc0c10299d9440742e1e84a8f87fc67" />
+</package>

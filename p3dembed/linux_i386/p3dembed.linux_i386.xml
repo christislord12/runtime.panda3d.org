@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dembed" platform="linux_i386" per_platform="1" seq="3" patch_version="1">
+    <uncompressed_archive filename="p3dembed.linux_i386.mf" size="4070088" timestamp="1454964138" hash="df827cdddadc4c38526b1ed930b78df9" />
+    <compressed_archive filename="p3dembed.linux_i386.mf.1.pz" size="1759250" timestamp="1454964138" hash="2d159b4bf256975716aaf2317ed0bb02" />
+    <extract filename="libstdc++.so.6" size="905712" timestamp="1334533456" hash="100819a7ced56afeb7968e72c7bcf08a" />
+    <extract filename="p3dembed" size="3164292" timestamp="1454964009" hash="456f200b2a17fe63b832c40d05192b36" />
+    <base_version filename="p3dembed.linux_i386.mf.base" size="4070088" timestamp="1454964138" hash="df827cdddadc4c38526b1ed930b78df9" />
+    <top_version filename="p3dembed.linux_i386.mf" size="4070088" timestamp="1454964138" hash="df827cdddadc4c38526b1ed930b78df9" />
+</package>

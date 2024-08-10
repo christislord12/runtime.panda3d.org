@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dembed" platform="win_amd64" per_platform="1" seq="2" patch_version="1">
+    <uncompressed_archive filename="p3dembed.win_amd64.mf" size="6705975" timestamp="1482728778" hash="77c404f01f94658cdaa82de23737408b" />
+    <compressed_archive filename="p3dembed.win_amd64.mf.1.pz" size="2918703" timestamp="1482728778" hash="bee249b7ef1762fffa9feb352c86ecb6" />
+    <extract filename="msvcp100.dll" size="608080" timestamp="1482711630" hash="d029339c0f59cf662094eddf8c42b2b5" />
+    <extract filename="msvcr100.dll" size="829264" timestamp="1482711630" hash="366fd6f3a451351b5df2d7c4ecf4c73a" />
+    <extract filename="p3dembed.exe" size="2634240" timestamp="1482714651" hash="af81e17405e6ca4094b51d3ba045cce0" />
+    <extract filename="p3dembedw.exe" size="2634240" timestamp="1482714680" hash="72a76aafd9ec26424eb176f1c3194714" />
+    <base_version filename="p3dembed.win_amd64.mf.base" size="6705975" timestamp="1482728778" hash="77c404f01f94658cdaa82de23737408b" />
+    <top_version filename="p3dembed.win_amd64.mf" size="6705975" timestamp="1482728778" hash="77c404f01f94658cdaa82de23737408b" />
+</package>

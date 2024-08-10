@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dembed" platform="win_i386" host="https://runtime.panda3d.org/" seq="2">
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="msvcp100.dll" />
+    <component filename="msvcr100.dll" />
+    <component filename="p3dembed.exe" />
+    <component filename="p3dembedw.exe" />
+</package>

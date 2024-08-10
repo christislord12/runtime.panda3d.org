@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="sqlite" platform="linux_amd64" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="_sqlite3.so" />
+    <component filename="datetime.so" />
+    <component filename="libsqlite3.so.0" />
+    <module name="_sqlite3" />
+    <module name="datetime" />
+    <module name="sqlite" />
+    <module name="sqlite3" />
+    <module name="sqlite3.dbapi2" />
+</package>

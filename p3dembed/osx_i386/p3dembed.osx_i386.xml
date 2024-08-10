@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dembed" platform="osx_i386" per_platform="1" seq="2" patch_version="1">
+    <uncompressed_archive filename="p3dembed.osx_i386.mf" size="3430773" timestamp="1482728536" hash="49580396b0e1c5a6770c68b3d4a09ea0" />
+    <compressed_archive filename="p3dembed.osx_i386.mf.1.pz" size="1419945" timestamp="1482728536" hash="7b268e96a33a6bb4c9590568fd752c8e" />
+    <extract filename="libcrypto.0.9.8.dylib" size="1390752" timestamp="1482728536" hash="2d929bb16b4e83b6445ed51d5164cbe2" />
+    <extract filename="libssl.0.9.8.dylib" size="311216" timestamp="1482720661" hash="cf03b068ab230c2a4e74387d7d85060c" />
+    <extract filename="libz.1.dylib" size="4944" timestamp="1413458601" hash="806fa39087d8e191b717f8e499db7666" />
+    <extract filename="p3dembed" size="1723700" timestamp="1482728536" hash="937b8676159c1b34fc8ed62615ca2ce6" />
+    <base_version filename="p3dembed.osx_i386.mf.base" size="3430773" timestamp="1482728536" hash="49580396b0e1c5a6770c68b3d4a09ea0" />
+    <top_version filename="p3dembed.osx_i386.mf" size="3430773" timestamp="1482728536" hash="49580396b0e1c5a6770c68b3d4a09ea0" />
+</package>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vrpn" platform="win_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D VRPN support" />
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vrpn.cmu_1.9.win_amd64.mf" size="9626877" timestamp="1482728771" hash="9970385d27c97d4924ee1a846cd50d5c" />
+    <compressed_archive filename="vrpn.cmu_1.9.win_amd64.mf.1.pz" size="2618515" timestamp="1482728771" hash="35eb3a9df851a8edf1c5dbcb3164f5b5" />
+    <extract filename="core.pyd" size="9449472" timestamp="1482728615" hash="babcb0bf4fd10e4da035735d5a39fcfc" />
+    <extract filename="libp3vrpn.dll" size="155648" timestamp="1482726675" hash="55460e7b7835acbe1f04b1139beaaba8" />
+    <extract filename="panda3d/vrpn.pyd" size="21504" timestamp="1482728650" hash="6874ff90e56fff6c3b47b54eadfdc6b2" />
+    <base_version filename="vrpn.cmu_1.9.win_amd64.mf.base" size="9626877" timestamp="1482728771" hash="9970385d27c97d4924ee1a846cd50d5c" />
+    <top_version filename="vrpn.cmu_1.9.win_amd64.mf" size="9626877" timestamp="1482728771" hash="9970385d27c97d4924ee1a846cd50d5c" />
+</package>

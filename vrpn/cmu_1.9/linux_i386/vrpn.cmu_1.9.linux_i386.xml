@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vrpn" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Panda3D VRPN support" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vrpn.cmu_1.9.linux_i386.mf" size="336167" timestamp="1454964134" hash="3c1269e7d80f1b14538ec1eb244fec9c" />
+    <compressed_archive filename="vrpn.cmu_1.9.linux_i386.mf.1.pz" size="102174" timestamp="1454964134" hash="84f81f65f5d15ab5bf8a8080c7be40cc" />
+    <extract filename="libp3vrpn.so" size="317396" timestamp="1454963722" hash="7acdc77787f3ca72bf8e47819d80603c" />
+    <extract filename="panda3d/vrpn.so" size="18548" timestamp="1454964134" hash="8662a583a3a9cad5d90dd5e9e93d1820" />
+    <base_version filename="vrpn.cmu_1.9.linux_i386.mf.base" size="336167" timestamp="1454964134" hash="3c1269e7d80f1b14538ec1eb244fec9c" />
+    <top_version filename="vrpn.cmu_1.9.linux_i386.mf" size="336167" timestamp="1454964134" hash="3c1269e7d80f1b14538ec1eb244fec9c" />
+</package>

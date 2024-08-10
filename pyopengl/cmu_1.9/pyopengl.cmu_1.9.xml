@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pyopengl" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="PyOpenGL" />
+    <requires name="panda3d" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <requires name="numpy" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pyopengl.cmu_1.9.mf" size="841056" timestamp="1454965152" hash="e59e0b75babc8df38b4c3d18a073713d" />
+    <compressed_archive filename="pyopengl.cmu_1.9.mf.1.pz" size="215291" timestamp="1454965152" hash="f96ec7d737b46ddc1d02d76a741ead46" />
+    <base_version filename="pyopengl.cmu_1.9.mf.base" size="841056" timestamp="1454965152" hash="e59e0b75babc8df38b4c3d18a073713d" />
+    <top_version filename="pyopengl.cmu_1.9.mf" size="841056" timestamp="1454965152" hash="e59e0b75babc8df38b4c3d18a073713d" />
+</package>
