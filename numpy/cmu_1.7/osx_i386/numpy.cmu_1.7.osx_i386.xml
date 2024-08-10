@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="numpy" platform="osx_i386" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="NumPy" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="numpy.cmu_1.7.osx_i386.mf" size="4722208" timestamp="1302893362" hash="45c1e7e7ea5d8f925bda37a22ff337f2" />
+    <compressed_archive filename="numpy.cmu_1.7.osx_i386.mf.1.pz" size="1381480" timestamp="1302893806" hash="ebcf4a2e1b5c75af6f798b617fd6425d" />
+    <extract filename="_bytesio.so" size="21112" timestamp="1283245303" hash="7a748b01fe6eb4cf333b60daa86c0235" />
+    <extract filename="_ctypes.so" size="128476" timestamp="1283245735" hash="62ae7681939d6fd60d68aa2519cb088e" />
+    <extract filename="_fileio.so" size="21748" timestamp="1283245301" hash="c0b01b27e6e6dfa94e76fb29ff58b32c" />
+    <extract filename="bz2.so" size="116892" timestamp="1283245418" hash="73ee5460f7f960c0c5310db32bcd63ac" />
+    <extract filename="icglue.so" size="21216" timestamp="1283245514" hash="cd11b93ed1e5e239c172672e0397fadd" />
+    <extract filename="mmap.so" size="26156" timestamp="1283245346" hash="1894ca14a73c98f291cb8929a71e2a2e" />
+    <extract filename="numpy/core/_dotblas.so" size="32028" timestamp="1288188475" hash="7d547e0028f3a7bf0a011ef2d45ec44d" />
+    <extract filename="numpy/core/_sort.so" size="126684" timestamp="1288188475" hash="7d4426a18db1bb180c4ba395c761df71" />
+    <extract filename="numpy/core/multiarray.so" size="721620" timestamp="1288188475" hash="af600edb21555a9a890fa9fffaf952be" />
+    <extract filename="numpy/core/scalarmath.so" size="181972" timestamp="1288188475" hash="0b0b5abd08ab06ea344905295baf31f0" />
+    <extract filename="numpy/core/umath.so" size="392608" timestamp="1288188475" hash="c04eab88815948754106c51f85f816f7" />
+    <extract filename="numpy/fft/fftpack_lite.so" size="49836" timestamp="1288188476" hash="5cc7def2ee00d014e94e2a3bf4f758b1" />
+    <extract filename="numpy/lib/_compiled_base.so" size="24008" timestamp="1288188476" hash="9247060adf86ebdfd04fd25e9987c2ee" />
+    <extract filename="numpy/linalg/lapack_lite.so" size="29132" timestamp="1288188476" hash="8385a5d7c947d92b1e548e0051a40372" />
+    <extract filename="numpy/random/mtrand.so" size="436260" timestamp="1288188476" hash="4232837198853fe33a0da99ba5c29240" />
+    <extract filename="parser.so" size="80092" timestamp="1283245334" hash="e981bbdb8d8934b100bdb8e9d638017a" />
+    <base_version filename="numpy.cmu_1.7.osx_i386.mf.base" size="4722208" timestamp="1302893362" hash="45c1e7e7ea5d8f925bda37a22ff337f2" />
+    <top_version filename="numpy.cmu_1.7.osx_i386.mf" size="4722208" timestamp="1302893362" hash="45c1e7e7ea5d8f925bda37a22ff337f2" />
+</package>

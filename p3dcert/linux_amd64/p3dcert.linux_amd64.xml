@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dcert" platform="linux_amd64" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Authorization Dialog" />
+    <uncompressed_archive filename="p3dcert.linux_amd64.mf" size="3061843" timestamp="1454965128" hash="7c2f3490bf10332858c7d77eb4aae6dd" />
+    <compressed_archive filename="p3dcert.linux_amd64.mf.1.pz" size="1263982" timestamp="1454965128" hash="b52ce2aa8a235d8a44c13b04c2fd6761" />
+    <extract filename="libstdc++.so.6" size="962656" timestamp="1334533005" hash="030b527fe8554e04510431451286caf7" />
+    <extract filename="p3dcert" size="2099104" timestamp="1448420529" hash="c00be68f0e455bbe8038a81fecf43932" />
+    <base_version filename="p3dcert.linux_amd64.mf.base" size="3061843" timestamp="1454965128" hash="7c2f3490bf10332858c7d77eb4aae6dd" />
+    <top_version filename="p3dcert.linux_amd64.mf" size="3061843" timestamp="1454965128" hash="7c2f3490bf10332858c7d77eb4aae6dd" />
+</package>

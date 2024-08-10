@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pyglet" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="5" patch_version="1">
+    <config display_name="pyglet" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="4" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pyglet.cmu_1.9.linux_i386.mf" size="2627110" timestamp="1441243767" hash="54dfb7bd2cd7624b5ca41e7a74eba3d6" />
+    <compressed_archive filename="pyglet.cmu_1.9.linux_i386.mf.1.pz" size="888491" timestamp="1441243768" hash="04a5f5e7a75f6736bec1f6798fa380c9" />
+    <extract filename="_ctypes.so" size="137020" timestamp="1435004599" hash="2b4b156bba6a0b92d5c849c6c1a2f43f" />
+    <extract filename="bz2.so" size="36576" timestamp="1435004599" hash="f0f9c4029ca3ad92b00628d0df4073a2" />
+    <extract filename="libbz2.so.1.0" size="65996" timestamp="1323929358" hash="073e8b3d96ca965fd43310c09189b044" />
+    <extract filename="parser.so" size="84412" timestamp="1435004599" hash="7669a52b604a675f314ee83684ceed48" />
+    <extract filename="termios.so" size="17860" timestamp="1435004599" hash="2ec515880e73edc46cf0076cf238faad" />
+    <base_version filename="pyglet.cmu_1.9.linux_i386.mf.base" size="2627110" timestamp="1441243767" hash="54dfb7bd2cd7624b5ca41e7a74eba3d6" />
+    <top_version filename="pyglet.cmu_1.9.linux_i386.mf" size="2627110" timestamp="1441243767" hash="54dfb7bd2cd7624b5ca41e7a74eba3d6" />
+</package>

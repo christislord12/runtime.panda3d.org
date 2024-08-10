@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ffmpeg" platform="linux_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="3">
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="2" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="ffmpeg.prc" />
+    <component filename="libavcodec.so.53" />
+    <component filename="libavformat.so.53" />
+    <component filename="libavutil.so.51" />
+    <component filename="libbz2.so.1.0" />
+    <component filename="libgsm.so.1" />
+    <component filename="liborc-0.4.so.0" />
+    <component filename="libp3ffmpeg.so" />
+    <component filename="libschroedinger-1.0.so.0" />
+    <component filename="libspeex.so.1" />
+    <component filename="libswscale.so.2" />
+    <component filename="libtheoradec.so.1" />
+    <component filename="libtheoraenc.so.1" />
+    <component filename="libva.so.1" />
+    <component filename="libvorbisenc.so.2" />
+    <component filename="libvpx.so.1" />
+</package>

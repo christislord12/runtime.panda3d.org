@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ode" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D Open Dynamics Engine integration" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ode.cmu_1.7.osx_ppc.mf" size="1813551" timestamp="1302893308" hash="1f0b0663fdfb61b9afcdfc68de28acd8" />
+    <compressed_archive filename="ode.cmu_1.7.osx_ppc.mf.1.pz" size="520803" timestamp="1302893806" hash="35026ffbc74a22a35bf73881fa805f66" />
+    <extract filename="libpandaode.dylib" size="1813492" timestamp="1302892272" hash="65b250b18acc91e12c477f96b194279c" />
+    <base_version filename="ode.cmu_1.7.osx_ppc.mf.base" size="1813551" timestamp="1302893308" hash="1f0b0663fdfb61b9afcdfc68de28acd8" />
+    <top_version filename="ode.cmu_1.7.osx_ppc.mf" size="1813551" timestamp="1302893308" hash="1f0b0663fdfb61b9afcdfc68de28acd8" />
+</package>

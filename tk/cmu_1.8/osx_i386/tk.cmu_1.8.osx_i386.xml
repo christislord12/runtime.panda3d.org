@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="osx_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.8.osx_i386.mf" size="857241" timestamp="1365896411" hash="873941d46f495619b38c3833f2a0d9ed" />
+    <compressed_archive filename="tk.cmu_1.8.osx_i386.mf.1.pz" size="237748" timestamp="1365896411" hash="a35a8484ad4c684c732ca48b26f06772" />
+    <extract filename="_ctypes.so" size="129644" timestamp="1307826947" hash="e15f0143744b5d9a8c7cf4a27ad43d02" />
+    <extract filename="_tkinter.so" size="52188" timestamp="1365896410" hash="ef0477abfd955ab33f7d8bb212fc3c36" />
+    <extract filename="auto.tcl" size="19529" timestamp="1190595399" hash="a02d64e240dbe0eba3cd3c7991477e3b" />
+    <extract filename="history.tcl" size="9108" timestamp="1190595399" hash="611e3e68ebabc4c0a4cff496b84e0b76" />
+    <extract filename="init.tcl" size="22753" timestamp="1190595399" hash="f2f0485b93df2edd522f0cc3c751cd0b" />
+    <extract filename="ldAout.tcl" size="6802" timestamp="1190595399" hash="0126f7916eed5c3f03a1125fd8424c5a" />
+    <extract filename="package.tcl" size="24008" timestamp="1190595399" hash="124ee41ae8f2b8b4134c2e11695a1130" />
+    <extract filename="parray.tcl" size="882" timestamp="1190595399" hash="580eede494f235f33594432abde8075e" />
+    <extract filename="safe.tcl" size="27724" timestamp="1190595399" hash="eb77bc6271728d75f766d9723af827ba" />
+    <extract filename="word.tcl" size="4375" timestamp="1190595399" hash="46f910f760b614c0f74316e1d8b0115b" />
+    <base_version filename="tk.cmu_1.8.osx_i386.mf.base" size="857241" timestamp="1365896411" hash="873941d46f495619b38c3833f2a0d9ed" />
+    <top_version filename="tk.cmu_1.8.osx_i386.mf" size="857241" timestamp="1365896411" hash="873941d46f495619b38c3833f2a0d9ed" />
+</package>

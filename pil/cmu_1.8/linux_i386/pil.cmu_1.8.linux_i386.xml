@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pil" platform="linux_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Python Imaging Library" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pil.cmu_1.8.linux_i386.mf" size="1611340" timestamp="1365894286" hash="8daa6f45e508da16427f7843baf481d4" />
+    <compressed_archive filename="pil.cmu_1.8.linux_i386.mf.1.pz" size="606995" timestamp="1365894286" hash="a69669897e91fa0bbd45e433664bdb6d" />
+    <extract filename="_imaging.so" size="999637" timestamp="1317306604" hash="eb989846b9b30ddadbae5fdbacdf30bd" />
+    <extract filename="_imagingft.so" size="37723" timestamp="1317306604" hash="1925142f9c8c53ae6e5e64467ce3669d" />
+    <extract filename="_imagingmath.so" size="53284" timestamp="1317306604" hash="a2ce4238e524bb9580dca422f5f137a1" />
+    <extract filename="mmap.so" size="57348" timestamp="1327773570" hash="b831959b4d94f8e91005d398e16f75dc" />
+    <base_version filename="pil.cmu_1.8.linux_i386.mf.base" size="1611340" timestamp="1365894286" hash="8daa6f45e508da16427f7843baf481d4" />
+    <top_version filename="pil.cmu_1.8.linux_i386.mf" size="1611340" timestamp="1365894286" hash="8daa6f45e508da16427f7843baf481d4" />
+</package>

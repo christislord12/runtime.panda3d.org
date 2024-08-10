@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="numpy" platform="linux_amd64" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="NumPy" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="numpy.cmu_1.9.linux_amd64.mf" size="21556612" timestamp="1454965140" hash="3ffff542682a7a87e090ca6f62b343d4" />
+    <compressed_archive filename="numpy.cmu_1.9.linux_amd64.mf.1.pz" size="8957123" timestamp="1454965141" hash="d23e1997fba090db51a0d838d091a6b2" />
+    <extract filename="_ctypes.so" size="152560" timestamp="1435003207" hash="f0826ad38f66a58af4e0b07a9d20b51a" />
+    <extract filename="_curses.so" size="86336" timestamp="1435003207" hash="e2dc3cbb798731e2fbc7beabbde34489" />
+    <extract filename="_tkinter.so" size="55768" timestamp="1334426440" hash="4e4cd9ab8a919ca975dae00abec53090" />
+    <extract filename="bz2.so" size="38496" timestamp="1435003207" hash="87a7f8757b43b912a9393ecb42377a5d" />
+    <extract filename="libblas.so.3gf" size="630056" timestamp="1315579084" hash="c49cb60a2d2e4ceaaa00cef07154d4d4" />
+    <extract filename="libBLT.2.4.so.8.5" size="1199872" timestamp="1299043225" hash="d0497cd24d444007cb1efe8382c72afe" />
+    <extract filename="libbz2.so.1.0" size="66784" timestamp="1323929514" hash="8af5bbf087cdfcbedf5965c229eede42" />
+    <extract filename="libfontconfig.so.1" size="220896" timestamp="1345614198" hash="1805faf856de85b05f6b29c1f4a90385" />
+    <extract filename="libgfortran.so.3" size="1141184" timestamp="1334533044" hash="e45fa8e43110ef0c64c856ec2e4276ce" />
+    <extract filename="liblapack.so.3gf" size="9342808" timestamp="1315620214" hash="0f07a5f4af9c871cfe11961a47fea661" />
+    <extract filename="libncursesw.so.5" size="183072" timestamp="1321623036" hash="85f5e88b1c0f3b5ab27d8556c75002ad" />
+    <extract filename="libquadmath.so.0" size="220392" timestamp="1334532914" hash="ae43359cc90482a3134da0574c3049f3" />
+    <extract filename="libtcl8.5.so.0" size="1145296" timestamp="1324405350" hash="90f7aae09ba4c9c8056c184994bcee94" />
+    <extract filename="libtk8.5.so.0" size="1329128" timestamp="1324293740" hash="df4c80f83cdfff8b0675f497ffb800b5" />
+    <extract filename="libXft.so.2" size="85168" timestamp="1330668363" hash="576186cc7877825baf8aa2e3b2f1863b" />
+    <extract filename="libXss.so.1" size="14480" timestamp="1313090362" hash="a18e028e3cbb024e0995a51de6dc9716" />
+    <extract filename="mmap.so" size="25008" timestamp="1435003207" hash="1dd54e6db5e5e559ec6be8e5a37b6676" />
+    <extract filename="numpy/core/_dotblas.so" size="22960" timestamp="1332202990" hash="318f8888f8b76863c47455f1d49491f3" />
+    <extract filename="numpy/core/_sort.so" size="100384" timestamp="1332202990" hash="c5d13a2c01c08ddd2e824561ae050e1e" />
+    <extract filename="numpy/core/multiarray.so" size="1067728" timestamp="1332202990" hash="d9645953f6c54dcaa29e819be9d0508c" />
+    <extract filename="numpy/core/scalarmath.so" size="179792" timestamp="1332202990" hash="11028af38d695fd9bb63f29b2b0bedef" />
+    <extract filename="numpy/core/umath.so" size="357680" timestamp="1332202990" hash="eea3c013adf540b9a8ec0c653388d323" />
+    <extract filename="numpy/fft/fftpack_lite.so" size="39160" timestamp="1332202991" hash="57afefb74efe81daf4faa91bf7d337b4" />
+    <extract filename="numpy/lib/_compiled_base.so" size="27384" timestamp="1332202991" hash="8acbe6c556cd8d3f33167733b55c3847" />
+    <extract filename="numpy/linalg/lapack_lite.so" size="27416" timestamp="1332202991" hash="21ea78991d293a1647517fa215fa6943" />
+    <extract filename="numpy/random/mtrand.so" size="485344" timestamp="1332202991" hash="32454529e6c39a92f1bd274c34148b5c" />
+    <extract filename="parser.so" size="81744" timestamp="1435003207" hash="a4191148262aad6e77d709224612b5fe" />
+    <base_version filename="numpy.cmu_1.9.linux_amd64.mf.base" size="21556612" timestamp="1454965140" hash="3ffff542682a7a87e090ca6f62b343d4" />
+    <top_version filename="numpy.cmu_1.9.linux_amd64.mf" size="21556612" timestamp="1454965140" hash="3ffff542682a7a87e090ca6f62b343d4" />
+</package>

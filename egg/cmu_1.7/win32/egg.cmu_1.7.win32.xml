@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="egg" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D egg loader" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="egg.cmu_1.7.win32.mf" size="2565918" timestamp="1302892679" hash="7ff2ce30b7416245cceb6a18e8e4469b" />
+    <compressed_archive filename="egg.cmu_1.7.win32.mf.1.pz" size="739939" timestamp="1302892761" hash="cd1735fe1750894704921d07c1e13623" />
+    <extract filename="egg.prc" size="52" timestamp="1302892679" hash="78661f08f970a926db048a5a73bc62f0" />
+    <extract filename="libpandaegg.dll" size="2565120" timestamp="1302892050" hash="92e01eb6eb32df553567180dea5c6875" />
+    <extract filename="libpandaegg.dll.manifest" size="618" timestamp="1302892050" hash="2e27942d91e00e3491fa45e3817a2581" />
+    <base_version filename="egg.cmu_1.7.win32.mf.base" size="2565918" timestamp="1302892679" hash="7ff2ce30b7416245cceb6a18e8e4469b" />
+    <top_version filename="egg.cmu_1.7.win32.mf" size="2565918" timestamp="1302892679" hash="7ff2ce30b7416245cceb6a18e8e4469b" />
+</package>

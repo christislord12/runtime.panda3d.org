@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ffmpeg" platform="linux_amd64" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="FFMpeg multimedia decoder" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ffmpeg.cmu_1.9.linux_amd64.mf" size="13946472" timestamp="1454965123" hash="bf96f60a27e2e6db93c1ec18c9d4c2db" />
+    <compressed_archive filename="ffmpeg.cmu_1.9.linux_amd64.mf.1.pz" size="4743106" timestamp="1454965124" hash="ebb9fb7e82c2769ec2cdbf985251c7ae" />
+    <extract filename="ffmpeg.prc" size="79" timestamp="1454965122" hash="6535ef9ffcba1b91176bd51dc0b22f09" />
+    <extract filename="libavcodec.so.53" size="6955120" timestamp="1426512500" hash="a408c09b65ee05390a694383bbed414c" />
+    <extract filename="libavformat.so.53" size="1051360" timestamp="1426512500" hash="aacaeab083e5fc84fd3efd135eb299c9" />
+    <extract filename="libavutil.so.51" size="115376" timestamp="1426512498" hash="62eb8c589683de844f845bfa55d2fc87" />
+    <extract filename="libbz2.so.1.0" size="66784" timestamp="1323929514" hash="8af5bbf087cdfcbedf5965c229eede42" />
+    <extract filename="libgsm.so.1" size="55592" timestamp="1257417029" hash="d72db79b3c00329daa6fa12e329f2f7b" />
+    <extract filename="liborc-0.4.so.0" size="502416" timestamp="1323065233" hash="f7de95c2d545b16dd590bea5cedc22c8" />
+    <extract filename="libp3ffmpeg.so" size="81352" timestamp="1454964380" hash="43829e92a190af689041aa4efd44e9cd" />
+    <extract filename="libschroedinger-1.0.so.0" size="730200" timestamp="1328647771" hash="95a4013041f320fc74a519b5e16b5ba2" />
+    <extract filename="libspeex.so.1" size="100472" timestamp="1325581582" hash="f3062d64d6bae3b6b5166b300e3834ef" />
+    <extract filename="libswscale.so.2" size="284880" timestamp="1426512501" hash="5ab007641826bcaca61c2114bca0d09f" />
+    <extract filename="libtheoradec.so.1" size="108664" timestamp="1322880784" hash="07d10fe702edc59c983b6fff59c9b08b" />
+    <extract filename="libtheoraenc.so.1" size="248048" timestamp="1322880784" hash="dc0ba982a294268c53346d5037ba39bd" />
+    <extract filename="libva.so.1" size="67792" timestamp="1333044705" hash="bc0c4cbb6b0e8da0b87c7ae8451c285f" />
+    <extract filename="libvorbisenc.so.2" size="2943056" timestamp="1329747992" hash="258ecdefea7c440730fd6e499b2d3964" />
+    <extract filename="libvpx.so.1" size="634704" timestamp="1328753607" hash="df6ecb1244fc25384c237179915a7a54" />
+    <base_version filename="ffmpeg.cmu_1.9.linux_amd64.mf.base" size="13946472" timestamp="1454965123" hash="bf96f60a27e2e6db93c1ec18c9d4c2db" />
+    <top_version filename="ffmpeg.cmu_1.9.linux_amd64.mf" size="13946472" timestamp="1454965123" hash="bf96f60a27e2e6db93c1ec18c9d4c2db" />
+</package>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.8.win32.mf" size="3084445" timestamp="1365945917" hash="8fb0f7b0ad93a41a0b38a12283e13789" />
+    <compressed_archive filename="tk.cmu_1.8.win32.mf.1.pz" size="1258265" timestamp="1365945918" hash="a33fadfa76e33efbc9091524b3aa4bc6" />
+    <extract filename="_ctypes.pyd" size="106496" timestamp="1307905582" hash="deccede0781726ce0daa75a4635bf919" />
+    <extract filename="_tkinter.pyd" size="30208" timestamp="1307905580" hash="21857f0644212c1c0647422236de447b" />
+    <extract filename="auto.tcl" size="20381" timestamp="1213308082" hash="667aacc63fb13a5090f3724f2224a0cc" />
+    <extract filename="clock.tcl" size="128892" timestamp="1213308082" hash="f9f3e8061cf5cd516fc061e4de64d8d7" />
+    <extract filename="history.tcl" size="9032" timestamp="1213308082" hash="9c24f3bf83f638f7195cd55bb074e948" />
+    <extract filename="init.tcl" size="24808" timestamp="1213308082" hash="48243dbba86f38463098acac935636f8" />
+    <extract filename="package.tcl" size="23177" timestamp="1213308082" hash="898601cfc8065bec4c1bbd4f23923c4d" />
+    <extract filename="parray.tcl" size="869" timestamp="1213308082" hash="d5e02c196b5ea07cc8151e515022ba25" />
+    <extract filename="safe.tcl" size="26881" timestamp="1213308082" hash="82ab63107d527ccb43da7c5dae23033f" />
+    <extract filename="tcl85.dll" size="867840" timestamp="1283020938" hash="d2fffc76f7541898fe74881807d8d4b4" />
+    <extract filename="tk85.dll" size="1320448" timestamp="1283021106" hash="e75e36d098964e07761755e9b63458ec" />
+    <extract filename="tm.tcl" size="10801" timestamp="1213308082" hash="107b5d537eb372b4a78d27d8c28cd902" />
+    <extract filename="word.tcl" size="4724" timestamp="1213308082" hash="05bc45d0b6c1cfb956e7c32ddae4fc55" />
+    <base_version filename="tk.cmu_1.8.win32.mf.base" size="3084445" timestamp="1365945917" hash="8fb0f7b0ad93a41a0b38a12283e13789" />
+    <top_version filename="tk.cmu_1.8.win32.mf" size="3084445" timestamp="1365945917" hash="8fb0f7b0ad93a41a0b38a12283e13789" />
+</package>

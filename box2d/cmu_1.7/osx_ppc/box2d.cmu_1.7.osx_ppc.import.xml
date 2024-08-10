@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="box2d" platform="osx_ppc" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="Box2D/_Box2D.so" />
+    <component filename="Box2D/libgcc_s.1.dylib" />
+    <module name="Box2D" />
+    <module name="Box2D._Box2D" />
+    <module name="Box2D.Box2D" />
+</package>

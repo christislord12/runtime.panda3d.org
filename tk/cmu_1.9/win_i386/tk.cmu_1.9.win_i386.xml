@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="win_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="win_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.9.win_i386.mf" size="3177952" timestamp="1482717257" hash="2549e6cb8e77b4634183a939fd1bf4be" />
+    <compressed_archive filename="tk.cmu_1.9.win_i386.mf.1.pz" size="1268773" timestamp="1482717257" hash="2575d21785452a1bc78f93d9c8eab156" />
+    <extract filename="_tkinter.pyd" size="40960" timestamp="1482703990" hash="280f08ed41abf00a2bd66d4f134086e9" />
+    <extract filename="lib/tcl8.5/auto.tcl" size="20622" timestamp="1482703984" hash="3cb566dc97ac449b52d3952fdb7991c6" />
+    <extract filename="lib/tcl8.5/clock.tcl" size="130266" timestamp="1482703984" hash="3ad7ed0d9a7b03a20d993b1d66bf5b15" />
+    <extract filename="lib/tcl8.5/history.tcl" size="8965" timestamp="1482703984" hash="2c3bbe593e10f8b25a1ae7753ac60c3a" />
+    <extract filename="lib/tcl8.5/init.tcl" size="25030" timestamp="1482703984" hash="43f567a868b35c354733f745bd9288c9" />
+    <extract filename="lib/tcl8.5/package.tcl" size="23398" timestamp="1482703984" hash="e8f866596a08d1e7a455c8c98c300160" />
+    <extract filename="lib/tcl8.5/parray.tcl" size="803" timestamp="1482703984" hash="727e547c9c9a8a2b0937fb1c20e8aa26" />
+    <extract filename="lib/tcl8.5/safe.tcl" size="33170" timestamp="1482703984" hash="0c1d0a505005b85e23c8c92b621da261" />
+    <extract filename="lib/tcl8.5/tm.tcl" size="11741" timestamp="1482703984" hash="e463fcd7371c7b7b2cca32318495b9bf" />
+    <extract filename="lib/tcl8.5/word.tcl" size="4674" timestamp="1482703984" hash="de79f133b24efa0ad1a8cb0b1f90210f" />
+    <extract filename="tcl85.dll" size="893952" timestamp="1482703988" hash="5970f861703d398de54d259464111442" />
+    <extract filename="tk85.dll" size="1330688" timestamp="1482703988" hash="3362ea26ba61c35104368a3fcbf04b0f" />
+    <base_version filename="tk.cmu_1.9.win_i386.mf.base" size="3177952" timestamp="1482717257" hash="2549e6cb8e77b4634183a939fd1bf4be" />
+    <top_version filename="tk.cmu_1.9.win_i386.mf" size="3177952" timestamp="1482717257" hash="2549e6cb8e77b4634183a939fd1bf4be" />
+</package>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dcert" platform="osx_amd64" host="https://runtime.panda3d.org/" seq="2">
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="libcrypto.0.9.8.dylib" />
+    <component filename="libssl.0.9.8.dylib" />
+    <component filename="libz.1.dylib" />
+    <component filename="P3DCert.app/Contents/Info.plist" />
+    <component filename="P3DCert.app/Contents/MacOS/p3dcert" />
+</package>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="physx" platform="win_i386" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="win_i386" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="core.pyd" />
+    <component filename="libpandaphysx.dll" />
+    <component filename="NxCharacter.dll" />
+    <component filename="panda3d/physx.pyd" />
+    <component filename="physxcudart_20.dll" />
+    <component filename="PhysXDevice.dll" />
+    <component filename="PhysXLoader.dll" />
+    <module name="panda3d.physx" />
+</package>

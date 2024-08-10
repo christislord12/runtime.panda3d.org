@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="openal" platform="linux_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="OpenAL audio library" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="openal.cmu_1.8.linux_i386.mf" size="373486" timestamp="1365894257" hash="ece6bf6c762111c9e53d7f4ddbc7431f" />
+    <compressed_archive filename="openal.cmu_1.8.linux_i386.mf.1.pz" size="153729" timestamp="1365894257" hash="679936f67897899dc0ca25c189565f19" />
+    <extract filename="libopenal.so.1" size="243984" timestamp="1276880579" hash="53b3de43dbd88e4f58e6e794aca51008" />
+    <extract filename="libp3openal_audio.so" size="129317" timestamp="1365893305" hash="624a5937712cfd45841944c0396b4381" />
+    <extract filename="openal.prc" size="59" timestamp="1365894257" hash="40daec26fde68f004ed5769a22ef12d4" />
+    <base_version filename="openal.cmu_1.8.linux_i386.mf.base" size="373486" timestamp="1365894257" hash="ece6bf6c762111c9e53d7f4ddbc7431f" />
+    <top_version filename="openal.cmu_1.8.linux_i386.mf" size="373486" timestamp="1365894257" hash="ece6bf6c762111c9e53d7f4ddbc7431f" />
+</package>

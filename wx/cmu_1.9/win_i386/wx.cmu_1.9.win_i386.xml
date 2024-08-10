@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="wx" platform="win_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="wxPython GUI Toolkit" />
+    <requires name="panda3d" platform="win_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="wx.cmu_1.9.win_i386.mf" size="38731057" timestamp="1459301589" hash="ec9bff7af8fcf3f79c4d30b18482567e" />
+    <compressed_archive filename="wx.cmu_1.9.win_i386.mf.1.pz" size="11705999" timestamp="1459301591" hash="9ba32c3d6e50a8c4c1cd61be49f26e7f" />
+    <extract filename="_ctypes.pyd" size="88064" timestamp="1448285454" hash="c5422db93c5fd74e09db36ddf975da9e" />
+    <extract filename="_tkinter.pyd" size="39424" timestamp="1448285465" hash="4bb6d3890ee16a74222ddcb06fc5a3da" />
+    <extract filename="core.pyd" size="7427072" timestamp="1459301475" hash="b1e20e4ba77fb75e95545726335b887e" />
+    <extract filename="libp3vision.dll" size="116736" timestamp="1459299812" hash="ce186ef30ec0509414d7eead651d54dd" />
+    <extract filename="libp3vrpn.dll" size="129024" timestamp="1459299829" hash="6834361278030cab2257a859a3d5329a" />
+    <extract filename="libpandaegg.dll" size="1174528" timestamp="1459300028" hash="c0dd5412698466a81cb052cf038731b7" />
+    <extract filename="libpandaode.dll" size="630784" timestamp="1459300068" hash="2bba7d96b62ff91bef9cd377bc15e219" />
+    <extract filename="libpandaskel.dll" size="14336" timestamp="1459299818" hash="b9e24546e8b5ee2a4f1421b6178b4810" />
+    <extract filename="panda3d/egg.pyd" size="541184" timestamp="1459301502" hash="e9d6ef33803b3ac05e9fc131a610ffee" />
+    <extract filename="panda3d/ode.pyd" size="465920" timestamp="1459301510" hash="47c510ac4d8a366317582da6f1879e5b" />
+    <extract filename="panda3d/skel.pyd" size="13312" timestamp="1459301489" hash="17b06f56b62bed52483538429679d546" />
+    <extract filename="panda3d/vision.pyd" size="30720" timestamp="1459301489" hash="7e8f1659a053f2b647b0bd1b26e495c0" />
+    <extract filename="panda3d/vrpn.pyd" size="18944" timestamp="1459301493" hash="bdbfa364a5ebd981cf35b32fa91cef8c" />
+    <extract filename="tcl85.dll" size="893952" timestamp="1448285453" hash="3aa9d16d9bfb325ca0c41fe5bd81aeb8" />
+    <extract filename="tk85.dll" size="1330688" timestamp="1448285454" hash="adccdf06eb71091004043e88d475e0cf" />
+    <extract filename="WINSPOOL.DRV" size="320000" timestamp="1290313448" hash="9e4b0e7472b4ceba9e17f440b8cb0ab8" />
+    <extract filename="wx/_activex.pyd" size="185344" timestamp="1394204432" hash="d62ebae8fdd8565462f63445c7f6ae74" />
+    <extract filename="wx/_animate.pyd" size="79360" timestamp="1394204357" hash="57a464c486756eb4a1c0bda29900052f" />
+    <extract filename="wx/_aui.pyd" size="498688" timestamp="1394204354" hash="dd0ab91be936c2974c3f9727c89fd89a" />
+    <extract filename="wx/_calendar.pyd" size="112128" timestamp="1394204316" hash="dad17d5f7ca05209c67d405e0c0512a9" />
+    <extract filename="wx/_combo.pyd" size="175616" timestamp="1394204319" hash="066cf80930c91f0be8fcfb46f0ea976f" />
+    <extract filename="wx/_controls_.pyd" size="1083904" timestamp="1394204303" hash="ded3bb5d35aab6ada7545fc61f3e1481" />
+    <extract filename="wx/_core_.pyd" size="1196032" timestamp="1394204261" hash="15e9a5fca251cd0f9afec5649a67f157" />
+    <extract filename="wx/_gdi_.pyd" size="816128" timestamp="1394204284" hash="319bac2a1d6b446fcbefba0a7d6aa7b2" />
+    <extract filename="wx/_gizmos.pyd" size="424448" timestamp="1394204447" hash="45beee10ba82437a17ac57c4113cd003" />
+    <extract filename="wx/_glcanvas.pyd" size="66560" timestamp="1394204424" hash="55cdc34354de86909017c31a01fec2b8" />
+    <extract filename="wx/_grid.pyd" size="449024" timestamp="1394204324" hash="02c62d4a75090f1e789f6bd13442d778" />
+    <extract filename="wx/_html.pyd" size="361984" timestamp="1394204328" hash="6e2813ad70c0846a2a8ebfa570db4250" />
+    <extract filename="wx/_media.pyd" size="71168" timestamp="1394204330" hash="9f6a056979eb9a21fc9b9505c541b142" />
+    <extract filename="wx/_misc_.pyd" size="748544" timestamp="1394204313" hash="89376d7534c5317ef9fbcb8243c73c42" />
+    <extract filename="wx/_richtext.pyd" size="717312" timestamp="1394204349" hash="046ba439c33053f62698481839ae17b6" />
+    <extract filename="wx/_stc.pyd" size="629248" timestamp="1394204421" hash="9b61a36d05753ff91e2983744d61e9e2" />
+    <extract filename="wx/_webkit.pyd" size="78848" timestamp="1394204333" hash="a6fd293b6b99c33a2d25674202c25190" />
+    <extract filename="wx/_windows_.pyd" size="828416" timestamp="1394204291" hash="999180349cc545ff5a4c4628a13b8691" />
+    <extract filename="wx/_wizard.pyd" size="124928" timestamp="1394204336" hash="42cafbfd649644947b231c5de30475c6" />
+    <extract filename="wx/_xrc.pyd" size="150528" timestamp="1394204344" hash="31034cbe6f9b70a725c4dca0f445007b" />
+    <extract filename="wxbase30u_net_vc_custom.dll" size="165888" timestamp="1394203558" hash="73913301cba77ad3bfd64b54f2eb925c" />
+    <extract filename="wxbase30u_vc_custom.dll" size="2158080" timestamp="1394203552" hash="b1633cb1697246dbf6c3447d6311f9b8" />
+    <extract filename="wxbase30u_xml_vc_custom.dll" size="146944" timestamp="1394203684" hash="5a9dd2c6ab67d3d348f6592f8f937577" />
+    <extract filename="wxmsw30u_adv_vc_custom.dll" size="1326080" timestamp="1394203655" hash="6f18209e679a4d3a3d32badeaf7d4eed" />
+    <extract filename="wxmsw30u_aui_vc_custom.dll" size="423424" timestamp="1394203710" hash="c3ecd0c15c6a68fdddcb1375647f9e7e" />
+    <extract filename="wxmsw30u_core_vc_custom.dll" size="4954112" timestamp="1394203636" hash="49e5440460fe1bda15b8d458d63ba191" />
+    <extract filename="wxmsw30u_gl_vc_custom.dll" size="61952" timestamp="1394203757" hash="8d7d4a5767965ced6865259f4c51c08d" />
+    <extract filename="wxmsw30u_html_vc_custom.dll" size="620544" timestamp="1394203674" hash="54625500aed6fd080144bd5d55524fce" />
+    <extract filename="wxmsw30u_media_vc_custom.dll" size="102400" timestamp="1394203659" hash="5546adde7be39643b4fa3d71d12d580c" />
+    <extract filename="wxmsw30u_richtext_vc_custom.dll" size="1504768" timestamp="1394203748" hash="934f13457255c416c0895789eb5fc63c" />
+    <extract filename="wxmsw30u_stc_vc_custom.dll" size="931840" timestamp="1394203753" hash="d2dbb6b24e4a2a0c8b370ae531905cc1" />
+    <extract filename="wxmsw30u_xrc_vc_custom.dll" size="686080" timestamp="1394203702" hash="282c56867efeddca803d3657f160f17a" />
+    <base_version filename="wx.cmu_1.9.win_i386.mf.base" size="38731057" timestamp="1459301589" hash="ec9bff7af8fcf3f79c4d30b18482567e" />
+    <top_version filename="wx.cmu_1.9.win_i386.mf" size="38731057" timestamp="1459301589" hash="ec9bff7af8fcf3f79c4d30b18482567e" />
+</package>

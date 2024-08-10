@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="box2d" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Box2D" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="box2d.cmu_1.7.osx_ppc.mf" size="2184321" timestamp="1302893464" hash="89677d00ae06d2ca6bc78bf29bcc1137" />
+    <compressed_archive filename="box2d.cmu_1.7.osx_ppc.mf.1.pz" size="451526" timestamp="1302893807" hash="0a55469a2b232e6b90abf3c0078ce559" />
+    <extract filename="Box2D/_Box2D.so" size="1869480" timestamp="1288431635" hash="a41f56a6128a43bf0be2d072bdd6694b" />
+    <extract filename="Box2D/libgcc_s.1.dylib" size="10852" timestamp="1221781274" hash="4fdc7f4641e2f8609461f467cbc4f10b" />
+    <base_version filename="box2d.cmu_1.7.osx_ppc.mf.base" size="2184321" timestamp="1302893464" hash="89677d00ae06d2ca6bc78bf29bcc1137" />
+    <top_version filename="box2d.cmu_1.7.osx_ppc.mf" size="2184321" timestamp="1302893464" hash="89677d00ae06d2ca6bc78bf29bcc1137" />
+</package>

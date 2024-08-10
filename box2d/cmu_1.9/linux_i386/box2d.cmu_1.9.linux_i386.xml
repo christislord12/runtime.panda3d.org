@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="box2d" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Box2D" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="box2d.cmu_1.9.linux_i386.mf" size="1359816" timestamp="1454964164" hash="1d06d0739c44b851a63564b97e5180a1" />
+    <compressed_archive filename="box2d.cmu_1.9.linux_i386.mf.1.pz" size="325959" timestamp="1454964164" hash="8cecff06a3bab1a4dca7aecf019a47fc" />
+    <extract filename="Box2D/_Box2D.so" size="1073144" timestamp="1334415172" hash="4a7e16d3338f115953105d3370a2bff0" />
+    <base_version filename="box2d.cmu_1.9.linux_i386.mf.base" size="1359816" timestamp="1454964164" hash="1d06d0739c44b851a63564b97e5180a1" />
+    <top_version filename="box2d.cmu_1.9.linux_i386.mf" size="1359816" timestamp="1454964164" hash="1d06d0739c44b851a63564b97e5180a1" />
+</package>

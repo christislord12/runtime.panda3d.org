@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dcert" platform="win_i386" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Authorization Dialog" />
+    <uncompressed_archive filename="p3dcert.win_i386.mf" size="2602261" timestamp="1482717252" hash="01c7d8c1ef06f0a563ef562667b08825" />
+    <compressed_archive filename="p3dcert.win_i386.mf.1.pz" size="1175049" timestamp="1482717252" hash="01e7dc731bf540ca385b0c1d0943bec0" />
+    <extract filename="msvcp100.dll" size="421200" timestamp="1482711630" hash="bc83108b18756547013ed443b8cdb31b" />
+    <extract filename="msvcr100.dll" size="773968" timestamp="1482711630" hash="0e37fbfa79d349d672456923ec5fbbe3" />
+    <extract filename="p3dcert.exe" size="1406976" timestamp="1482712544" hash="464f0eda6524447430bfee2ebf86766b" />
+    <base_version filename="p3dcert.win_i386.mf.base" size="2602261" timestamp="1482717252" hash="01c7d8c1ef06f0a563ef562667b08825" />
+    <top_version filename="p3dcert.win_i386.mf" size="2602261" timestamp="1482717252" hash="01c7d8c1ef06f0a563ef562667b08825" />
+</package>

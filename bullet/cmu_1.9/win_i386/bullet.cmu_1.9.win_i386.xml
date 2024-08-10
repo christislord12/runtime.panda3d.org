@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="bullet" platform="win_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D Bullet integration" />
+    <requires name="panda3d" platform="win_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="bullet.cmu_1.9.win_i386.mf" size="8992516" timestamp="1482717238" hash="ac5207c3c129053f548a40c8d2e628b5" />
+    <compressed_archive filename="bullet.cmu_1.9.win_i386.mf.1.pz" size="2463858" timestamp="1482717239" hash="f071bf7b990690ac7770ce7ca88089cd" />
+    <extract filename="core.pyd" size="7438336" timestamp="1482717158" hash="c2c7703337b1e450fa541d19c111388d" />
+    <extract filename="libpandabullet.dll" size="1089536" timestamp="1482715763" hash="30c8aa986306db3037bb349844be2451" />
+    <extract filename="panda3d/bullet.pyd" size="464384" timestamp="1482717183" hash="672718958026b6884e5d2480b2809b2c" />
+    <base_version filename="bullet.cmu_1.9.win_i386.mf.base" size="8992516" timestamp="1482717238" hash="ac5207c3c129053f548a40c8d2e628b5" />
+    <top_version filename="bullet.cmu_1.9.win_i386.mf" size="8992516" timestamp="1482717238" hash="ac5207c3c129053f548a40c8d2e628b5" />
+</package>

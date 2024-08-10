@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="morepy" platform="linux_i386" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Python standard library" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="morepy.cmu_1.7.linux_i386.mf" size="6546166" timestamp="1302891652" hash="e024105f06d7ad472fe1ff6e7e70a76b" />
+    <compressed_archive filename="morepy.cmu_1.7.linux_i386.mf.1.pz" size="2407328" timestamp="1302891745" hash="58bac7d362d2a62f3f730bc8f5e7c5fe" />
+    <extract filename="_bsddb.so" size="117508" timestamp="1248032586" hash="40f6f8856ad2a313b497e9db38a01682" />
+    <extract filename="_bytesio.so" size="13116" timestamp="1248032586" hash="0c67d641648a3d42560fa6f1a68f555e" />
+    <extract filename="_codecs_cn.so" size="127468" timestamp="1248032586" hash="2533ed776782e45e43a0147a2e521146" />
+    <extract filename="_codecs_hk.so" size="143148" timestamp="1248032587" hash="8af726929588abcadf2bef7b6a4075ed" />
+    <extract filename="_codecs_iso2022.so" size="15856" timestamp="1248032587" hash="8dd8e43f5371bbcb3e52965ee6fa5171" />
+    <extract filename="_codecs_jp.so" size="223276" timestamp="1248032587" hash="56a3a0be5cb5d9b202600205666e839a" />
+    <extract filename="_codecs_kr.so" size="119404" timestamp="1248032586" hash="20242333f18a6c521fa100af7b50dc6e" />
+    <extract filename="_codecs_tw.so" size="94828" timestamp="1248032586" hash="60adbdb90deb9a960f85c00c9910c6b7" />
+    <extract filename="_csv.so" size="24276" timestamp="1248032586" hash="e831b28832dbf52a372884fe72787dac" />
+    <extract filename="_curses.so" size="66372" timestamp="1248032586" hash="398bf96f118b1efd17c60bab04d09a7d" />
+    <extract filename="_curses_panel.so" size="10464" timestamp="1248032586" hash="83246a5a8adf114bfd4f9bc5a9bb8be8" />
+    <extract filename="_fileio.so" size="16964" timestamp="1248032586" hash="1a970ccb3c4e4674032b47feb2398c92" />
+    <extract filename="_hotshot.so" size="25360" timestamp="1248032587" hash="3cda069b56f838988ae81e15204ab1a0" />
+    <extract filename="_json.so" size="11108" timestamp="1248032587" hash="1d729e57de5ac8d2d3175e82974f1879" />
+    <extract filename="_multibytecodec.so" size="24780" timestamp="1248032586" hash="8247317b3ac3b30415a1eb9bb018c903" />
+    <extract filename="_multiprocessing.so" size="20256" timestamp="1248032586" hash="bd50fb912cfdd75b471575d0ee657c32" />
+    <extract filename="audioop.so" size="21044" timestamp="1248032586" hash="c97a8d61eb4edf57c60686be09a1dd43" />
+    <extract filename="bz2.so" size="29272" timestamp="1248032586" hash="7dbbdc9848bd4635dc5efd9776bcfbf8" />
+    <extract filename="cmath.so" size="28276" timestamp="1248032587" hash="d86f55379e0ec5a900d9d4556834b993" />
+    <extract filename="crypt.so" size="3604" timestamp="1248032587" hash="363f5deaad41310282ebe5b8b349bcb9" />
+    <extract filename="datetime.so" size="70296" timestamp="1248032586" hash="2b338e2a221fb041a887dc63f7c08bef" />
+    <extract filename="dbm.so" size="9240" timestamp="1248032586" hash="cf3a79fda25d2e05a05f435032d25e84" />
+    <extract filename="dl.so" size="7024" timestamp="1248032586" hash="08efd016d9864ab3303fe10c40d5b698" />
+    <extract filename="fpectl.so" size="4100" timestamp="1248032586" hash="f3d75d03bac6c738e03d46c5ec7186c1" />
+    <extract filename="future_builtins.so" size="4508" timestamp="1248032586" hash="29ad2c3a68b9f100884b1f6701cc8e14" />
+    <extract filename="imageop.so" size="12820" timestamp="1248032586" hash="c6f077742937ca0437eb326045d634b4" />
+    <extract filename="libcrypt.so.1" size="38300" timestamp="1287718383" hash="7b1e00f62b0dbf3b19182fc103145569" />
+    <extract filename="libdb-4.6.so" size="1206852" timestamp="1205173304" hash="b1c94b3054679d18dcf135b1b0ca53d5" />
+    <extract filename="libnsl.so.1" size="79612" timestamp="1287718383" hash="b1380b1de205ae729cd53e00606831c5" />
+    <extract filename="libpanelw.so.5" size="9260" timestamp="1203809894" hash="3557194f0af93165563b3b2a229c3fae" />
+    <extract filename="mmap.so" size="17504" timestamp="1248032586" hash="6376f90703e7041d17ca0c180e5ba128" />
+    <extract filename="nis.so" size="8888" timestamp="1248032586" hash="30393661b9ecc829f0e099b602bdb9eb" />
+    <extract filename="ossaudiodev.so" size="21328" timestamp="1248032586" hash="edd6123b6271f843970066fb5c622fa9" />
+    <extract filename="parser.so" size="55956" timestamp="1248032586" hash="0f663350e9d57c72962a89a847704f79" />
+    <extract filename="resource.so" size="7900" timestamp="1248032587" hash="b9a6d80639b40c3f0e642bf8d10de326" />
+    <base_version filename="morepy.cmu_1.7.linux_i386.mf.base" size="6546166" timestamp="1302891652" hash="e024105f06d7ad472fe1ff6e7e70a76b" />
+    <top_version filename="morepy.cmu_1.7.linux_i386.mf" size="6546166" timestamp="1302891652" hash="e024105f06d7ad472fe1ff6e7e70a76b" />
+</package>

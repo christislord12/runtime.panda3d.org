@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ai" platform="osx_ppc" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D AI modules" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ai.cmu_1.8.osx_ppc.mf" size="268494" timestamp="1365896348" hash="c6d6d098799c866b602a30391452b1ab" />
+    <compressed_archive filename="ai.cmu_1.8.osx_ppc.mf.1.pz" size="84718" timestamp="1365896348" hash="c5b105269459039fc6d60fe394ac589c" />
+    <extract filename="libpandaai.dylib" size="268436" timestamp="1365896348" hash="99f7c254151862b1c3ff6cd131f89eff" />
+    <base_version filename="ai.cmu_1.8.osx_ppc.mf.base" size="268494" timestamp="1365896348" hash="c6d6d098799c866b602a30391452b1ab" />
+    <top_version filename="ai.cmu_1.8.osx_ppc.mf" size="268494" timestamp="1365896348" hash="c6d6d098799c866b602a30391452b1ab" />
+</package>

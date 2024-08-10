@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.8.win32.mf" size="2101181" timestamp="1365945888" hash="dc761dec5c3e91664014dcd28b89aae6" />
+    <compressed_archive filename="vision.cmu_1.8.win32.mf.1.pz" size="947034" timestamp="1365945888" hash="16a354570b286b8ff307464de9a72c6f" />
+    <extract filename="AVICAP32.dll" size="64000" timestamp="1091620800" hash="01cfa88f8dee91ec9f8e0988f49d106e" />
+    <extract filename="cxcore100.dll" size="1011764" timestamp="1365942351" hash="3a32f6154f3f0132fbd44fa54bac72ac" />
+    <extract filename="highgui100.dll" size="626741" timestamp="1365942351" hash="d3e159a9cef48112caa5563408b16b88" />
+    <extract filename="libguide40.dll" size="196608" timestamp="1365942351" hash="e6fbcd1a1818911cc6335c0473d8ab17" />
+    <extract filename="libp3vision.dll" size="201216" timestamp="1365944396" hash="7ce202b35607f0c86efc3326957ced51" />
+    <extract filename="libp3vision.dll.manifest" size="618" timestamp="1365944396" hash="2e27942d91e00e3491fa45e3817a2581" />
+    <base_version filename="vision.cmu_1.8.win32.mf.base" size="2101181" timestamp="1365945888" hash="dc761dec5c3e91664014dcd28b89aae6" />
+    <top_version filename="vision.cmu_1.8.win32.mf" size="2101181" timestamp="1365945888" hash="dc761dec5c3e91664014dcd28b89aae6" />
+</package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="httplib2" platform="linux_amd64" version="cmu_1.9" per_platform="1" seq="6" patch_version="1">
+    <config display_name="httplib2" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" seq="5" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="httplib2.cmu_1.9.linux_amd64.mf" size="370845" timestamp="1441243969" hash="920ee2b7d8f224fe5aa44bea373e4dbe" />
+    <compressed_archive filename="httplib2.cmu_1.9.linux_amd64.mf.1.pz" size="132304" timestamp="1441243969" hash="3d082527d74860e7a41f691d521303c3" />
+    <extract filename="termios.so" size="24576" timestamp="1435003207" hash="9495b85cbf5098ad41af6c64c86a5a7d" />
+    <base_version filename="httplib2.cmu_1.9.linux_amd64.mf.base" size="370845" timestamp="1441243969" hash="920ee2b7d8f224fe5aa44bea373e4dbe" />
+    <top_version filename="httplib2.cmu_1.9.linux_amd64.mf" size="370845" timestamp="1441243969" hash="920ee2b7d8f224fe5aa44bea373e4dbe" />
+</package>

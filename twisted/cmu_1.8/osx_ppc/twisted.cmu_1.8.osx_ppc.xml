@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="twisted" platform="osx_ppc" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Twisted" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="twisted.cmu_1.8.osx_ppc.mf" size="9138950" timestamp="1365896524" hash="4e2946a5f6fbaff5661976876c4b02fe" />
+    <compressed_archive filename="twisted.cmu_1.8.osx_ppc.mf.1.pz" size="2178696" timestamp="1365896525" hash="c1b46d1d220cc32bc1572c67cccecb96" />
+    <extract filename="_ctypes.so" size="149780" timestamp="1307826947" hash="2f1ad380b3dc7d233cc7a60448bce917" />
+    <extract filename="_curses.so" size="91584" timestamp="1365896522" hash="00d94c0f48cfb710d72f7f9a2493b376" />
+    <extract filename="_hotshot.so" size="28092" timestamp="1307826837" hash="a614e456cf57675bcdfe0981515fb858" />
+    <extract filename="_lsprof.so" size="22484" timestamp="1307826837" hash="a78be884c958632dba0a90e9b7443db3" />
+    <extract filename="bz2.so" size="142828" timestamp="1307826865" hash="97871470f60ea5300059df51bd368e9a" />
+    <extract filename="crypt.so" size="9020" timestamp="1307826847" hash="1f3a7b95f61c85f443f217b08cb79c88" />
+    <extract filename="grp.so" size="10380" timestamp="1307826840" hash="9fb4c1e1ec9922395215bff9d8a2aa6a" />
+    <extract filename="parser.so" size="72396" timestamp="1307826842" hash="2bf6324235f318d783fb7dc405e3a87b" />
+    <extract filename="twisted/internet/_sigchld.so" size="9640" timestamp="1317305735" hash="b6ef97dbf1fb2b0172e36c8e338264cd" />
+    <extract filename="twisted/python/_initgroups.so" size="9084" timestamp="1317305736" hash="0bad4bb7c58487c9b205c0a65a642b47" />
+    <extract filename="twisted/runner/portmap.so" size="9124" timestamp="1317305736" hash="107b8666375f90b767fa50452d3baddb" />
+    <extract filename="twisted/test/raiser.so" size="16776" timestamp="1317305736" hash="7beac39dec563db2f48549440e0b4c1f" />
+    <extract filename="zope/interface/_zope_interface_coptimizations.so" size="34080" timestamp="1317305751" hash="1d80e2476decf8bd2e283530fe99f23d" />
+    <base_version filename="twisted.cmu_1.8.osx_ppc.mf.base" size="9138950" timestamp="1365896524" hash="4e2946a5f6fbaff5661976876c4b02fe" />
+    <top_version filename="twisted.cmu_1.8.osx_ppc.mf" size="9138950" timestamp="1365896524" hash="4e2946a5f6fbaff5661976876c4b02fe" />
+</package>

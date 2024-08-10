@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="linux_amd64" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="libatk-1.0.so.0" />
+    <component filename="libavcodec.so.1d" />
+    <component filename="libavformat.so.1d" />
+    <component filename="libavutil.so.1d" />
+    <component filename="libcairo.so.2" />
+    <component filename="libcv.so.1" />
+    <component filename="libcvaux.so.1" />
+    <component filename="libcxcore.so.1" />
+    <component filename="libdc1394_control.so.13" />
+    <component filename="libexpat.so.1" />
+    <component filename="libfontconfig.so.1" />
+    <component filename="libgdk-x11-2.0.so.0" />
+    <component filename="libgdk_pixbuf-2.0.so.0" />
+    <component filename="libglib-2.0.so.0" />
+    <component filename="libgmodule-2.0.so.0" />
+    <component filename="libgobject-2.0.so.0" />
+    <component filename="libgthread-2.0.so.0" />
+    <component filename="libgtk-x11-2.0.so.0" />
+    <component filename="libhighgui.so.1" />
+    <component filename="libml.so.1" />
+    <component filename="libp3vision.so" />
+    <component filename="libpango-1.0.so.0" />
+    <component filename="libpangocairo-1.0.so.0" />
+    <component filename="libpangoft2-1.0.so.0" />
+    <component filename="libpcre.so.3" />
+    <component filename="libpixman-1.so.0" />
+    <component filename="libpng12.so.0" />
+    <component filename="libraw1394.so.8" />
+    <component filename="libXcomposite.so.1" />
+    <component filename="libXdamage.so.1" />
+    <component filename="libXi.so.6" />
+    <component filename="libXinerama.so.1" />
+</package>

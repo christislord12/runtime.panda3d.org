@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ffmpeg" platform="osx_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="FFMpeg multimedia decoder" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ffmpeg.cmu_1.9.osx_i386.mf" size="11951384" timestamp="1482728459" hash="5f44879ed9211bfe178122a33bc5b8de" />
+    <compressed_archive filename="ffmpeg.cmu_1.9.osx_i386.mf.1.pz" size="5008182" timestamp="1482728460" hash="08af63a3a2435ab863355b6e8e9df827" />
+    <extract filename="ffmpeg.prc" size="79" timestamp="1482728458" hash="6535ef9ffcba1b91176bd51dc0b22f09" />
+    <extract filename="libp3ffmpeg.dylib" size="11951216" timestamp="1482728458" hash="1a58df32917e236c1f4ff1825faa5d3c" />
+    <base_version filename="ffmpeg.cmu_1.9.osx_i386.mf.base" size="11951384" timestamp="1482728459" hash="5f44879ed9211bfe178122a33bc5b8de" />
+    <top_version filename="ffmpeg.cmu_1.9.osx_i386.mf" size="11951384" timestamp="1482728459" hash="5f44879ed9211bfe178122a33bc5b8de" />
+</package>

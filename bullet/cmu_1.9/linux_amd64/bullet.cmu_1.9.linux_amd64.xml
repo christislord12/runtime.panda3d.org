@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="bullet" platform="linux_amd64" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Panda3D Bullet integration" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="bullet.cmu_1.9.linux_amd64.mf" size="2804623" timestamp="1454965124" hash="b40aa5d2c53a29c6af21bd1b93ac6948" />
+    <compressed_archive filename="bullet.cmu_1.9.linux_amd64.mf.1.pz" size="976865" timestamp="1454965124" hash="13160ecf5295631609bfcef0123d1f43" />
+    <extract filename="libBulletCollision.so.2.81" size="903424" timestamp="1362685333" hash="53bbe1899d7d53b49ee62217db4655ed" />
+    <extract filename="libBulletDynamics.so.2.81" size="383464" timestamp="1362685333" hash="e9d4c9fdd08f46399b61deabf04195bd" />
+    <extract filename="libBulletSoftBody.so.2.81" size="301568" timestamp="1362685333" hash="303c65591d1cf3467acef373204ad950" />
+    <extract filename="libLinearMath.so.2.81" size="118680" timestamp="1362685333" hash="215a6f6f5268632d95ebf7f5f328f87c" />
+    <extract filename="libpandabullet.so" size="440056" timestamp="1454964604" hash="74ab7d87b06d4209e43e58fc13079bca" />
+    <extract filename="panda3d/bullet.so" size="657024" timestamp="1454965124" hash="6e196aea43d744323c6772d245bc1d4b" />
+    <base_version filename="bullet.cmu_1.9.linux_amd64.mf.base" size="2804623" timestamp="1454965124" hash="b40aa5d2c53a29c6af21bd1b93ac6948" />
+    <top_version filename="bullet.cmu_1.9.linux_amd64.mf" size="2804623" timestamp="1454965124" hash="b40aa5d2c53a29c6af21bd1b93ac6948" />
+</package>

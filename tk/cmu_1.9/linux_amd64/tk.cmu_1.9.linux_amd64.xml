@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="linux_amd64" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.9.linux_amd64.mf" size="5110963" timestamp="1454965137" hash="15e1aa330fa4fc12c484ad1575190eb0" />
+    <compressed_archive filename="tk.cmu_1.9.linux_amd64.mf.1.pz" size="2067249" timestamp="1454965137" hash="7e37fe316f431fc6eae908a309b90652" />
+    <extract filename="_ctypes.so" size="152560" timestamp="1435003207" hash="f0826ad38f66a58af4e0b07a9d20b51a" />
+    <extract filename="_tkinter.so" size="55768" timestamp="1334426440" hash="4e4cd9ab8a919ca975dae00abec53090" />
+    <extract filename="lib/tcl8.5/auto.tcl" size="20314" timestamp="1324405341" hash="e52d7c48ac22eeee833da9f4e62852a8" />
+    <extract filename="lib/tcl8.5/clock.tcl" size="130216" timestamp="1324405341" hash="f69113e8f275e834bd280a2813a45820" />
+    <extract filename="lib/tcl8.5/history.tcl" size="8965" timestamp="1324405341" hash="2c3bbe593e10f8b25a1ae7753ac60c3a" />
+    <extract filename="lib/tcl8.5/init.tcl" size="24938" timestamp="1324405341" hash="92276b05ce567dddb37da0416be632c1" />
+    <extract filename="lib/tcl8.5/package.tcl" size="23571" timestamp="1324405341" hash="0b6d3fa80ab4eedea8aec91f79858848" />
+    <extract filename="lib/tcl8.5/parray.tcl" size="803" timestamp="1324405341" hash="727e547c9c9a8a2b0937fb1c20e8aa26" />
+    <extract filename="lib/tcl8.5/safe.tcl" size="32771" timestamp="1324405341" hash="8e15a1dcaa32a3a836a4d3a10d0a91a9" />
+    <extract filename="lib/tcl8.5/tm.tcl" size="11537" timestamp="1324405344" hash="af88234d91dd26d945f38176cb15f765" />
+    <extract filename="lib/tcl8.5/word.tcl" size="4659" timestamp="1324405341" hash="b8b7ac12e3f7163a3d1e409ed101370c" />
+    <extract filename="libBLT.2.4.so.8.5" size="1199872" timestamp="1299043225" hash="d0497cd24d444007cb1efe8382c72afe" />
+    <extract filename="libfontconfig.so.1" size="220896" timestamp="1345614198" hash="1805faf856de85b05f6b29c1f4a90385" />
+    <extract filename="libtcl8.5.so.0" size="1145296" timestamp="1324405350" hash="90f7aae09ba4c9c8056c184994bcee94" />
+    <extract filename="libtk8.5.so.0" size="1329128" timestamp="1324293740" hash="df4c80f83cdfff8b0675f497ffb800b5" />
+    <extract filename="libXft.so.2" size="85168" timestamp="1330668363" hash="576186cc7877825baf8aa2e3b2f1863b" />
+    <extract filename="libXss.so.1" size="14480" timestamp="1313090362" hash="a18e028e3cbb024e0995a51de6dc9716" />
+    <base_version filename="tk.cmu_1.9.linux_amd64.mf.base" size="5110963" timestamp="1454965137" hash="15e1aa330fa4fc12c484ad1575190eb0" />
+    <top_version filename="tk.cmu_1.9.linux_amd64.mf" size="5110963" timestamp="1454965137" hash="15e1aa330fa4fc12c484ad1575190eb0" />
+</package>

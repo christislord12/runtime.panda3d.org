@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="physx" platform="win_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D PhysX integration" />
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="physx.cmu_1.9.win_amd64.mf" size="11381772" timestamp="1482728766" hash="6f3fe25ce1804aa2d15ad4bc3cd26257" />
+    <compressed_archive filename="physx.cmu_1.9.win_amd64.mf.1.pz" size="3120985" timestamp="1482728766" hash="602314c8f214495301861d1981832587" />
+    <extract filename="core.pyd" size="9449472" timestamp="1482728615" hash="babcb0bf4fd10e4da035735d5a39fcfc" />
+    <extract filename="libpandaphysx.dll" size="674816" timestamp="1482727160" hash="7254048b059a6eb7c419aa6e52628ca2" />
+    <extract filename="NxCharacter64.dll" size="128352" timestamp="1309965184" hash="71469eac84595723120a85d97ca2d852" />
+    <extract filename="panda3d/physx.pyd" size="1061888" timestamp="1482728694" hash="2cace1727b196a3b28e547bd14e0d6a1" />
+    <extract filename="PhysXLoader64.dll" size="66912" timestamp="1309965188" hash="6ecad9786e3c54b45a733f22ed68694a" />
+    <base_version filename="physx.cmu_1.9.win_amd64.mf.base" size="11381772" timestamp="1482728766" hash="6f3fe25ce1804aa2d15ad4bc3cd26257" />
+    <top_version filename="physx.cmu_1.9.win_amd64.mf" size="11381772" timestamp="1482728766" hash="6f3fe25ce1804aa2d15ad4bc3cd26257" />
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="wx" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="wxPython GUI Toolkit" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="wx.cmu_1.7.osx_ppc.mf" size="78992074" timestamp="1302893411" hash="f2d5f9659e82e112e6a6489d8dc13211" />
+    <compressed_archive filename="wx.cmu_1.7.osx_ppc.mf.1.pz" size="19771388" timestamp="1302893805" hash="e3a25f080eee7cb7ab7fabe2dd7a9900" />
+    <extract filename="wx/_animate.so" size="995800" timestamp="1288186569" hash="ccc050cdcfbd1eb363c98720e211d8c4" />
+    <extract filename="wx/_aui.so" size="2669072" timestamp="1288186570" hash="f15e36c489753b4ea7477cb18e1e4f2c" />
+    <extract filename="wx/_calendar.so" size="1175700" timestamp="1288186570" hash="32176cb5dac8d6fd197f425591dcf035" />
+    <extract filename="wx/_combo.so" size="1385372" timestamp="1288186570" hash="d023a4bbc7ccc4a04177cac53294995d" />
+    <extract filename="wx/_controls_.so" size="5314912" timestamp="1288186570" hash="ebd1e0603d89ecd0080b08c3f99d05d5" />
+    <extract filename="wx/_core_.so" size="5798340" timestamp="1288186571" hash="c3ac73fd3985470131b372425a7249eb" />
+    <extract filename="wx/_gdi_.so" size="5597320" timestamp="1288186572" hash="09dc2f6d18156cabf5b23198b29e6b96" />
+    <extract filename="wx/_gizmos.so" size="3156532" timestamp="1288186572" hash="fe3ee57bacc08b280a4ec2f073c3e170" />
+    <extract filename="wx/_glcanvas.so" size="866960" timestamp="1288186572" hash="57e1330b9a47e245af0321e08ec73d72" />
+    <extract filename="wx/_grid.so" size="2622164" timestamp="1288186572" hash="c076be781078e6e904db225482a4c7fc" />
+    <extract filename="wx/_html.so" size="2652012" timestamp="1288186572" hash="d46d0bcea845f5aa700f13bd61898007" />
+    <extract filename="wx/_media.so" size="943592" timestamp="1288186572" hash="b0f30616e3c2f34c939c53852898917a" />
+    <extract filename="wx/_misc_.so" size="4128172" timestamp="1288186573" hash="89593c502e90c6a3221ec5d18eadfede" />
+    <extract filename="wx/_richtext.so" size="3222016" timestamp="1288186573" hash="d6c811124ba4fe4b4e765c40d66b531a" />
+    <extract filename="wx/_stc.so" size="2557400" timestamp="1288186573" hash="b66c19decb490584b56b5e78f9bccc36" />
+    <extract filename="wx/_webkit.so" size="994400" timestamp="1288186573" hash="3784a1a3cf23a0f934c2d4e4a945a9d5" />
+    <extract filename="wx/_windows_.so" size="3908708" timestamp="1288186573" hash="bab61a0fd02ba460af7e0a01847ba772" />
+    <extract filename="wx/_wizard.so" size="1194280" timestamp="1288186574" hash="90e5ae24efa1532af661310a7ca0052a" />
+    <extract filename="wx/_xrc.so" size="1465396" timestamp="1288186574" hash="dea9b54bb3c7c572573ff4522e83f01b" />
+    <extract filename="wx/libgcc_s.1.dylib" size="10852" timestamp="1221781274" hash="4fdc7f4641e2f8609461f467cbc4f10b" />
+    <extract filename="wx/libiconv.2.dylib" size="3072" timestamp="1221781274" hash="e024252485cebf1b9362618dd92b641f" />
+    <extract filename="wx/libwx_macud-2.8.0.dylib" size="11005500" timestamp="1288186755" hash="10c72db250e8b938ce42296263d705de" />
+    <extract filename="wx/libwx_macud-2.8.dylib" size="11005500" timestamp="1288186756" hash="10c72db250e8b938ce42296263d705de" />
+    <extract filename="wx/libwx_macud_gizmos-2.8.0.dylib" size="288516" timestamp="1288186756" hash="6c27b1617a43720f20c2b143ab338dda" />
+    <extract filename="wx/libwx_macud_gizmos-2.8.dylib" size="288516" timestamp="1288186756" hash="6c27b1617a43720f20c2b143ab338dda" />
+    <extract filename="wx/libwx_macud_gl-2.8.0.dylib" size="101880" timestamp="1288186756" hash="dc0dfdcf1838bb43b5011554b895785e" />
+    <extract filename="wx/libwx_macud_gl-2.8.dylib" size="101880" timestamp="1288186756" hash="dc0dfdcf1838bb43b5011554b895785e" />
+    <extract filename="wx/libwx_macud_stc-2.8.0.dylib" size="1212872" timestamp="1288186756" hash="59c7e0117c84223385b5bf5fb49f1c1d" />
+    <extract filename="wx/libwx_macud_stc-2.8.dylib" size="1212872" timestamp="1288186756" hash="59c7e0117c84223385b5bf5fb49f1c1d" />
+    <extract filename="wx/libz.1.dylib" size="5420" timestamp="1221781279" hash="bebcb1119e01222c6a8143a88609ac2e" />
+    <base_version filename="wx.cmu_1.7.osx_ppc.mf.base" size="78992074" timestamp="1302893411" hash="f2d5f9659e82e112e6a6489d8dc13211" />
+    <top_version filename="wx.cmu_1.7.osx_ppc.mf" size="78992074" timestamp="1302893411" hash="f2d5f9659e82e112e6a6489d8dc13211" />
+</package>

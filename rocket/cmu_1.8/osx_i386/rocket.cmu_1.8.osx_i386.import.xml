@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="rocket" platform="osx_i386" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="_rocketcontrols.so" />
+    <component filename="_rocketcore.so" />
+    <component filename="libp3rocket.dylib" />
+    <component filename="libRocketControls.1.dylib" />
+    <component filename="libRocketCore.1.dylib" />
+    <module name="_rocketcontrols" />
+    <module name="_rocketcore" />
+</package>

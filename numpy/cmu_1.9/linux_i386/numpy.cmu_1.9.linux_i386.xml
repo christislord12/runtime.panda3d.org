@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="numpy" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="NumPy" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="numpy.cmu_1.9.linux_i386.mf" size="19887457" timestamp="1454964150" hash="94357025a09641f0ac1ebf35dcb274ea" />
+    <compressed_archive filename="numpy.cmu_1.9.linux_i386.mf.1.pz" size="7671606" timestamp="1454964152" hash="475514f05828725ab8c4cf237c4e1577" />
+    <extract filename="_ctypes.so" size="137020" timestamp="1435004599" hash="2b4b156bba6a0b92d5c849c6c1a2f43f" />
+    <extract filename="_curses.so" size="78372" timestamp="1435004599" hash="617b30ee99343b8b4e21606cc3d90281" />
+    <extract filename="_tkinter.so" size="49056" timestamp="1334426185" hash="e558cf193d289c596be5bc834c0c5ee9" />
+    <extract filename="bz2.so" size="36576" timestamp="1435004599" hash="f0f9c4029ca3ad92b00628d0df4073a2" />
+    <extract filename="libblas.so.3gf" size="505824" timestamp="1315577264" hash="a305da3b3fd1fa8ea6c27150f8c65b7f" />
+    <extract filename="libBLT.2.4.so.8.5" size="962084" timestamp="1299042735" hash="8e31dd059f5bf25f6388a88d27ae466e" />
+    <extract filename="libbz2.so.1.0" size="65996" timestamp="1323929358" hash="073e8b3d96ca965fd43310c09189b044" />
+    <extract filename="libfontconfig.so.1" size="211660" timestamp="1345614205" hash="e8627b7ed27df5a2e616aea64e8389ac" />
+    <extract filename="libgfortran.so.3" size="1048044" timestamp="1334533499" hash="569bd6b3aa4ec94f9fc112a5aa236295" />
+    <extract filename="liblapack.so.3gf" size="7993604" timestamp="1315618143" hash="9ef341e7b82a9c21b6c951f570302851" />
+    <extract filename="libncursesw.so.5" size="190172" timestamp="1321622164" hash="c1ca04e737c737867785a2de800f6508" />
+    <extract filename="libquadmath.so.0" size="469256" timestamp="1334533364" hash="5c2443280532b190802a909705adb926" />
+    <extract filename="libtcl8.5.so.0" size="1149656" timestamp="1324405485" hash="3049af799cc40a1f6f3ff176d3e8d731" />
+    <extract filename="libtk8.5.so.0" size="1252768" timestamp="1324293309" hash="c292899c27df63a9da6889e95efb9e25" />
+    <extract filename="libXft.so.2" size="83968" timestamp="1330667906" hash="2279bac5b2973975f2e20fe6933cbef2" />
+    <extract filename="libXss.so.1" size="9676" timestamp="1313089285" hash="b4e81447e7cda898a4a289bbc3456917" />
+    <extract filename="mmap.so" size="23624" timestamp="1435004599" hash="834572cb63f56fe735de3d347ad22a4b" />
+    <extract filename="numpy/core/_dotblas.so" size="22140" timestamp="1332202794" hash="78ed8344cb7bc246693aebf734760534" />
+    <extract filename="numpy/core/_sort.so" size="111960" timestamp="1332202794" hash="e2a3c9e35764b76b2a367d6f953ac965" />
+    <extract filename="numpy/core/multiarray.so" size="1096656" timestamp="1332202794" hash="54c7971fb0e64dca7ef4ad404499b612" />
+    <extract filename="numpy/core/scalarmath.so" size="176284" timestamp="1332202794" hash="4ec47365280c7e23b0e2a2e18df85f57" />
+    <extract filename="numpy/core/umath.so" size="359100" timestamp="1332202794" hash="f03766d7d3fdef20f33e10fd1b5a00cd" />
+    <extract filename="numpy/fft/fftpack_lite.so" size="38384" timestamp="1332202794" hash="83c53ecea17764dcbb034d5945a30809" />
+    <extract filename="numpy/lib/_compiled_base.so" size="22272" timestamp="1332202794" hash="56e92e2152de20c03a0d48a6e6f504e0" />
+    <extract filename="numpy/linalg/lapack_lite.so" size="22256" timestamp="1332202794" hash="2c937f3bce2478848314fbd840381aec" />
+    <extract filename="numpy/random/mtrand.so" size="456884" timestamp="1332202794" hash="7952e595099c64343f1f99a204b636d0" />
+    <extract filename="parser.so" size="84412" timestamp="1435004599" hash="7669a52b604a675f314ee83684ceed48" />
+    <base_version filename="numpy.cmu_1.9.linux_i386.mf.base" size="19887457" timestamp="1454964150" hash="94357025a09641f0ac1ebf35dcb274ea" />
+    <top_version filename="numpy.cmu_1.9.linux_i386.mf" size="19887457" timestamp="1454964150" hash="94357025a09641f0ac1ebf35dcb274ea" />
+</package>

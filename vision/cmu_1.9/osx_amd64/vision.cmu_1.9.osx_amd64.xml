@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="osx_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.9.osx_amd64.mf" size="17761931" timestamp="1482728523" hash="7f11b4837c6d6aa786685d714dfcc8d4" />
+    <compressed_archive filename="vision.cmu_1.9.osx_amd64.mf.1.pz" size="5122259" timestamp="1482728525" hash="004e940a1420d3d9d2fcfa75383da626" />
+    <extract filename="core.so" size="10734888" timestamp="1482728523" hash="afde19fcf69a1a5238be62c198a78539" />
+    <extract filename="libopencv_core.2.4.3.dylib" size="2274628" timestamp="1482720662" hash="29472a950d7fe27d0b532dfa19b6941d" />
+    <extract filename="libopencv_highgui.2.4.3.dylib" size="2295888" timestamp="1482728522" hash="2411cb84e89563094481142e9231ebf4" />
+    <extract filename="libopencv_imgproc.2.4.dylib" size="2218140" timestamp="1482720663" hash="9f9f842e3477722ccf45f0b9ea348913" />
+    <extract filename="libp3vision.dylib" size="181544" timestamp="1482728522" hash="5ac8157837bacb901051e030cfc32306" />
+    <extract filename="panda3d/vision.so" size="56444" timestamp="1482728522" hash="a2760b698bc451c9d29ec9a7375948ac" />
+    <base_version filename="vision.cmu_1.9.osx_amd64.mf.base" size="17761931" timestamp="1482728523" hash="7f11b4837c6d6aa786685d714dfcc8d4" />
+    <top_version filename="vision.cmu_1.9.osx_amd64.mf" size="17761931" timestamp="1482728523" hash="7f11b4837c6d6aa786685d714dfcc8d4" />
+</package>

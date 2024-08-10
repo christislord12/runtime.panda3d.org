@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ode" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D Open Dynamics Engine integration" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ode.cmu_1.7.win32.mf" size="1280719" timestamp="1302892680" hash="cd2f69a89ca8cbe27e76565bcca449c6" />
+    <compressed_archive filename="ode.cmu_1.7.win32.mf.1.pz" size="377415" timestamp="1302892762" hash="5363d9c6e0d4831e9e2eea76bd9b31f7" />
+    <extract filename="libpandaode.dll" size="1280000" timestamp="1302892111" hash="bd14348e8fd40014dbe220d3e02f42bc" />
+    <extract filename="libpandaode.dll.manifest" size="618" timestamp="1302892111" hash="2e27942d91e00e3491fa45e3817a2581" />
+    <base_version filename="ode.cmu_1.7.win32.mf.base" size="1280719" timestamp="1302892680" hash="cd2f69a89ca8cbe27e76565bcca449c6" />
+    <top_version filename="ode.cmu_1.7.win32.mf" size="1280719" timestamp="1302892680" hash="cd2f69a89ca8cbe27e76565bcca449c6" />
+</package>

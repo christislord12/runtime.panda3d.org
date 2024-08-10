@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="bullet" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D Bullet integration" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="bullet.cmu_1.8.win32.mf" size="1636053" timestamp="1365945886" hash="ddcd5eb75a9ba7f233e2c0ec36ba83a2" />
+    <compressed_archive filename="bullet.cmu_1.8.win32.mf.1.pz" size="568386" timestamp="1365945886" hash="06ad692934cc792a5e5952b56cbe31e2" />
+    <extract filename="libpandabullet.dll" size="1635328" timestamp="1365944895" hash="ece734cb4e670b1ed537773abe5cbfdf" />
+    <extract filename="libpandabullet.dll.manifest" size="618" timestamp="1365944895" hash="2e27942d91e00e3491fa45e3817a2581" />
+    <base_version filename="bullet.cmu_1.8.win32.mf.base" size="1636053" timestamp="1365945886" hash="ddcd5eb75a9ba7f233e2c0ec36ba83a2" />
+    <top_version filename="bullet.cmu_1.8.win32.mf" size="1636053" timestamp="1365945886" hash="ddcd5eb75a9ba7f233e2c0ec36ba83a2" />
+</package>

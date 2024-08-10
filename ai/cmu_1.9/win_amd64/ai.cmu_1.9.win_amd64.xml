@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ai" platform="win_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D AI modules" />
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ai.cmu_1.9.win_amd64.mf" size="9634556" timestamp="1482728767" hash="48407e7e83093999b4d85113edc95939" />
+    <compressed_archive filename="ai.cmu_1.9.win_amd64.mf.1.pz" size="2624121" timestamp="1482728767" hash="7506ff25e021d2fec7c9f9567bdef83e" />
+    <extract filename="core.pyd" size="9449472" timestamp="1482728615" hash="babcb0bf4fd10e4da035735d5a39fcfc" />
+    <extract filename="libpandaai.dll" size="133632" timestamp="1482728502" hash="9a1f1e3f710d21376a8dbcd9e0e33778" />
+    <extract filename="panda3d/ai.pyd" size="51200" timestamp="1482728713" hash="3610964db2ec456fad2be1ed22bfe94c" />
+    <base_version filename="ai.cmu_1.9.win_amd64.mf.base" size="9634556" timestamp="1482728767" hash="48407e7e83093999b4d85113edc95939" />
+    <top_version filename="ai.cmu_1.9.win_amd64.mf" size="9634556" timestamp="1482728767" hash="48407e7e83093999b4d85113edc95939" />
+</package>

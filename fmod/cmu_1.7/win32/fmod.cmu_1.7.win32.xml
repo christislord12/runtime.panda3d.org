@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="fmod" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="FMod audio library" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="fmod.cmu_1.7.win32.mf" size="547689" timestamp="1302892678" hash="f5440ecdcaf592862839546046c989db" />
+    <compressed_archive filename="fmod.cmu_1.7.win32.mf.1.pz" size="434341" timestamp="1302892762" hash="34853ccd14d869b75c63fd770beb54b2" />
+    <extract filename="fmod.prc" size="57" timestamp="1302892678" hash="ea819b39dd9791053fe0ec095ba195e0" />
+    <extract filename="fmodex.dll" size="397312" timestamp="1302890197" hash="2a3674a36c79fac99699572b5ba6b908" />
+    <extract filename="libp3fmod_audio.dll" size="77824" timestamp="1302891867" hash="02fffe338484584fa26c7eb341fd2b51" />
+    <extract filename="libp3fmod_audio.dll.manifest" size="618" timestamp="1302891867" hash="2e27942d91e00e3491fa45e3817a2581" />
+    <extract filename="MSACM32.dll" size="71680" timestamp="1208166120" hash="2098ab52bd5316e59aa36f3437b13be6" />
+    <base_version filename="fmod.cmu_1.7.win32.mf.base" size="547689" timestamp="1302892678" hash="f5440ecdcaf592862839546046c989db" />
+    <top_version filename="fmod.cmu_1.7.win32.mf" size="547689" timestamp="1302892678" hash="f5440ecdcaf592862839546046c989db" />
+</package>

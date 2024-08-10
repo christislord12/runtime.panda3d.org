@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="fmod" platform="win_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="FMod audio library" />
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="fmod.cmu_1.9.win_amd64.mf" size="1584818" timestamp="1482728758" hash="33ddd6c7e0ac19e48eee2897da4b9e33" />
+    <compressed_archive filename="fmod.cmu_1.9.win_amd64.mf.1.pz" size="746347" timestamp="1482728759" hash="dc2f7ef200c8923bb5f82502dc6e69d7" />
+    <extract filename="fmod.prc" size="57" timestamp="1482728758" hash="ea819b39dd9791053fe0ec095ba195e0" />
+    <extract filename="fmodex64.dll" size="1503232" timestamp="1482711628" hash="1f847a4da2335e4c4b3553697ca4a828" />
+    <extract filename="libp3fmod_audio.dll" size="81408" timestamp="1482726685" hash="e1fdccd458be353810f4f9daf3b92fe4" />
+    <base_version filename="fmod.cmu_1.9.win_amd64.mf.base" size="1584818" timestamp="1482728758" hash="33ddd6c7e0ac19e48eee2897da4b9e33" />
+    <top_version filename="fmod.cmu_1.9.win_amd64.mf" size="1584818" timestamp="1482728758" hash="33ddd6c7e0ac19e48eee2897da4b9e33" />
+</package>

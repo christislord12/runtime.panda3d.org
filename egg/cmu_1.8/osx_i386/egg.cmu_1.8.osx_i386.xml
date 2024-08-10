@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="egg" platform="osx_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D egg loader" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="egg.cmu_1.8.osx_i386.mf" size="2646512" timestamp="1365896280" hash="4b7bb40cac8cd0142289624fc37e874e" />
+    <compressed_archive filename="egg.cmu_1.8.osx_i386.mf.1.pz" size="797274" timestamp="1365896281" hash="d1d59ba047b3c12730655838d17de9cf" />
+    <extract filename="egg.prc" size="50" timestamp="1365896280" hash="50ca5dc910d263200164e3b09e916a6e" />
+    <extract filename="libpandaegg.dylib" size="2646376" timestamp="1365896280" hash="5cdea09019d92734f2d541dadfde19cd" />
+    <base_version filename="egg.cmu_1.8.osx_i386.mf.base" size="2646512" timestamp="1365896280" hash="4b7bb40cac8cd0142289624fc37e874e" />
+    <top_version filename="egg.cmu_1.8.osx_i386.mf" size="2646512" timestamp="1365896280" hash="4b7bb40cac8cd0142289624fc37e874e" />
+</package>

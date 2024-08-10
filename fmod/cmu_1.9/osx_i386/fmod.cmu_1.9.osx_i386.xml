@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="fmod" platform="osx_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="FMod audio library" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="fmod.cmu_1.9.osx_i386.mf" size="1179461" timestamp="1482728456" hash="4b5fc728f72d07883cb3d1bddbfe5ac2" />
+    <compressed_archive filename="fmod.cmu_1.9.osx_i386.mf.1.pz" size="539140" timestamp="1482728456" hash="6df62bee2734dd4ac32e66cfd2b751bf" />
+    <extract filename="fmod.prc" size="55" timestamp="1482728456" hash="2b79ff0bbd145c2e65b5fcefeb429311" />
+    <extract filename="libfmodex.dylib" size="1094628" timestamp="1482728456" hash="388437a0f4a4a670710d25147ee4a0a7" />
+    <extract filename="libp3fmod_audio.dylib" size="84652" timestamp="1482728456" hash="eb5ffcbd039919d84fcf70c66d5ecab1" />
+    <base_version filename="fmod.cmu_1.9.osx_i386.mf.base" size="1179461" timestamp="1482728456" hash="4b5fc728f72d07883cb3d1bddbfe5ac2" />
+    <top_version filename="fmod.cmu_1.9.osx_i386.mf" size="1179461" timestamp="1482728456" hash="4b5fc728f72d07883cb3d1bddbfe5ac2" />
+</package>

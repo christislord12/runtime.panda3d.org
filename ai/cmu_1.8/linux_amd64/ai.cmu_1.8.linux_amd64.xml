@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ai" platform="linux_amd64" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D AI modules" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ai.cmu_1.8.linux_amd64.mf" size="307733" timestamp="1365893989" hash="827e82de8b2c38ebaa6ee2fd0af75ada" />
+    <compressed_archive filename="ai.cmu_1.8.linux_amd64.mf.1.pz" size="112328" timestamp="1365893989" hash="5f695356c3557585c00677e9713715da" />
+    <extract filename="libpandaai.so" size="307678" timestamp="1365893969" hash="7ab32e372e23fc4c090364ea18f8f019" />
+    <base_version filename="ai.cmu_1.8.linux_amd64.mf.base" size="307733" timestamp="1365893989" hash="827e82de8b2c38ebaa6ee2fd0af75ada" />
+    <top_version filename="ai.cmu_1.8.linux_amd64.mf" size="307733" timestamp="1365893989" hash="827e82de8b2c38ebaa6ee2fd0af75ada" />
+</package>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="box2d" platform="win32" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="win32" version="cmu_1.8" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="Box2D/_Box2D.pyd" />
+    <component filename="Box2D/Microsoft.VC90.CRT.manifest" />
+    <component filename="Box2D/mscoree.dll" />
+    <component filename="Box2D/msvcm90.dll" />
+    <component filename="Box2D/MSVCP90.dll" />
+    <component filename="Box2D/MSVCR90.dll" />
+    <component filename="Box2D/python27.dll" />
+    <module name="Box2D" />
+    <module name="Box2D._Box2D" />
+    <module name="Box2D.b2" />
+    <module name="Box2D.Box2D" />
+</package>

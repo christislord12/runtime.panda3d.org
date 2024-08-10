@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="linux_i386" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.7.linux_i386.mf" size="15075238" timestamp="1302891657" hash="edec06b2adbc8d031de672f7ee1fb60a" />
+    <compressed_archive filename="vision.cmu_1.7.linux_i386.mf.1.pz" size="6266839" timestamp="1302891746" hash="9d64bdb8324dbe481ded7c3be0af6919" />
+    <extract filename="libatk-1.0.so.0" size="104756" timestamp="1205188785" hash="8fd00a236ce0f87e8b20a65057f582a8" />
+    <extract filename="libavcodec.so.1d" size="4154276" timestamp="1272035503" hash="e192a8e0a843611034fae83acc624944" />
+    <extract filename="libavformat.so.1d" size="547596" timestamp="1272035503" hash="e926cf0583391902c9b3a21bd25535f2" />
+    <extract filename="libavutil.so.1d" size="27744" timestamp="1272035503" hash="095f6e980bd22fea42fe8c7c3eab4f9e" />
+    <extract filename="libcairo.so.2" size="396284" timestamp="1212594317" hash="ead47d332551cffa0c636aca6c1525b9" />
+    <extract filename="libcv.so.1" size="815920" timestamp="1205951992" hash="a43e98e1d7638e986cc31ae2626b4d11" />
+    <extract filename="libcvaux.so.1" size="636200" timestamp="1205951992" hash="72b3f0d1f1b91a3ac3437d130505e28f" />
+    <extract filename="libcxcore.so.1" size="1090068" timestamp="1205951992" hash="3675e0641c0a85c0e7e55ec5f6108aac" />
+    <extract filename="libdc1394_control.so.13" size="55604" timestamp="1196438011" hash="b00f3542b0e3c52d0f5d88e8110e4dd7" />
+    <extract filename="libexpat.so.1" size="131748" timestamp="1263928343" hash="cca3b3640367575578a580dc22e105d0" />
+    <extract filename="libfontconfig.so.1" size="172592" timestamp="1204219355" hash="585625b6700b05c5e4017590dc49ba09" />
+    <extract filename="libgdk-x11-2.0.so.0" size="536872" timestamp="1222435736" hash="5cf439d800c604c41e51b32ad03c900e" />
+    <extract filename="libgdk_pixbuf-2.0.so.0" size="94868" timestamp="1222435736" hash="d1abe3688b3362434712d5981dcbd60b" />
+    <extract filename="libglib-2.0.so.0" size="723948" timestamp="1254594346" hash="af8ae6c1e6c4c7eb629c29f9c72470e5" />
+    <extract filename="libgmodule-2.0.so.0" size="10116" timestamp="1254594346" hash="e791c85d82748eae7e735f829f06b034" />
+    <extract filename="libgobject-2.0.so.0" size="245296" timestamp="1254594346" hash="6052a36e068c612c8b4d7bdaf82f4543" />
+    <extract filename="libgthread-2.0.so.0" size="14232" timestamp="1254594346" hash="e7a73006f54fc99fa35c60f9a212a3ee" />
+    <extract filename="libgtk-x11-2.0.so.0" size="3628152" timestamp="1222435736" hash="b0f286cc25d8132af59b51421ddb0e99" />
+    <extract filename="libhighgui.so.1" size="173588" timestamp="1205951992" hash="d40bff646c9c46958d3e63d514c21d83" />
+    <extract filename="libml.so.1" size="251136" timestamp="1205951992" hash="13bfae68ce0b891da071bf35c7bf9756" />
+    <extract filename="libp3vision.so" size="235339" timestamp="1302890990" hash="b64f52f4734ecf342f616e7e6292e2b5" />
+    <extract filename="libpango-1.0.so.0" size="244900" timestamp="1241550768" hash="56938099d7934706213b03a6650477bb" />
+    <extract filename="libpangocairo-1.0.so.0" size="34904" timestamp="1241550768" hash="17a25f2148150741e91b6f4c1a5220c4" />
+    <extract filename="libpangoft2-1.0.so.0" size="158380" timestamp="1241550768" hash="b7766f801644ceafaac7e3bda1088cb2" />
+    <extract filename="libpcre.so.3" size="157240" timestamp="1215624183" hash="039af4f8b6165e0de7770a28a04a3a1b" />
+    <extract filename="libpixman-1.so.0" size="164328" timestamp="1207598500" hash="54748779d519c5c15f479649f4577031" />
+    <extract filename="libpng12.so.0" size="199408" timestamp="1289060251" hash="c04d557cb38f20204215e522e003b33b" />
+    <extract filename="libraw1394.so.8" size="19964" timestamp="1194729126" hash="6147f9c0bae0afc4968f3b6c6cc0db86" />
+    <extract filename="libXcomposite.so.1" size="6716" timestamp="1196942054" hash="4c0f8a14c5c15e19a19cf534354a3979" />
+    <extract filename="libXdamage.so.1" size="5992" timestamp="1177689671" hash="dd25a9bb8a426cd8d147419fa5feff8f" />
+    <extract filename="libXi.so.6" size="29432" timestamp="1193211794" hash="ff516188a2629ae2e1d62911b2897d87" />
+    <extract filename="libXinerama.so.1" size="6464" timestamp="1185350481" hash="77dfc30c59dce459ff86c83e3ec3be9c" />
+    <base_version filename="vision.cmu_1.7.linux_i386.mf.base" size="15075238" timestamp="1302891657" hash="edec06b2adbc8d031de672f7ee1fb60a" />
+    <top_version filename="vision.cmu_1.7.linux_i386.mf" size="15075238" timestamp="1302891657" hash="edec06b2adbc8d031de672f7ee1fb60a" />
+</package>

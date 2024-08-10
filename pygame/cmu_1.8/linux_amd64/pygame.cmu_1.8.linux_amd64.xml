@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pygame" platform="linux_amd64" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="PyGame" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <requires name="numpy" platform="linux_amd64" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pygame.cmu_1.8.linux_amd64.mf" size="9822162" timestamp="1365894003" hash="dd103360366991ee40b9c4bfcb3973de" />
+    <compressed_archive filename="pygame.cmu_1.8.linux_amd64.mf.1.pz" size="3622107" timestamp="1365894004" hash="49b9ad31fe39335b8e464d0aa46d95f1" />
+    <extract filename="_multiprocessing.so" size="86542" timestamp="1327769058" hash="658794a4b705ee05b085753ed73fffcd" />
+    <extract filename="pygame/_arraysurfarray.so" size="43235" timestamp="1317304440" hash="72a4bccc69418ba2ac841f644d0f22c7" />
+    <extract filename="pygame/_camera.so" size="124894" timestamp="1317304440" hash="31035e4e36a2ede3b29a3946ff677090" />
+    <extract filename="pygame/_numericsndarray.so" size="28384" timestamp="1317304440" hash="7bf6827d0b17e6fbd0e92f61c2910aa8" />
+    <extract filename="pygame/_numericsurfarray.so" size="72059" timestamp="1317304440" hash="844c88c6a6a7a8a92e6cd6124b8b7b3f" />
+    <extract filename="pygame/base.so" size="46344" timestamp="1317304440" hash="abeb1d2e2987bad270731889694274a2" />
+    <extract filename="pygame/bufferproxy.so" size="27247" timestamp="1317304440" hash="f8eb30233b6fbf17733e7c63ec7bce8e" />
+    <extract filename="pygame/cdrom.so" size="48290" timestamp="1317304440" hash="c37112fac130de9d8829b65f9732af2f" />
+    <extract filename="pygame/color.so" size="88207" timestamp="1317304440" hash="a65e2547ae51b2cf5468dec00c1109ac" />
+    <extract filename="pygame/constants.so" size="32313" timestamp="1317304440" hash="370a9a6c67e10624f8f5a881735748ff" />
+    <extract filename="pygame/display.so" size="72705" timestamp="1317304440" hash="4c3d174bab393e8ca2f06404a9d60d05" />
+    <extract filename="pygame/draw.so" size="124183" timestamp="1317304440" hash="1538cf1fbf4ea69d6400e092b3092631" />
+    <extract filename="pygame/event.so" size="79865" timestamp="1317304440" hash="4428c9f2dfdcde50c2d1ef7c8da43b3f" />
+    <extract filename="pygame/fastevent.so" size="51238" timestamp="1317304440" hash="81f5f8100fcb407a980b4f8d92d6581a" />
+    <extract filename="pygame/font.so" size="56696" timestamp="1317304440" hash="e24d50b30d4ac8765697a6a3b369e5ff" />
+    <extract filename="pygame/gfxdraw.so" size="235751" timestamp="1317304440" hash="3787a546eefd430ea27e6c9e03e354f6" />
+    <extract filename="pygame/image.so" size="73326" timestamp="1317304440" hash="979b39dbbf9b8d2abcc75e64224d7522" />
+    <extract filename="pygame/imageext.so" size="311855" timestamp="1317304440" hash="865f32bab8546131a52f44ab7e322b9a" />
+    <extract filename="pygame/joystick.so" size="40304" timestamp="1317304440" hash="ae5e93c1659861ba5c99777b6ffeb406" />
+    <extract filename="pygame/key.so" size="25540" timestamp="1317304440" hash="66da394551ed0eae7c3e9f2f090dd20f" />
+    <extract filename="pygame/ld-linux-x86-64.so.2" size="127480" timestamp="1287716712" hash="0bceb7e742cda43626d0496dc9f4e495" />
+    <extract filename="pygame/libasound.so.2" size="908032" timestamp="1289408983" hash="efddf7b91eb16f2b81fd4e82ea5f0955" />
+    <extract filename="pygame/libdirect-1.0.so.0" size="84568" timestamp="1289408983" hash="30b70d666e0c7bb6a61218f7c880eb29" />
+    <extract filename="pygame/libdirectfb-1.0.so.0" size="449360" timestamp="1289408983" hash="6005b61c0ad532b49bc882dd59dcf352" />
+    <extract filename="pygame/libfreetype.so.6" size="516408" timestamp="1289408983" hash="b16a5fc2ed31da1d53fc5480b16f7d23" />
+    <extract filename="pygame/libfusion-1.0.so.0" size="32376" timestamp="1289408983" hash="5f916e985671dfd80cec981ae1c926f3" />
+    <extract filename="pygame/libjpeg.so.62" size="168072" timestamp="1289408983" hash="ea5686d1523d71e1bfa9d25c9c9fed21" />
+    <extract filename="pygame/libpng12.so.0" size="217152" timestamp="1289408983" hash="7fbb91c116da3c29cf56e3e048ebffc8" />
+    <extract filename="pygame/libportmidi.so.0" size="29952" timestamp="1289408983" hash="bde45801af995f1b7303681fcbea47de" />
+    <extract filename="pygame/libporttime.so.0" size="5528" timestamp="1289408983" hash="074c18dc5bcf56ba3d0cca0d522b53b1" />
+    <extract filename="pygame/libSDL-1.2.so.0" size="430848" timestamp="1289408983" hash="c9e774c37ad5bfe02726b48408236151" />
+    <extract filename="pygame/libSDL_image-1.2.so.0" size="48744" timestamp="1289408983" hash="2471f114262e4bd62fb7d57a1b88d6f3" />
+    <extract filename="pygame/libSDL_mixer-1.2.so.0" size="326168" timestamp="1289408983" hash="0033e669e9cd4ecc83151dd2c82db945" />
+    <extract filename="pygame/libSDL_ttf-2.0.so.0" size="22128" timestamp="1289408983" hash="1c88314944eb0ae1eef4d4d1cae7ea43" />
+    <extract filename="pygame/libsmpeg-0.4.so.0" size="262712" timestamp="1289408983" hash="a03a69f90e0ef39867edd1a45f145bc4" />
+    <extract filename="pygame/libstdc++.so.6" size="1014808" timestamp="1289408983" hash="6201bef65d37d9c26f643374a83196b6" />
+    <extract filename="pygame/libtiff.so.4" size="365240" timestamp="1289408983" hash="e2a221506cfb73470f58f91e2f02dd6a" />
+    <extract filename="pygame/libz.so.1" size="93536" timestamp="1289057215" hash="371637f08f29e99d2fc91650c910ccbe" />
+    <extract filename="pygame/mask.so" size="118534" timestamp="1317304440" hash="9654502e002a304e8646b70193f6af04" />
+    <extract filename="pygame/mixer.so" size="78610" timestamp="1317304440" hash="97723784cc4d31e6e9d3b921cc7c22e9" />
+    <extract filename="pygame/mixer_music.so" size="46600" timestamp="1317304440" hash="280d5527360327d9788d913feb759f7f" />
+    <extract filename="pygame/mouse.so" size="30736" timestamp="1317304440" hash="2be68fd1e6285e97943e8e4c74acea56" />
+    <extract filename="pygame/movie.so" size="49048" timestamp="1317304440" hash="0f2a30b8faae7f0a645f1b8b09ee5543" />
+    <extract filename="pygame/overlay.so" size="28612" timestamp="1317304440" hash="3d8bda8c5556506a57d718e6e33bec37" />
+    <extract filename="pygame/pixelarray.so" size="116803" timestamp="1317304440" hash="e49f66b834cf46f27c112f52e89a4531" />
+    <extract filename="pygame/pypm.so" size="209470" timestamp="1317304440" hash="9e30b53f05b4d936e4be0c2816e409cd" />
+    <extract filename="pygame/rect.so" size="90431" timestamp="1317304440" hash="fc85d5a614862dc6e99b02e8ad0300f5" />
+    <extract filename="pygame/rwobject.so" size="36498" timestamp="1317304440" hash="265b612ca3658f438785ed877556382c" />
+    <extract filename="pygame/scrap.so" size="72043" timestamp="1317304440" hash="47f864e8d1679bb448ce11960688d623" />
+    <extract filename="pygame/surface.so" size="645566" timestamp="1317304440" hash="3cfa378cadcfd4c868790534c1a3f464" />
+    <extract filename="pygame/surflock.so" size="27585" timestamp="1317304440" hash="fbe9b6abc93c4b397e526bd64a3034d5" />
+    <extract filename="pygame/time.so" size="41373" timestamp="1317304440" hash="9fa9a0e4e7aab75a5705734bf8e9faa4" />
+    <extract filename="pygame/transform.so" size="159066" timestamp="1317304440" hash="1ec0f4e68bbd67b0071477b6d69d1ada" />
+    <base_version filename="pygame.cmu_1.8.linux_amd64.mf.base" size="9822162" timestamp="1365894003" hash="dd103360366991ee40b9c4bfcb3973de" />
+    <top_version filename="pygame.cmu_1.8.linux_amd64.mf" size="9822162" timestamp="1365894003" hash="dd103360366991ee40b9c4bfcb3973de" />
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <module name="direct.showbase.TkGlobal" />
+    <module name="direct.tkpanels" />
+    <module name="direct.tkpanels.NotifyPanel" />
+    <module name="direct.tkpanels.Placer" />
+    <module name="direct.tkpanels.TaskManagerPanel" />
+    <module name="direct.tkwidgets" />
+    <module name="direct.tkwidgets.AppShell" />
+    <module name="direct.tkwidgets.Dial" />
+    <module name="direct.tkwidgets.EntryScale" />
+    <module name="direct.tkwidgets.Floater" />
+    <module name="direct.tkwidgets.ProgressBar" />
+    <module name="direct.tkwidgets.SceneGraphExplorer" />
+    <module name="direct.tkwidgets.Slider" />
+    <module name="direct.tkwidgets.Tree" />
+    <module name="direct.tkwidgets.Valuator" />
+    <module name="direct.tkwidgets.VectorWidgets" />
+    <module name="direct.tkwidgets.WidgetPropertiesDialog" />
+    <module name="FixTk" />
+    <module name="tkColorChooser" />
+    <module name="Tkconstants" />
+    <module name="tkFileDialog" />
+    <module name="Tkinter" />
+</package>

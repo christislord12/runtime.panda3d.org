@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="rocket" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Panda3D libRocket support" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="rocket.cmu_1.9.linux_i386.mf" size="2432621" timestamp="1454964134" hash="b748ce6f63eeeb11df5d1044455f5b5d" />
+    <compressed_archive filename="rocket.cmu_1.9.linux_i386.mf.1.pz" size="557118" timestamp="1454964134" hash="7b46ae13c3ce6e1a5ca89d3a743308ca" />
+    <extract filename="_rocketcontrols.so" size="687642" timestamp="1439598390" hash="2e8cbdd0b2e81cdf335b72acdac2064b" />
+    <extract filename="_rocketcore.so" size="1333252" timestamp="1439598390" hash="61e230c5d80b3042047c310d28fb4af5" />
+    <extract filename="libboost_python-py27.so.1.46.1" size="291256" timestamp="1325520769" hash="00a8af0f63c1e8f76510c54be9e59564" />
+    <extract filename="libp3rocket.so" size="92588" timestamp="1454963693" hash="922b580ed75824865dab38b5ec4161a3" />
+    <extract filename="panda3d/rocket.so" size="27288" timestamp="1454964134" hash="cadd723c47870b9f8f8ac800fd2df8da" />
+    <base_version filename="rocket.cmu_1.9.linux_i386.mf.base" size="2432621" timestamp="1454964134" hash="b748ce6f63eeeb11df5d1044455f5b5d" />
+    <top_version filename="rocket.cmu_1.9.linux_i386.mf" size="2432621" timestamp="1454964134" hash="b748ce6f63eeeb11df5d1044455f5b5d" />
+</package>

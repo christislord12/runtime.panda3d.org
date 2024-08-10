@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ode" platform="osx_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D Open Dynamics Engine integration" />
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ode.cmu_1.9.osx_amd64.mf" size="12965006" timestamp="1482728513" hash="e1be1136bdb717cb66539f850a93b603" />
+    <compressed_archive filename="ode.cmu_1.9.osx_amd64.mf.1.pz" size="3313767" timestamp="1482728515" hash="b8d0e73ec1658b79eb17ec0c788fbe44" />
+    <extract filename="core.so" size="10734888" timestamp="1482728513" hash="afde19fcf69a1a5238be62c198a78539" />
+    <extract filename="libpandaode.dylib" size="1684292" timestamp="1482728512" hash="44d5fdeb3d423fedeabd0ea6fe50da4a" />
+    <extract filename="panda3d/ode.so" size="545572" timestamp="1482728513" hash="cdd78fe06a509bce66b3b248dd201677" />
+    <base_version filename="ode.cmu_1.9.osx_amd64.mf.base" size="12965006" timestamp="1482728513" hash="e1be1136bdb717cb66539f850a93b603" />
+    <top_version filename="ode.cmu_1.9.osx_amd64.mf" size="12965006" timestamp="1482728513" hash="e1be1136bdb717cb66539f850a93b603" />
+</package>

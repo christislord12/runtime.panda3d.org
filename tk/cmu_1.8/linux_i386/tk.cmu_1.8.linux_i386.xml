@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="linux_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.8.linux_i386.mf" size="2803004" timestamp="1365894269" hash="2ba04fbe5cbc1637cf09a862f6fe7729" />
+    <compressed_archive filename="tk.cmu_1.8.linux_i386.mf.1.pz" size="1148018" timestamp="1365894269" hash="122c022a49ead02219c71a4067458fce" />
+    <extract filename="_ctypes.so" size="412304" timestamp="1327773595" hash="c3654c170eed3de0bf9295c808a31e23" />
+    <extract filename="_tkinter.so" size="111808" timestamp="1327773592" hash="a0253f0e9e824a2adabc317fc522e7ff" />
+    <extract filename="auto.tcl" size="20911" timestamp="1203924021" hash="08060d514634078965a94e1df6a0fab1" />
+    <extract filename="history.tcl" size="9030" timestamp="1203924021" hash="cc7f0c09e794d2f1884f86574761a029" />
+    <extract filename="init.tcl" size="22729" timestamp="1203924021" hash="f9809c8d886d086a41ff7995b3f626be" />
+    <extract filename="ldAout.tcl" size="6802" timestamp="1203924021" hash="0126f7916eed5c3f03a1125fd8424c5a" />
+    <extract filename="libtcl8.4.so.0" size="729712" timestamp="1203924040" hash="65dddebf62606b9b17ff15049ffbc0a6" />
+    <extract filename="libtk8.4.so.0" size="906392" timestamp="1225910702" hash="2bcb968d0bb8ecc3e973a76b13f6d6f5" />
+    <extract filename="package.tcl" size="25185" timestamp="1203924021" hash="b69c5657b48a0316a6f684e49370dac8" />
+    <extract filename="parray.tcl" size="882" timestamp="1203924021" hash="580eede494f235f33594432abde8075e" />
+    <extract filename="safe.tcl" size="27659" timestamp="1203924021" hash="0e6cdcf856d340446be449eff7132735" />
+    <extract filename="word.tcl" size="4335" timestamp="1203924021" hash="302e8bcff5e6b5dec91318657afc7146" />
+    <base_version filename="tk.cmu_1.8.linux_i386.mf.base" size="2803004" timestamp="1365894269" hash="2ba04fbe5cbc1637cf09a862f6fe7729" />
+    <top_version filename="tk.cmu_1.8.linux_i386.mf" size="2803004" timestamp="1365894269" hash="2ba04fbe5cbc1637cf09a862f6fe7729" />
+</package>

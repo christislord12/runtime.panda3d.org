@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="physx" platform="osx_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D PhysX integration" />
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="physx.cmu_1.9.osx_amd64.mf" size="12866738" timestamp="1482728518" hash="93175bd8f6970b0b32bcc4ac644b9a28" />
+    <compressed_archive filename="physx.cmu_1.9.osx_amd64.mf.1.pz" size="3236932" timestamp="1482728519" hash="84259c60cde6d1ada58b57e9ccc2c70b" />
+    <extract filename="core.so" size="10734888" timestamp="1482728518" hash="afde19fcf69a1a5238be62c198a78539" />
+    <extract filename="libpandaphysx.dylib" size="689524" timestamp="1482728517" hash="0c8a64ec6087a4d8ea549ed8fa4b7aaa" />
+    <extract filename="panda3d/physx.so" size="1442068" timestamp="1482728517" hash="f5532c6eccfa6829bbeaf0766cbcf757" />
+    <base_version filename="physx.cmu_1.9.osx_amd64.mf.base" size="12866738" timestamp="1482728518" hash="93175bd8f6970b0b32bcc4ac644b9a28" />
+    <top_version filename="physx.cmu_1.9.osx_amd64.mf" size="12866738" timestamp="1482728518" hash="93175bd8f6970b0b32bcc4ac644b9a28" />
+</package>

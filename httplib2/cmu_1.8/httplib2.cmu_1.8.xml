@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="httplib2" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="httplib2" />
+    <requires name="panda3d" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="httplib2.cmu_1.8.mf" size="101138" timestamp="1365945967" hash="2cfbf0bdde2189f2e024818592cbf1fe" />
+    <compressed_archive filename="httplib2.cmu_1.8.mf.1.pz" size="34742" timestamp="1365945968" hash="d98b376a974186740eecf9549362c63a" />
+    <base_version filename="httplib2.cmu_1.8.mf.base" size="101138" timestamp="1365945967" hash="2cfbf0bdde2189f2e024818592cbf1fe" />
+    <top_version filename="httplib2.cmu_1.8.mf" size="101138" timestamp="1365945967" hash="2cfbf0bdde2189f2e024818592cbf1fe" />
+</package>

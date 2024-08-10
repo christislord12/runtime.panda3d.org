@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ode" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Panda3D Open Dynamics Engine integration" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ode.cmu_1.9.linux_i386.mf" size="1513751" timestamp="1454964133" hash="e6474df3797d4df12b23f24ac0377ef2" />
+    <compressed_archive filename="ode.cmu_1.9.linux_i386.mf.1.pz" size="512315" timestamp="1454964133" hash="46a315d74d6fd84e0b674f2cad4dc804" />
+    <extract filename="libode.so.1" size="898656" timestamp="1330513176" hash="72e679d99dba02caccdca65425232630" />
+    <extract filename="libpandaode.so" size="153988" timestamp="1454963821" hash="2c981b94857a64dbb62bc0342ef37186" />
+    <extract filename="panda3d/ode.so" size="460852" timestamp="1454964133" hash="cbab2d8705c3ed1164d2412aa5b6ec32" />
+    <base_version filename="ode.cmu_1.9.linux_i386.mf.base" size="1513751" timestamp="1454964133" hash="e6474df3797d4df12b23f24ac0377ef2" />
+    <top_version filename="ode.cmu_1.9.linux_i386.mf" size="1513751" timestamp="1454964133" hash="e6474df3797d4df12b23f24ac0377ef2" />
+</package>

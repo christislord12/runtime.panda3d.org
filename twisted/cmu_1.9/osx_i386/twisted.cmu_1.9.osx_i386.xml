@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="twisted" platform="osx_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Twisted" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="twisted.cmu_1.9.osx_i386.mf" size="8641211" timestamp="1482728554" hash="4a0a101d7f4e25cf47e10e5683f5444d" />
+    <compressed_archive filename="twisted.cmu_1.9.osx_i386.mf.1.pz" size="2530296" timestamp="1482728555" hash="7ec8d8311cfcc646824161510a79a451" />
+    <extract filename="_bisect.so" size="10544" timestamp="1448281870" hash="9f7027077356df0432b5a3d5fe7d62be" />
+    <extract filename="_ctypes.so" size="131692" timestamp="1448281870" hash="f97ee3003d7a84f34d0103586f482867" />
+    <extract filename="_curses.so" size="83404" timestamp="1448281870" hash="a0c438e81fce3fc39222658d1d33e9a2" />
+    <extract filename="_hotshot.so" size="28984" timestamp="1448281870" hash="31b026bd87068e304cc4a65e973232d5" />
+    <extract filename="_lsprof.so" size="17932" timestamp="1448281871" hash="86ef7379b51a6dbb52de602397521d4a" />
+    <extract filename="_tkinter.so" size="56280" timestamp="1482728553" hash="e17148e4198a53cba94262920e25aa50" />
+    <extract filename="bz2.so" size="38752" timestamp="1448281871" hash="1d3cb9703b3b23255cbd1c421717eec8" />
+    <extract filename="crypt.so" size="9068" timestamp="1448281871" hash="b5307c2211f26be3cb6e68d6b74310cc" />
+    <extract filename="grp.so" size="10600" timestamp="1448281871" hash="408be9c19494ad5538043bb6914e37e4" />
+    <extract filename="libbz2.1.0.dylib" size="4236" timestamp="1413458599" hash="7407057898ec7dca473d8b184cffcd90" />
+    <extract filename="parser.so" size="72888" timestamp="1448281871" hash="1e9756b1ad88b5759df6bbf7134bd5b9" />
+    <extract filename="twisted/python/sendmsg.so" size="15052" timestamp="1427717461" hash="714b88f352b9580fce0044b2a12d9166" />
+    <extract filename="twisted/runner/portmap.so" size="9116" timestamp="1427717460" hash="16c1daba4ea768d73a3d10f78c28101b" />
+    <extract filename="twisted/test/raiser.so" size="17084" timestamp="1427717460" hash="fc44da8d81f29f06207b8764b9da720a" />
+    <extract filename="unicodedata.so" size="691308" timestamp="1448281871" hash="f46bfd34ba8809d73215442ee19b3684" />
+    <base_version filename="twisted.cmu_1.9.osx_i386.mf.base" size="8641211" timestamp="1482728554" hash="4a0a101d7f4e25cf47e10e5683f5444d" />
+    <top_version filename="twisted.cmu_1.9.osx_i386.mf" size="8641211" timestamp="1482728554" hash="4a0a101d7f4e25cf47e10e5683f5444d" />
+</package>

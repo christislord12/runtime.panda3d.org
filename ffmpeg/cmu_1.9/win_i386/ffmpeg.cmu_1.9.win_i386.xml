@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ffmpeg" platform="win_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="FFMpeg multimedia decoder" />
+    <requires name="panda3d" platform="win_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ffmpeg.cmu_1.9.win_i386.mf" size="22700884" timestamp="1482717233" hash="27e6b0e78101d63090f15fecc661373c" />
+    <compressed_archive filename="ffmpeg.cmu_1.9.win_i386.mf.1.pz" size="9289848" timestamp="1482717235" hash="3cefb1643b75713a126c7bcbfc276182" />
+    <extract filename="avcodec-55.dll" size="16572416" timestamp="1482711628" hash="8fb3c69be7636a9cd1537d9414c879da" />
+    <extract filename="avformat-55.dll" size="5061632" timestamp="1482711629" hash="ce091242695fdec5ff735d119a9477a9" />
+    <extract filename="avutil-52.dll" size="353280" timestamp="1482711629" hash="ced11fde5b47b5e714fa402a55ceccdb" />
+    <extract filename="ffmpeg.prc" size="82" timestamp="1482717233" hash="8f777e0d7765c1652167e4c1587dc4a4" />
+    <extract filename="libp3ffmpeg.dll" size="59392" timestamp="1482715518" hash="71f38c529f0233d1cd56e6ba8456df9f" />
+    <extract filename="swresample-0.dll" size="268800" timestamp="1482711630" hash="98874623c5a3ee7196184f905fa333f9" />
+    <extract filename="swscale-2.dll" size="385024" timestamp="1482711630" hash="c1e55aa79bd2f841fccdc1e8aae161f1" />
+    <base_version filename="ffmpeg.cmu_1.9.win_i386.mf.base" size="22700884" timestamp="1482717233" hash="27e6b0e78101d63090f15fecc661373c" />
+    <top_version filename="ffmpeg.cmu_1.9.win_i386.mf" size="22700884" timestamp="1482717233" hash="27e6b0e78101d63090f15fecc661373c" />
+</package>

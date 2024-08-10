@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="openal" platform="win_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="OpenAL audio library" />
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="openal.cmu_1.9.win_amd64.mf" size="496826" timestamp="1482728759" hash="363c32508b6d4a3fd951b8581bd9fd5f" />
+    <compressed_archive filename="openal.cmu_1.9.win_amd64.mf.1.pz" size="208549" timestamp="1482728759" hash="a07a0b44d79c43855d353e983d45a387" />
+    <extract filename="libp3openal_audio.dll" size="95232" timestamp="1482726691" hash="aa0e2c7e3aa8769de5f1ff254df1ffe0" />
+    <extract filename="openal.prc" size="61" timestamp="1482728759" hash="e484c716b6cb08f320a922d73559be7c" />
+    <extract filename="OpenAL32.dll" size="401408" timestamp="1482711628" hash="d083ff629b66f525b397fb7b1a181e37" />
+    <base_version filename="openal.cmu_1.9.win_amd64.mf.base" size="496826" timestamp="1482728759" hash="363c32508b6d4a3fd951b8581bd9fd5f" />
+    <top_version filename="openal.cmu_1.9.win_amd64.mf" size="496826" timestamp="1482728759" hash="363c32508b6d4a3fd951b8581bd9fd5f" />
+</package>

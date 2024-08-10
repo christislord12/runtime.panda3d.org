@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="models" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Standard models" />
+    <uncompressed_archive filename="models.cmu_1.8.mf" size="5079855" timestamp="1365945884" hash="1015a7284f7adc7fc76bc50d45944f1c" />
+    <compressed_archive filename="models.cmu_1.8.mf.1.pz" size="1737481" timestamp="1365945884" hash="1e65e2465fd149b3f8eca48f95f76c93" />
+    <base_version filename="models.cmu_1.8.mf.base" size="5079855" timestamp="1365945884" hash="1015a7284f7adc7fc76bc50d45944f1c" />
+    <top_version filename="models.cmu_1.8.mf" size="5079855" timestamp="1365945884" hash="1015a7284f7adc7fc76bc50d45944f1c" />
+</package>

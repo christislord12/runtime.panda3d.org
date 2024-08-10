@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pyglet" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="pyglet" />
+    <requires name="panda3d" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <requires name="morepy" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pyglet.cmu_1.9.mf" size="1747110" timestamp="1454965154" hash="b889e3bf48bbc8a9ed167f93829c4a37" />
+    <compressed_archive filename="pyglet.cmu_1.9.mf.1.pz" size="538752" timestamp="1454965154" hash="484e732473c1206d2d1a9b564b60742a" />
+    <base_version filename="pyglet.cmu_1.9.mf.base" size="1747110" timestamp="1454965154" hash="b889e3bf48bbc8a9ed167f93829c4a37" />
+    <top_version filename="pyglet.cmu_1.9.mf" size="1747110" timestamp="1454965154" hash="b889e3bf48bbc8a9ed167f93829c4a37" />
+</package>

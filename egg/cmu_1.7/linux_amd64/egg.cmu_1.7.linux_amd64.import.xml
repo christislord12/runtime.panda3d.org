@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="egg" platform="linux_amd64" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="egg.prc" />
+    <component filename="libpandaegg.so" />
+</package>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.7.mf" size="350632" timestamp="1302902189" hash="d1b1bc975a71ab3c526210d681bbdd93" />
+    <compressed_archive filename="tk.cmu_1.7.mf.1.pz" size="89876" timestamp="1302902280" hash="e4fa95b0bf00b5d198be22477877258f" />
+    <base_version filename="tk.cmu_1.7.mf.base" size="350632" timestamp="1302902189" hash="d1b1bc975a71ab3c526210d681bbdd93" />
+    <top_version filename="tk.cmu_1.7.mf" size="350632" timestamp="1302902189" hash="d1b1bc975a71ab3c526210d681bbdd93" />
+</package>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="httplib2" platform="linux_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="6">
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="5" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="termios.so" />
+    <module name="calendar" />
+    <module name="email" />
+    <module name="email._parseaddr" />
+    <module name="email.base64mime" />
+    <module name="email.charset" />
+    <module name="email.encoders" />
+    <module name="email.errors" />
+    <module name="email.feedparser" />
+    <module name="email.generator" />
+    <module name="email.header" />
+    <module name="email.iterators" />
+    <module name="email.message" />
+    <module name="email.mime" />
+    <module name="email.parser" />
+    <module name="email.quoprimime" />
+    <module name="email.utils" />
+    <module name="ftplib" />
+    <module name="getpass" />
+    <module name="gzip" />
+    <module name="hmac" />
+    <module name="httplib" />
+    <module name="httplib2" />
+    <module name="httplib2.iri2uri" />
+    <module name="httplib2.socks" />
+    <module name="mimetools" />
+    <module name="mimetypes" />
+    <module name="nturl2path" />
+    <module name="quopri" />
+    <module name="rfc822" />
+    <module name="sha" />
+    <module name="termios" />
+    <module name="urllib" />
+    <module name="urlparse" />
+    <module name="uu" />
+</package>

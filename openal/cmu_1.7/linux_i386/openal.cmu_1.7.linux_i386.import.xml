@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="openal" platform="linux_i386" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="libopenal.so.1" />
+    <component filename="libp3openal_audio.so" />
+    <component filename="openal.prc" />
+</package>

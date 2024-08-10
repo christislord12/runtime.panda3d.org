@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="twisted" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Twisted" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="twisted.cmu_1.8.win32.mf" size="7955019" timestamp="1365945961" hash="1bc4219a360ba83586ceaa399d4c8c8b" />
+    <compressed_archive filename="twisted.cmu_1.8.win32.mf.1.pz" size="2551015" timestamp="1365945961" hash="d0766132575b32bb9ff0b7c7ba59fdc1" />
+    <extract filename="_ctypes.pyd" size="106496" timestamp="1307905582" hash="deccede0781726ce0daa75a4635bf919" />
+    <extract filename="_win32sysloader.pyd" size="8192" timestamp="1298746842" hash="24fcfe22585f8c89dd3af232d5ffeb39" />
+    <extract filename="bz2.pyd" size="76800" timestamp="1307905582" hash="1ca9ececd2c84b80996fe632627f857f" />
+    <extract filename="MSWSOCK.dll" size="245248" timestamp="1213977767" hash="943337d786a56729263071623bbb9de5" />
+    <extract filename="NETAPI32.dll" size="337920" timestamp="1341583132" hash="cac752bf84db4666ed3ce0948e6ea937" />
+    <extract filename="twisted/python/_initgroups.pyd" size="6656" timestamp="1301709568" hash="916c03097c51e6ffc7b754e15aaf2251" />
+    <extract filename="twisted/test/raiser.pyd" size="12800" timestamp="1301709568" hash="b4724580f72d8f58a681053707ab347c" />
+    <extract filename="win32console.pyd" size="45568" timestamp="1298746836" hash="ee0a1e04b70663fafb8dc44b075fab7f" />
+    <extract filename="win32event.pyd" size="17408" timestamp="1298746774" hash="63dde9e06a28f75dbb49d947ca73cced" />
+    <extract filename="win32file.pyd" size="112128" timestamp="1298746774" hash="ead0b94b966402279f8935a2a8417f2e" />
+    <extract filename="win32gui.pyd" size="167424" timestamp="1298746854" hash="d7ae1b34e938e22c1abe1af9e86d667d" />
+    <extract filename="win32process.pyd" size="35840" timestamp="1298746808" hash="b19659d8ef0571bbc9a3041ff3c74911" />
+    <extract filename="win32security.pyd" size="110080" timestamp="1298746818" hash="600a424a600a68d170d26b46f1f4127c" />
+    <extract filename="zope/interface/_zope_interface_coptimizations.pyd" size="19968" timestamp="1318679526" hash="4866fe2ee3706a48da43456a8f97e76d" />
+    <base_version filename="twisted.cmu_1.8.win32.mf.base" size="7955019" timestamp="1365945961" hash="1bc4219a360ba83586ceaa399d4c8c8b" />
+    <top_version filename="twisted.cmu_1.8.win32.mf" size="7955019" timestamp="1365945961" hash="1bc4219a360ba83586ceaa399d4c8c8b" />
+</package>

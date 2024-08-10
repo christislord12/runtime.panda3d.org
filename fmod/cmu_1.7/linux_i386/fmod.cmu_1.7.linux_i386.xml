@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="fmod" platform="linux_i386" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="FMod audio library" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="fmod.cmu_1.7.linux_i386.mf" size="1517958" timestamp="1302891655" hash="216470a4ba26fe902b02dcb92b0b7c6b" />
+    <compressed_archive filename="fmod.cmu_1.7.linux_i386.mf.1.pz" size="597034" timestamp="1302891745" hash="54c37962721f29dd6ca3af08d318fd20" />
+    <extract filename="fmod.prc" size="55" timestamp="1302891655" hash="2b79ff0bbd145c2e65b5fcefeb429311" />
+    <extract filename="libfmodex.so" size="1408664" timestamp="1258373510" hash="2c39b5b948a9f75a162381ff4ff033c6" />
+    <extract filename="libp3fmod_audio.so" size="109119" timestamp="1302891009" hash="56b0d31f42a74df0ab699c00e5b616ac" />
+    <base_version filename="fmod.cmu_1.7.linux_i386.mf.base" size="1517958" timestamp="1302891655" hash="216470a4ba26fe902b02dcb92b0b7c6b" />
+    <top_version filename="fmod.cmu_1.7.linux_i386.mf" size="1517958" timestamp="1302891655" hash="216470a4ba26fe902b02dcb92b0b7c6b" />
+</package>

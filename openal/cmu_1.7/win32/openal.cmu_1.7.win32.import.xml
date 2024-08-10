@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="openal" platform="win32" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="win32" version="cmu_1.7" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="libp3openal_audio.dll" />
+    <component filename="libp3openal_audio.dll.manifest" />
+    <component filename="openal.prc" />
+    <component filename="OpenAL32.dll" />
+</package>

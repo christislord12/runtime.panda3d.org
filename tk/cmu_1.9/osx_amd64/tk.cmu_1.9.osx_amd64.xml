@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="osx_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.9.osx_amd64.mf" size="1204411" timestamp="1482728560" hash="9809f65b9d191479e7041342b3c8cbc0" />
+    <compressed_archive filename="tk.cmu_1.9.osx_amd64.mf.1.pz" size="326613" timestamp="1482728560" hash="246b5a83d23fe6d157e7d83ebdf90138" />
+    <extract filename="_ctypes.so" size="158296" timestamp="1448281870" hash="6cac94f336366ce2e4f7b83fa6aeee37" />
+    <extract filename="_tkinter.so" size="66992" timestamp="1482728559" hash="e2dd04acde9718f9c32a4b3e49c0f63d" />
+    <extract filename="lib/tcl8.5/auto.tcl" size="20381" timestamp="1412958294" hash="667aacc63fb13a5090f3724f2224a0cc" />
+    <extract filename="lib/tcl8.5/clock.tcl" size="130055" timestamp="1412958294" hash="c74495975c2cf6504544ee8dc699c297" />
+    <extract filename="lib/tcl8.5/history.tcl" size="9032" timestamp="1412958294" hash="9c24f3bf83f638f7195cd55bb074e948" />
+    <extract filename="lib/tcl8.5/init.tcl" size="25422" timestamp="1412958294" hash="878f891e1c30590a61341c17c3354ca5" />
+    <extract filename="lib/tcl8.5/package.tcl" size="23643" timestamp="1412958294" hash="05733b154d8b4fe9c545a10f185cd322" />
+    <extract filename="lib/tcl8.5/parray.tcl" size="869" timestamp="1412958294" hash="d5e02c196b5ea07cc8151e515022ba25" />
+    <extract filename="lib/tcl8.5/safe.tcl" size="32812" timestamp="1412958294" hash="03646abdfa7d6f8eebe752a83f101492" />
+    <extract filename="lib/tcl8.5/tm.tcl" size="11524" timestamp="1412958294" hash="350667111848f5f790e6efd067fbdd7d" />
+    <extract filename="lib/tcl8.5/word.tcl" size="4724" timestamp="1412958294" hash="05bc45d0b6c1cfb956e7c32ddae4fc55" />
+    <base_version filename="tk.cmu_1.9.osx_amd64.mf.base" size="1204411" timestamp="1482728560" hash="9809f65b9d191479e7041342b3c8cbc0" />
+    <top_version filename="tk.cmu_1.9.osx_amd64.mf" size="1204411" timestamp="1482728560" hash="9809f65b9d191479e7041342b3c8cbc0" />
+</package>

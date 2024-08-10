@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ai" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D AI modules" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ai.cmu_1.7.win32.mf" size="240845" timestamp="1302892681" hash="7456a8f2af816b6ff0666d41ac3ac123" />
+    <compressed_archive filename="ai.cmu_1.7.win32.mf.1.pz" size="86418" timestamp="1302892762" hash="120bf77ea3f0aca80f938c8041e54701" />
+    <extract filename="libpandaai.dll" size="240128" timestamp="1302892620" hash="7faa9516d1b4f8f12eb91fdda61a576f" />
+    <extract filename="libpandaai.dll.manifest" size="618" timestamp="1302892620" hash="2e27942d91e00e3491fa45e3817a2581" />
+    <base_version filename="ai.cmu_1.7.win32.mf.base" size="240845" timestamp="1302892681" hash="7456a8f2af816b6ff0666d41ac3ac123" />
+    <top_version filename="ai.cmu_1.7.win32.mf" size="240845" timestamp="1302892681" hash="7456a8f2af816b6ff0666d41ac3ac123" />
+</package>

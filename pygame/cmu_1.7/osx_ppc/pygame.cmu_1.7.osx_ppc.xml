@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pygame" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="PyGame" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <requires name="numpy" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pygame.cmu_1.7.osx_ppc.mf" size="2498617" timestamp="1302893443" hash="a5637d5df752d7460903196bcd03f2e1" />
+    <compressed_archive filename="pygame.cmu_1.7.osx_ppc.mf.1.pz" size="718187" timestamp="1302893806" hash="117f07d4606ac4fce05f725610bc2237" />
+    <extract filename="_multiprocessing.so" size="29236" timestamp="1283245468" hash="d285f164e1c7c084ab817ca2fbb0b099" />
+    <extract filename="pygame/_arraysurfarray.so" size="18092" timestamp="1302893441" hash="5a8339ac1e4d05f17898246bd13e7400" />
+    <extract filename="pygame/_numericsurfarray.so" size="27068" timestamp="1302893441" hash="1dbae414ab7df5adb1cf1d7148bdd1db" />
+    <extract filename="pygame/base.so" size="21836" timestamp="1302893441" hash="371cbe94ed9ac45633a95abf2ae6e546" />
+    <extract filename="pygame/bufferproxy.so" size="11144" timestamp="1302893441" hash="2c337d65742faa658db84425f493ef2b" />
+    <extract filename="pygame/cdrom.so" size="21760" timestamp="1302893441" hash="5b5294ec069fd66dcb71748a210960b4" />
+    <extract filename="pygame/color.so" size="32588" timestamp="1302893441" hash="d402974744a17ada9d2a13d0d6d28f0c" />
+    <extract filename="pygame/constants.so" size="17104" timestamp="1302893441" hash="114aec24a31d93dd3ef412671fc8b51d" />
+    <extract filename="pygame/display.so" size="31644" timestamp="1302893441" hash="42ca4a3a33ed75431158168aa2dadb1c" />
+    <extract filename="pygame/draw.so" size="48384" timestamp="1302893441" hash="477da9961417e553831903d2ba742280" />
+    <extract filename="pygame/event.so" size="26532" timestamp="1302893441" hash="069920bd141ba05b223cfcf4a5ae7aaa" />
+    <extract filename="pygame/fastevent.so" size="16652" timestamp="1302893441" hash="3ad23b7092ea8bcae7235bf54bf82be2" />
+    <extract filename="pygame/image.so" size="27996" timestamp="1302893441" hash="23a924a79c903d8a0ddaeb671404b1ee" />
+    <extract filename="pygame/joystick.so" size="21620" timestamp="1302893441" hash="b20ec0c18f80184f9edd151bbb9b435d" />
+    <extract filename="pygame/key.so" size="14632" timestamp="1302893441" hash="32dc2401eb3ea49154cdc7f0518ea44d" />
+    <extract filename="pygame/libgcc_s.1.dylib" size="10852" timestamp="1221781274" hash="4fdc7f4641e2f8609461f467cbc4f10b" />
+    <extract filename="pygame/mask.so" size="39380" timestamp="1302893441" hash="e09826f6922e7d101041697ccb6f7767" />
+    <extract filename="pygame/mouse.so" size="15064" timestamp="1302893441" hash="291419dd384915caa96597a75ac6bfec" />
+    <extract filename="pygame/overlay.so" size="14608" timestamp="1302893441" hash="2aa13f4285def7e5174516431acfb725" />
+    <extract filename="pygame/pixelarray.so" size="43356" timestamp="1302893442" hash="ebf5d21ea456471fffb325f22c1129c2" />
+    <extract filename="pygame/rect.so" size="39420" timestamp="1302893442" hash="6304c3b8326e1af6646b9e0ab74c3b68" />
+    <extract filename="pygame/rwobject.so" size="15544" timestamp="1302893442" hash="12c2bb8af26239feddd939337c736713" />
+    <extract filename="pygame/SDL" size="430184" timestamp="1302893442" hash="f99a114caa7138fbb31e53831e4b53c8" />
+    <extract filename="pygame/sdlmain_osx.so" size="19588" timestamp="1302893442" hash="2837c1a0d000e8322d9c3222982ad28f" />
+    <extract filename="pygame/surface.so" size="254608" timestamp="1302893442" hash="80e2f32ed2381bfa8b8b05502f80095c" />
+    <extract filename="pygame/surflock.so" size="10688" timestamp="1302893442" hash="84f518059afb8a1b28c83f76b3a5731a" />
+    <extract filename="pygame/time.so" size="16280" timestamp="1302893442" hash="d0023a83ddcf215bac8b78b38667c859" />
+    <extract filename="pygame/transform.so" size="51920" timestamp="1302893442" hash="ed64736050e689081b9582f3848a21a2" />
+    <base_version filename="pygame.cmu_1.7.osx_ppc.mf.base" size="2498617" timestamp="1302893443" hash="a5637d5df752d7460903196bcd03f2e1" />
+    <top_version filename="pygame.cmu_1.7.osx_ppc.mf" size="2498617" timestamp="1302893443" hash="a5637d5df752d7460903196bcd03f2e1" />
+</package>

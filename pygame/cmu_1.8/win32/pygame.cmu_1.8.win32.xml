@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pygame" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="PyGame" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <requires name="numpy" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pygame.cmu_1.8.win32.mf" size="4590591" timestamp="1365945944" hash="2f021e73c9dbf99754ea5738dc3d0e42" />
+    <compressed_archive filename="pygame.cmu_1.8.win32.mf.1.pz" size="1772856" timestamp="1365945945" hash="0f72b980aad086661daae8b7dade1646" />
+    <extract filename="_multiprocessing.pyd" size="28672" timestamp="1307905582" hash="edd174951a2233941c8d2064c0f69a68" />
+    <extract filename="pygame/_camera.pyd" size="21504" timestamp="1316611204" hash="3965f3e755c021cce9e7633b7f60af15" />
+    <extract filename="pygame/_freetype.pyd" size="422912" timestamp="1316611206" hash="8491e05a30ae8271e665d96ca6a92650" />
+    <extract filename="pygame/_numericsndarray.pyd" size="9216" timestamp="1316611204" hash="1f7ebea665bb8e1c12efd21a684da37a" />
+    <extract filename="pygame/_numericsurfarray.pyd" size="20992" timestamp="1316611204" hash="c63ac8af40491cf2c8e09c2e227d07f6" />
+    <extract filename="pygame/_view.pyd" size="10240" timestamp="1316611216" hash="22ef8040ffca75f0c6d4b0a647cc1fc7" />
+    <extract filename="pygame/base.pyd" size="12288" timestamp="1316611206" hash="72b701ed816c47f1435ec6fb2390438a" />
+    <extract filename="pygame/bufferproxy.pyd" size="8704" timestamp="1316611214" hash="738e7838a106a674caecf623a5cf5721" />
+    <extract filename="pygame/cdrom.pyd" size="16384" timestamp="1316611206" hash="e4b89186c4ab1130530c2bc1b3ffe41c" />
+    <extract filename="pygame/color.pyd" size="24576" timestamp="1316611206" hash="344682b7072b7c76cf8aaedc6e89751b" />
+    <extract filename="pygame/constants.pyd" size="14848" timestamp="1316611208" hash="e1963b3ef694ba10c82c1d19fafa69b7" />
+    <extract filename="pygame/display.pyd" size="21504" timestamp="1316611208" hash="89cf1abd4174849efeabefe6bceae707" />
+    <extract filename="pygame/draw.pyd" size="31744" timestamp="1316611212" hash="f33bb25d4cc9fc79f6df8ada8cf3426d" />
+    <extract filename="pygame/event.pyd" size="18432" timestamp="1316611208" hash="60eac02134dcfd8a13863c820334eb68" />
+    <extract filename="pygame/fastevent.pyd" size="12288" timestamp="1316611208" hash="87cb87dc66b4a5865fd745db04021a4f" />
+    <extract filename="pygame/font.pyd" size="16896" timestamp="1316611202" hash="24ad3fda7de6f51015ff257d1f0a7fd2" />
+    <extract filename="pygame/image.pyd" size="21504" timestamp="1316611214" hash="ca9d2ddeda47f8fada05ee8b5eba17f4" />
+    <extract filename="pygame/imageext.pyd" size="182784" timestamp="1316611202" hash="94db40ef2aebe289112540107fcf29a1" />
+    <extract filename="pygame/joystick.pyd" size="12800" timestamp="1316611212" hash="ec81d7a7ad9e761f6e6ba6e04a72bdbd" />
+    <extract filename="pygame/key.pyd" size="9216" timestamp="1316611208" hash="b0cb972f2043f46681254ee34e89ddb4" />
+    <extract filename="pygame/mask.pyd" size="29184" timestamp="1316611214" hash="d9c83c1693e70a90a8433843ae5b545f" />
+    <extract filename="pygame/math.pyd" size="61952" timestamp="1316611216" hash="74ea6bbb84f900d8383daeeccf8413bc" />
+    <extract filename="pygame/mixer.pyd" size="28160" timestamp="1316611202" hash="6f4e2709782ea0e014048f5e7aac0f21" />
+    <extract filename="pygame/mixer_music.pyd" size="13824" timestamp="1316611204" hash="465149981b5540e04a72113a5f8323a3" />
+    <extract filename="pygame/mouse.pyd" size="10240" timestamp="1316611208" hash="eeede007a46e8f9619a0a19ce1f312d5" />
+    <extract filename="pygame/movie.pyd" size="14848" timestamp="1316611204" hash="f471a857a80096f786551e1214575534" />
+    <extract filename="pygame/overlay.pyd" size="8704" timestamp="1316611214" hash="aea870508cced0d5936ab04505449e7e" />
+    <extract filename="pygame/pixelarray.pyd" size="29696" timestamp="1316611214" hash="7baa1157172dfa0e8628a9c65ede94fb" />
+    <extract filename="pygame/pixelcopy.pyd" size="20480" timestamp="1316611216" hash="54e06be642c5397e73186a5ad267b352" />
+    <extract filename="pygame/pypm.pyd" size="67584" timestamp="1316611204" hash="d102b16cd745ca546fcdfd4e4d449bf7" />
+    <extract filename="pygame/rect.pyd" size="23552" timestamp="1316611208" hash="63d5c7461ba2a1608e89679516eba286" />
+    <extract filename="pygame/rwobject.pyd" size="11776" timestamp="1316611208" hash="7b60bdb77e403dafa6c6b8bc4e0f65f6" />
+    <extract filename="pygame/scrap.pyd" size="12800" timestamp="1316611204" hash="f0460a7f6a554b5f14f2c69526c0dfdd" />
+    <extract filename="pygame/SDL.dll" size="362496" timestamp="1316270640" hash="3b7e4e3554d17a66c52ae3d6937680a4" />
+    <extract filename="pygame/SDL_image.dll" size="690688" timestamp="1315226430" hash="5f7fe4bbe962854baab7a3c4c1108623" />
+    <extract filename="pygame/SDL_mixer.dll" size="137216" timestamp="1316270776" hash="2c8c9edfaf00ab66cb314b65e43ffe31" />
+    <extract filename="pygame/SDL_ttf.dll" size="388608" timestamp="1315228178" hash="201e64b2be61d947551fd1c9323ffbc6" />
+    <extract filename="pygame/smpeg.dll" size="201728" timestamp="1315220508" hash="85e006557c19b0fa6cc25b879f38b64d" />
+    <extract filename="pygame/surface.pyd" size="215040" timestamp="1316611212" hash="c57fa2fbbe55a664c9ea1a0b1bc5edb1" />
+    <extract filename="pygame/surflock.pyd" size="7680" timestamp="1316611212" hash="1b57a2d77932e9b35bc7f453b386289e" />
+    <extract filename="pygame/time.pyd" size="11264" timestamp="1316611212" hash="65a901c3b26f3ec1c0a3852f1d98b7f3" />
+    <extract filename="pygame/transform.pyd" size="41984" timestamp="1316611214" hash="088b292c67fa9ee645852b8fb7ba80f1" />
+    <extract filename="pygame/vidcap.pyd" size="12800" timestamp="1310124864" hash="eca9e7d0cdc06ffc1182ffc8bb0d66a8" />
+    <base_version filename="pygame.cmu_1.8.win32.mf.base" size="4590591" timestamp="1365945944" hash="2f021e73c9dbf99754ea5738dc3d0e42" />
+    <top_version filename="pygame.cmu_1.8.win32.mf" size="4590591" timestamp="1365945944" hash="2f021e73c9dbf99754ea5738dc3d0e42" />
+</package>

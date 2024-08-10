@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="numpy" platform="win32" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="NumPy" />
+    <requires name="panda3d" platform="win32" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="numpy.cmu_1.8.win32.mf" size="10869725" timestamp="1365945928" hash="68d637d4e0a0c12896378852d808b25b" />
+    <compressed_archive filename="numpy.cmu_1.8.win32.mf.1.pz" size="3116549" timestamp="1365945928" hash="21c03bb857361f46dcc5a07d4db45c76" />
+    <extract filename="_ctypes.pyd" size="106496" timestamp="1307905582" hash="deccede0781726ce0daa75a4635bf919" />
+    <extract filename="bz2.pyd" size="76800" timestamp="1307905582" hash="1ca9ececd2c84b80996fe632627f857f" />
+    <extract filename="numpy/core/_dotblas.pyd" size="2223421" timestamp="1311197118" hash="4257d0efef1d9223b1a92465eff0c4ee" />
+    <extract filename="numpy/core/_sort.pyd" size="127559" timestamp="1311197066" hash="b1c99ca034fc79a20aaf6d14d46eeb3e" />
+    <extract filename="numpy/core/msvcrt.dll" size="323072" timestamp="1365942352" hash="886a6c3c185aaedecd00477f72279b07" />
+    <extract filename="numpy/core/multiarray.pyd" size="1093467" timestamp="1311197100" hash="f40a1eeb55fef67b4dada982030152ce" />
+    <extract filename="numpy/core/scalarmath.pyd" size="177416" timestamp="1311197116" hash="dc0bef0599013cf702245ee04d64a506" />
+    <extract filename="numpy/core/umath.pyd" size="389046" timestamp="1311197110" hash="3c06cb5fcb2507f651f991b20db0676e" />
+    <extract filename="numpy/fft/fftpack_lite.pyd" size="49073" timestamp="1311197130" hash="5b5fcde3ff9fe049e9fcabe063d51cbc" />
+    <extract filename="numpy/lib/_compiled_base.pyd" size="39360" timestamp="1311197124" hash="2fc99b47f7f5bc5b3a984ff2420f16f9" />
+    <extract filename="numpy/linalg/lapack_lite.pyd" size="2383563" timestamp="1311197134" hash="74d20902d0fabb2dba389eb2eee986e3" />
+    <extract filename="numpy/random/mtrand.pyd" size="505062" timestamp="1311197148" hash="127787003f66c50664731b6f70fff485" />
+    <extract filename="win32pdh.pyd" size="24064" timestamp="1298746798" hash="ec34c993403e95a6c1d38cb915e07f40" />
+    <base_version filename="numpy.cmu_1.8.win32.mf.base" size="10869725" timestamp="1365945928" hash="68d637d4e0a0c12896378852d808b25b" />
+    <top_version filename="numpy.cmu_1.8.win32.mf" size="10869725" timestamp="1365945928" hash="68d637d4e0a0c12896378852d808b25b" />
+</package>

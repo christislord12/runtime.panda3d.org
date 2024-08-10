@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="egg" platform="linux_amd64" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D egg loader" />
+    <requires name="panda3d" platform="linux_amd64" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="egg.cmu_1.7.linux_amd64.mf" size="2832548" timestamp="1302902174" hash="bf2ad8b03d14c08243ddac56d137ff90" />
+    <compressed_archive filename="egg.cmu_1.7.linux_amd64.mf.1.pz" size="900495" timestamp="1302902280" hash="69162d271bcd78d0c8f456913245173c" />
+    <extract filename="egg.prc" size="50" timestamp="1302902174" hash="50ca5dc910d263200164e3b09e916a6e" />
+    <extract filename="libpandaegg.so" size="2832415" timestamp="1302901670" hash="517ffb23805e66d4ac277ae4ce68d300" />
+    <base_version filename="egg.cmu_1.7.linux_amd64.mf.base" size="2832548" timestamp="1302902174" hash="bf2ad8b03d14c08243ddac56d137ff90" />
+    <top_version filename="egg.cmu_1.7.linux_amd64.mf" size="2832548" timestamp="1302902174" hash="bf2ad8b03d14c08243ddac56d137ff90" />
+</package>

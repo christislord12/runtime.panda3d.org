@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ai" platform="osx_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D AI modules" />
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="ai.cmu_1.9.osx_amd64.mf" size="10942524" timestamp="1482728521" hash="491c5ed240c0ce4abc347ab1d8a3fcdf" />
+    <compressed_archive filename="ai.cmu_1.9.osx_amd64.mf.1.pz" size="2797159" timestamp="1482728522" hash="db3b1012574217c670c88582c855eb6e" />
+    <extract filename="core.so" size="10734888" timestamp="1482728520" hash="afde19fcf69a1a5238be62c198a78539" />
+    <extract filename="libpandaai.dylib" size="127632" timestamp="1482728520" hash="cc162c55f3a80e99fa8d6b19b3a15da3" />
+    <extract filename="panda3d/ai.so" size="79752" timestamp="1482728520" hash="55e9b4a82d86d41038402abff48f09ca" />
+    <base_version filename="ai.cmu_1.9.osx_amd64.mf.base" size="10942524" timestamp="1482728521" hash="491c5ed240c0ce4abc347ab1d8a3fcdf" />
+    <top_version filename="ai.cmu_1.9.osx_amd64.mf" size="10942524" timestamp="1482728521" hash="491c5ed240c0ce4abc347ab1d8a3fcdf" />
+</package>

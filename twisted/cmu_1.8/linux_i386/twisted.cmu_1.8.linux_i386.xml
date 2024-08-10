@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="twisted" platform="linux_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Twisted" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="twisted.cmu_1.8.linux_i386.mf" size="8349128" timestamp="1365894284" hash="c556056f5a85254b497f7624b168d950" />
+    <compressed_archive filename="twisted.cmu_1.8.linux_i386.mf.1.pz" size="2394742" timestamp="1365894285" hash="869599f61e243fb041a36118a6acaeb1" />
+    <extract filename="_ctypes.so" size="412304" timestamp="1327773595" hash="c3654c170eed3de0bf9295c808a31e23" />
+    <extract filename="_hotshot.so" size="67912" timestamp="1327773563" hash="cfb98f3ce9614e249f834970ac9f55f7" />
+    <extract filename="_lsprof.so" size="46454" timestamp="1327773563" hash="cd3f8a39006a3e30cd3cc3372536f6d5" />
+    <extract filename="bz2.so" size="74922" timestamp="1327773580" hash="35d62f388ceecf890565d20538fd46b3" />
+    <extract filename="crypt.so" size="14736" timestamp="1327773571" hash="ae09028ae1ce9ead1169021d71e75663" />
+    <extract filename="grp.so" size="21220" timestamp="1327773565" hash="2250fabe16e3ef0a4cc11e356e723afe" />
+    <extract filename="libcrypt.so.1" size="38300" timestamp="1287718383" hash="7b1e00f62b0dbf3b19182fc103145569" />
+    <extract filename="parser.so" size="167621" timestamp="1327773567" hash="62273a0e8bf9c9a088efb314b2f2c0e7" />
+    <extract filename="spwd.so" size="21200" timestamp="1327773565" hash="260f1852f812e94d94d7a30d98e80f8a" />
+    <extract filename="twisted/internet/_sigchld.so" size="18043" timestamp="1317306575" hash="9f1b6aed9a27dee75ff8bcc24da2d2e5" />
+    <extract filename="twisted/python/_epoll.so" size="74369" timestamp="1317306574" hash="2b1abfe0b4d6d871d9af4ef49831af85" />
+    <extract filename="twisted/python/_initgroups.so" size="14776" timestamp="1317306574" hash="15ad9be306b9ec59b39a6e0480a1098e" />
+    <extract filename="twisted/runner/portmap.so" size="15012" timestamp="1317306574" hash="949711d1780adbdfcff6d3e47247f84b" />
+    <extract filename="twisted/test/raiser.so" size="31086" timestamp="1317306574" hash="30e84895c9ce5e2b455519233644458e" />
+    <extract filename="zope/interface/_zope_interface_coptimizations.so" size="62962" timestamp="1317306580" hash="5533d771dc674533578b0b56339e5130" />
+    <base_version filename="twisted.cmu_1.8.linux_i386.mf.base" size="8349128" timestamp="1365894284" hash="c556056f5a85254b497f7624b168d950" />
+    <top_version filename="twisted.cmu_1.8.linux_i386.mf" size="8349128" timestamp="1365894284" hash="c556056f5a85254b497f7624b168d950" />
+</package>

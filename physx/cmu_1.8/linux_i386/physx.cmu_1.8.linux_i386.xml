@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="physx" platform="linux_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D PhysX integration" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="physx.cmu_1.8.linux_i386.mf" size="2873112" timestamp="1365894258" hash="f6d64e2ae6ad6bd9252e344f268876b4" />
+    <compressed_archive filename="physx.cmu_1.8.linux_i386.mf.1.pz" size="705294" timestamp="1365894258" hash="54253251c31a57f8378b5daa367d9103" />
+    <extract filename="libNxCharacter.so.1" size="48132" timestamp="1279248968" hash="571e01c5300629b52e2478a225ee180b" />
+    <extract filename="libpandaphysx.so" size="2783848" timestamp="1365893629" hash="2d63f8c542fe7e0c8374e28295cc4ce7" />
+    <extract filename="libPhysXLoader.so.1" size="40996" timestamp="1279248964" hash="5cadf81b9ca6a4a8c21279e5da5e6ab7" />
+    <base_version filename="physx.cmu_1.8.linux_i386.mf.base" size="2873112" timestamp="1365894258" hash="f6d64e2ae6ad6bd9252e344f268876b4" />
+    <top_version filename="physx.cmu_1.8.linux_i386.mf" size="2873112" timestamp="1365894258" hash="f6d64e2ae6ad6bd9252e344f268876b4" />
+</package>

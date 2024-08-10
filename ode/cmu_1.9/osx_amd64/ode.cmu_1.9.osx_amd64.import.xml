@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ode" platform="osx_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="osx_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="core.so" />
+    <component filename="libpandaode.dylib" />
+    <component filename="panda3d/ode.so" />
+    <module name="panda3d.ode" />
+</package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="osx_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.8.osx_i386.mf" size="667575" timestamp="1365896285" hash="b8d20b2256b205aba31a70b1a6ac2223" />
+    <compressed_archive filename="vision.cmu_1.8.osx_i386.mf.1.pz" size="252293" timestamp="1365896285" hash="e184c9584874609810b56d98ba3c7e35" />
+    <extract filename="libp3vision.dylib" size="667516" timestamp="1365896285" hash="f3255382534d3d63271a7c873b5fa60e" />
+    <base_version filename="vision.cmu_1.8.osx_i386.mf.base" size="667575" timestamp="1365896285" hash="b8d20b2256b205aba31a70b1a6ac2223" />
+    <top_version filename="vision.cmu_1.8.osx_i386.mf" size="667575" timestamp="1365896285" hash="b8d20b2256b205aba31a70b1a6ac2223" />
+</package>

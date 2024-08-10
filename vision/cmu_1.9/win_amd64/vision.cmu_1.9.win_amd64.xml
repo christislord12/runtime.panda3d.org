@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="win_amd64" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.9.win_amd64.mf" size="9599745" timestamp="1482728768" hash="d44a4572bc8f101b47f43658f79df6ea" />
+    <compressed_archive filename="vision.cmu_1.9.win_amd64.mf.1.pz" size="2618867" timestamp="1482728768" hash="78f6d56a1fb04f4a22a099613dfa151c" />
+    <extract filename="core.pyd" size="9449472" timestamp="1482728615" hash="babcb0bf4fd10e4da035735d5a39fcfc" />
+    <extract filename="libp3vision.dll" size="114688" timestamp="1482726638" hash="43b43cc7c4c83144914df74d36d4279d" />
+    <extract filename="panda3d/vision.pyd" size="35328" timestamp="1482728634" hash="bf72e73f4739842dfa011bcf07fb1642" />
+    <base_version filename="vision.cmu_1.9.win_amd64.mf.base" size="9599745" timestamp="1482728768" hash="d44a4572bc8f101b47f43658f79df6ea" />
+    <top_version filename="vision.cmu_1.9.win_amd64.mf" size="9599745" timestamp="1482728768" hash="d44a4572bc8f101b47f43658f79df6ea" />
+</package>

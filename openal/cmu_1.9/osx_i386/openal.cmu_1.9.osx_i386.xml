@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="openal" platform="osx_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="OpenAL audio library" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="openal.cmu_1.9.osx_i386.mf" size="95298" timestamp="1482728457" hash="6dbe3ce8caea3a754df8b94232bb1136" />
+    <compressed_archive filename="openal.cmu_1.9.osx_i386.mf.1.pz" size="30552" timestamp="1482728457" hash="3ab9bfa9fa295c14dc1fdc3c2a1e79f2" />
+    <extract filename="libp3openal_audio.dylib" size="95144" timestamp="1482728457" hash="573f00d3d905253efe5bd0550c9e7dff" />
+    <extract filename="openal.prc" size="59" timestamp="1482728457" hash="40daec26fde68f004ed5769a22ef12d4" />
+    <base_version filename="openal.cmu_1.9.osx_i386.mf.base" size="95298" timestamp="1482728457" hash="6dbe3ce8caea3a754df8b94232bb1136" />
+    <top_version filename="openal.cmu_1.9.osx_i386.mf" size="95298" timestamp="1482728457" hash="6dbe3ce8caea3a754df8b94232bb1136" />
+</package>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="box2d" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Box2D" />
+    <requires name="panda3d" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="box2d.cmu_1.8.mf" size="379" timestamp="1365894288" hash="6ec01f441bdc778d3124b8ad8a28a7b3" />
+    <compressed_archive filename="box2d.cmu_1.8.mf.1.pz" size="278" timestamp="1365894288" hash="6d139cb64a88a0200d9b2cafcb5fa76b" />
+    <base_version filename="box2d.cmu_1.8.mf.base" size="379" timestamp="1365894288" hash="6ec01f441bdc778d3124b8ad8a28a7b3" />
+    <top_version filename="box2d.cmu_1.8.mf" size="379" timestamp="1365894288" hash="6ec01f441bdc778d3124b8ad8a28a7b3" />
+</package>

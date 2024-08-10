@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="box2d" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Box2D" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="box2d.cmu_1.7.win32.mf" size="5099949" timestamp="1302892741" hash="b983401b3f0b5278e4d6c7498340384d" />
+    <compressed_archive filename="box2d.cmu_1.7.win32.mf.1.pz" size="2019818" timestamp="1302892762" hash="b4ac81397806106392c7411f894aa8a4" />
+    <extract filename="Box2D/_Box2D.pyd" size="919040" timestamp="1235559356" hash="41cbcd62b9c38a117f6cd231a4341825" />
+    <extract filename="Box2D/Microsoft.VC90.CRT.manifest" size="524" timestamp="1302890197" hash="6bb5d2aad0ae1b4a82e7ddf7cf58802a" />
+    <extract filename="Box2D/mscoree.dll" size="297808" timestamp="1257574024" hash="08a73b0e7ee6e32983b5f9e540a8e380" />
+    <extract filename="Box2D/msvcm90.dll" size="224768" timestamp="1302890197" hash="4a8bc195abdc93f0db5dab7f5093c52f" />
+    <extract filename="Box2D/MSVCP90.dll" size="568832" timestamp="1302890197" hash="6de5c66e434a9c1729575763d891c6c2" />
+    <extract filename="Box2D/MSVCR90.dll" size="655872" timestamp="1302890197" hash="e7d91d008fe76423962b91c43c88e4eb" />
+    <extract filename="Box2D/python26.dll" size="2145280" timestamp="1302890197" hash="09b9dfb3d28ad01259b2537747f77697" />
+    <base_version filename="box2d.cmu_1.7.win32.mf.base" size="5099949" timestamp="1302892741" hash="b983401b3f0b5278e4d6c7498340384d" />
+    <top_version filename="box2d.cmu_1.7.win32.mf" size="5099949" timestamp="1302892741" hash="b983401b3f0b5278e4d6c7498340384d" />
+</package>

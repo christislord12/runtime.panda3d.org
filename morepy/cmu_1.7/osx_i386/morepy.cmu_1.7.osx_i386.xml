@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="morepy" platform="osx_i386" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Python standard library" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="morepy.cmu_1.7.osx_i386.mf" size="8253609" timestamp="1302893241" hash="913a4545d5ecc7f0af3750a66909028f" />
+    <compressed_archive filename="morepy.cmu_1.7.osx_i386.mf.1.pz" size="2471020" timestamp="1302893805" hash="e4ab61085c117de696df6e5bf754f84f" />
+    <extract filename="_bsddb.so" size="1660920" timestamp="1283245388" hash="b95761bae8a3619181c8b8ecc62f8ca2" />
+    <extract filename="_bytesio.so" size="21112" timestamp="1283245303" hash="7a748b01fe6eb4cf333b60daa86c0235" />
+    <extract filename="_codecs_cn.so" size="133144" timestamp="1283245457" hash="a7f3b06010d3e4e513fd0a5a4be0bfa8" />
+    <extract filename="_codecs_hk.so" size="148700" timestamp="1283245462" hash="01c4935c31f14aa99035a16ef18f176a" />
+    <extract filename="_codecs_iso2022.so" size="29252" timestamp="1283245464" hash="f73d6a35b1872debd612911d6a9e24ed" />
+    <extract filename="_codecs_jp.so" size="235044" timestamp="1283245455" hash="e3e521f15545743ae446aa5a4a656881" />
+    <extract filename="_codecs_kr.so" size="128592" timestamp="1283245451" hash="d21ac4d646989f9ff56cd634f0bc231b" />
+    <extract filename="_codecs_tw.so" size="102188" timestamp="1283245460" hash="c2145b40311c3b588ecfd06b1b19c154" />
+    <extract filename="_csv.so" size="31636" timestamp="1283245357" hash="bbab2d13a942ef318705d36479a4a166" />
+    <extract filename="_ctypes.so" size="128476" timestamp="1283245735" hash="62ae7681939d6fd60d68aa2519cb088e" />
+    <extract filename="_curses.so" size="81416" timestamp="1302893239" hash="0c475bb080a9d2f19d7a60d5e2301db1" />
+    <extract filename="_curses_panel.so" size="20860" timestamp="1302893239" hash="371233c20ff71f6af307cc709037b58d" />
+    <extract filename="_fileio.so" size="21748" timestamp="1283245301" hash="c0b01b27e6e6dfa94e76fb29ff58b32c" />
+    <extract filename="_Folder.so" size="19392" timestamp="1283245582" hash="621bef37b9a7aa11b173f6202dc7f1a9" />
+    <extract filename="_Help.so" size="14572" timestamp="1283245592" hash="f41cd19e0120b52448303495106290a4" />
+    <extract filename="_hotshot.so" size="31612" timestamp="1283245309" hash="e1c9b441ecac7b26f625f2e7f34246f8" />
+    <extract filename="_json.so" size="18416" timestamp="1283245305" hash="8a8e943cf04c918d45cb71543dfc7cd1" />
+    <extract filename="_multibytecodec.so" size="33092" timestamp="1283245449" hash="899b7db3bcc66731bb668b98a9786a74" />
+    <extract filename="_multiprocessing.so" size="28664" timestamp="1283245468" hash="53f9999907bb58d4fa63ca616275787d" />
+    <extract filename="_tkinter.so" size="52076" timestamp="1302893239" hash="da2466ac59f980e949efdf7c6973508d" />
+    <extract filename="audioop.so" size="33016" timestamp="1283245350" hash="9f48b810994cb2c7dce95807b45b2491" />
+    <extract filename="autoGIL.so" size="14016" timestamp="1283245483" hash="e1fac96379b2595dc6000b60bd5e33af" />
+    <extract filename="bz2.so" size="116892" timestamp="1283245418" hash="73ee5460f7f960c0c5310db32bcd63ac" />
+    <extract filename="cmath.so" size="47776" timestamp="1283245273" hash="b0d8baaa01e32ea838f342dfb5a62e2e" />
+    <extract filename="ColorPicker.so" size="13420" timestamp="1283245490" hash="86932308bc713fce21f9ba269e6cc7c4" />
+    <extract filename="crypt.so" size="13056" timestamp="1283245355" hash="90129b1d6999db12c4efdc9937d8dd7a" />
+    <extract filename="dbm.so" size="19368" timestamp="1283245400" hash="f5a451e015c6d43bfcd491bf459bde4a" />
+    <extract filename="dl.so" size="14308" timestamp="1283245465" hash="77c2f8819eb5bb701cf4ca5c486f8a38" />
+    <extract filename="future_builtins.so" size="13524" timestamp="1283245291" hash="ddb1e589462fdf5eae894d863724880c" />
+    <extract filename="grp.so" size="14252" timestamp="1283245324" hash="a5b764686a9b96a98b0397c9877335ed" />
+    <extract filename="icglue.so" size="21216" timestamp="1283245514" hash="cd11b93ed1e5e239c172672e0397fadd" />
+    <extract filename="imageop.so" size="23564" timestamp="1283245352" hash="7c6b84d3987060be86ebc246961556b3" />
+    <extract filename="libpanel.5.dylib" size="25612" timestamp="1302893239" hash="4c79d3f8413d6c4f3d599430ba848257" />
+    <extract filename="mmap.so" size="26156" timestamp="1283245346" hash="1894ca14a73c98f291cb8929a71e2a2e" />
+    <extract filename="nis.so" size="15252" timestamp="1283245403" hash="c5eb547c8133656688ec6d49057ac523" />
+    <extract filename="parser.so" size="80092" timestamp="1283245334" hash="e981bbdb8d8934b100bdb8e9d638017a" />
+    <extract filename="syslog.so" size="13884" timestamp="1283245347" hash="4ad0dcacc0427a38baced9ce116435e1" />
+    <extract filename="Tcl" size="68460" timestamp="1221781119" hash="1741688ba313c8191eaf879394f8e0b7" />
+    <extract filename="Tk" size="67968" timestamp="1221781119" hash="4b9e1987bec6d285bba2904849ec4d8a" />
+    <base_version filename="morepy.cmu_1.7.osx_i386.mf.base" size="8253609" timestamp="1302893241" hash="913a4545d5ecc7f0af3750a66909028f" />
+    <top_version filename="morepy.cmu_1.7.osx_i386.mf" size="8253609" timestamp="1302893241" hash="913a4545d5ecc7f0af3750a66909028f" />
+</package>

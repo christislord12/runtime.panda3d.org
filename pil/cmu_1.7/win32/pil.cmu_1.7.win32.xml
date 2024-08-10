@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="pil" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Python Imaging Library" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="pil.cmu_1.7.win32.mf" size="1277321" timestamp="1302892739" hash="3add70e3f1a89ab763cc460dde543fb6" />
+    <compressed_archive filename="pil.cmu_1.7.win32.mf.1.pz" size="596058" timestamp="1302892762" hash="fa295961d641e7190701cda6e8cb863b" />
+    <extract filename="_imaging.pyd" size="324608" timestamp="1257172938" hash="199e82cd1e48f599d07f1fdcdb35a915" />
+    <extract filename="_imagingcms.pyd" size="101376" timestamp="1257172938" hash="fe26dc222201482ed01c6429002c2446" />
+    <extract filename="_imagingft.pyd" size="396288" timestamp="1257172938" hash="e2af0f9c8d59e4777f304f3c78265f7a" />
+    <extract filename="_imagingmath.pyd" size="15872" timestamp="1257172938" hash="89fc8ded2884a842c4c38e9c4807c26b" />
+    <extract filename="_imagingtk.pyd" size="8704" timestamp="1257172938" hash="61e57e3aae7be269d3e431209812c52e" />
+    <base_version filename="pil.cmu_1.7.win32.mf.base" size="1277321" timestamp="1302892739" hash="3add70e3f1a89ab763cc460dde543fb6" />
+    <top_version filename="pil.cmu_1.7.win32.mf" size="1277321" timestamp="1302892739" hash="3add70e3f1a89ab763cc460dde543fb6" />
+</package>

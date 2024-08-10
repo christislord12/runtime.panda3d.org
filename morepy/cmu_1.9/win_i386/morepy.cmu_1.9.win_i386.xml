@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="morepy" platform="win_i386" version="cmu_1.9" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Python standard library" />
+    <requires name="panda3d" platform="win_i386" version="cmu_1.9" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="morepy.cmu_1.9.win_i386.mf" size="10564133" timestamp="1482717227" hash="14d991d080f55776a77cbb71a3a0f7bc" />
+    <compressed_archive filename="morepy.cmu_1.9.win_i386.mf.1.pz" size="4138082" timestamp="1482717228" hash="df0f8a54591dd7131806559db87e46bd" />
+    <extract filename="_bsddb.pyd" size="1106432" timestamp="1482703988" hash="2549abc1a72e5d3f8b0052ca311a4e22" />
+    <extract filename="_msi.pyd" size="18944" timestamp="1482703988" hash="584f2e23d328bdffdf80907e2426538a" />
+    <extract filename="_multiprocessing.pyd" size="27648" timestamp="1482703988" hash="06c8615f66abdd6c2d986d40339d1410" />
+    <extract filename="_tkinter.pyd" size="40960" timestamp="1482703990" hash="280f08ed41abf00a2bd66d4f134086e9" />
+    <extract filename="bz2.pyd" size="71168" timestamp="1482703988" hash="58c57a662cde57fea311444cc8dadc24" />
+    <extract filename="Cabinet.dll" size="73216" timestamp="1290309840" hash="7a6986dd659b96398a11af5173892715" />
+    <extract filename="msi.dll" size="2364416" timestamp="1434401015" hash="d7c4abb0f1ffa371928eed0c7a6e24dc" />
+    <extract filename="tcl85.dll" size="893952" timestamp="1482703988" hash="5970f861703d398de54d259464111442" />
+    <extract filename="tk85.dll" size="1330688" timestamp="1482703988" hash="3362ea26ba61c35104368a3fcbf04b0f" />
+    <extract filename="unicodedata.pyd" size="687104" timestamp="1482703988" hash="a13020f231b588d46aaf82fe9314efdc" />
+    <extract filename="winsound.pyd" size="9216" timestamp="1482703988" hash="46ac0a17128bfddc385995c2c28c0753" />
+    <base_version filename="morepy.cmu_1.9.win_i386.mf.base" size="10564133" timestamp="1482717227" hash="14d991d080f55776a77cbb71a3a0f7bc" />
+    <top_version filename="morepy.cmu_1.9.win_i386.mf" size="10564133" timestamp="1482717227" hash="14d991d080f55776a77cbb71a3a0f7bc" />
+</package>

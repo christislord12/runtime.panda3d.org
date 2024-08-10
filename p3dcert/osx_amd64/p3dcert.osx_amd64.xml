@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="p3dcert" platform="osx_amd64" per_platform="1" seq="2" patch_version="1">
+    <config display_name="Authorization Dialog" />
+    <uncompressed_archive filename="p3dcert.osx_amd64.mf" size="2998937" timestamp="1482728537" hash="4ad22c3d84c94f562e45c380da17030d" />
+    <compressed_archive filename="p3dcert.osx_amd64.mf.1.pz" size="1191649" timestamp="1482728537" hash="23b4643d29a8f7803b1b7f43947b9c32" />
+    <extract filename="libcrypto.0.9.8.dylib" size="1589392" timestamp="1482728537" hash="45f24623c6aa5120f16e3f6bb0187527" />
+    <extract filename="libssl.0.9.8.dylib" size="335456" timestamp="1482720661" hash="21c42164270859948fa53ce02516c3c2" />
+    <extract filename="libz.1.dylib" size="5408" timestamp="1413458601" hash="5be221108a76089fd9d7884f8d84646c" />
+    <extract filename="P3DCert.app/Contents/Info.plist" size="987" timestamp="1482720657" hash="cde4976a881afa1d3ddcddca7827e7ab" />
+    <extract filename="P3DCert.app/Contents/MacOS/p3dcert" size="1067456" timestamp="1482728536" hash="80fe539baecefbb136e18973376a7f0d" />
+    <base_version filename="p3dcert.osx_amd64.mf.base" size="2998937" timestamp="1482728537" hash="4ad22c3d84c94f562e45c380da17030d" />
+    <top_version filename="p3dcert.osx_amd64.mf" size="2998937" timestamp="1482728537" hash="4ad22c3d84c94f562e45c380da17030d" />
+</package>

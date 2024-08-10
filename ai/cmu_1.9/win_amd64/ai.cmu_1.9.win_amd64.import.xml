@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="ai" platform="win_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="2">
+    <requires name="panda3d" platform="win_amd64" version="cmu_1.9" host="https://runtime.panda3d.org/" seq="1" />
+    <host url="https://runtime.panda3d.org/" download_url="http://runtime.panda3d.org/" />
+    <component filename="core.pyd" />
+    <component filename="libpandaai.dll" />
+    <component filename="panda3d/ai.pyd" />
+    <module name="panda3d.ai" />
+</package>

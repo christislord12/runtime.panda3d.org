@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="bullet" platform="osx_i386" version="cmu_1.8" seq="2" patch_version="1">
+    <config display_name="Panda3D Bullet integration" />
+    <requires name="panda3d" platform="osx_i386" version="cmu_1.8" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="bullet.cmu_1.8.osx_i386.mf" size="3000926" timestamp="1365896282" hash="ee415031841390a167b2511a927728c6" />
+    <compressed_archive filename="bullet.cmu_1.8.osx_i386.mf.1.pz" size="983462" timestamp="1365896283" hash="7d7fa3e07c8e1159cb114ce737a310a5" />
+    <extract filename="libpandabullet.dylib" size="3000864" timestamp="1365896282" hash="0e1b5e8caedf758de530b74846c9e6be" />
+    <base_version filename="bullet.cmu_1.8.osx_i386.mf.base" size="3000926" timestamp="1365896282" hash="ee415031841390a167b2511a927728c6" />
+    <top_version filename="bullet.cmu_1.8.osx_i386.mf" size="3000926" timestamp="1365896282" hash="ee415031841390a167b2511a927728c6" />
+</package>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="linux_i386" version="cmu_1.9" per_platform="1" seq="3" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.9" seq="2" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.9.linux_i386.mf" size="71143" timestamp="1454964134" hash="088db1e7fc42678c224179b7e0cd0373" />
+    <compressed_archive filename="vision.cmu_1.9.linux_i386.mf.1.pz" size="30593" timestamp="1454964134" hash="af34784d6c2a5a0c52fe7707b72c9fe3" />
+    <extract filename="libp3vision.so" size="52208" timestamp="1454963685" hash="a259605dcadad75a20289cd2c7129711" />
+    <extract filename="panda3d/vision.so" size="18708" timestamp="1454964134" hash="49cdcaf2d90424bee09430cbe110e43a" />
+    <base_version filename="vision.cmu_1.9.linux_i386.mf.base" size="71143" timestamp="1454964134" hash="088db1e7fc42678c224179b7e0cd0373" />
+    <top_version filename="vision.cmu_1.9.linux_i386.mf" size="71143" timestamp="1454964134" hash="088db1e7fc42678c224179b7e0cd0373" />
+</package>

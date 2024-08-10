@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="win32" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="win32" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.7.win32.mf" size="2653141" timestamp="1302892704" hash="66980273c06f88cea8e2687c5459cf2d" />
+    <compressed_archive filename="tk.cmu_1.7.win32.mf.1.pz" size="1134224" timestamp="1302892762" hash="195d1936d5edb13793adcea454be1b02" />
+    <extract filename="_ctypes.pyd" size="73728" timestamp="1269050080" hash="cfefe68bdf7ba88538b9a0386ea46364" />
+    <extract filename="_tkinter.pyd" size="30208" timestamp="1269050026" hash="58311317ad08de11faaeea72ee364ba7" />
+    <extract filename="tcl85.dll" size="867328" timestamp="1226021356" hash="e86ea681c97f48a082610c9b6e38834e" />
+    <extract filename="tk85.dll" size="1319936" timestamp="1226021852" hash="72f95604065ab9f1bfb3ff0475a417dd" />
+    <base_version filename="tk.cmu_1.7.win32.mf.base" size="2653141" timestamp="1302892704" hash="66980273c06f88cea8e2687c5459cf2d" />
+    <top_version filename="tk.cmu_1.7.win32.mf" size="2653141" timestamp="1302892704" hash="66980273c06f88cea8e2687c5459cf2d" />
+</package>

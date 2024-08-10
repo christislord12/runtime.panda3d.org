@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="certlist" per_platform="1" seq="2" patch_version="1">
+    <uncompressed_archive filename="certlist.mf" size="22" timestamp="1482728777" hash="ef22d24cc462dcb6bc021418a3e2542c" />
+    <compressed_archive filename="certlist.mf.1.pz" size="19" timestamp="1482728777" hash="afd5b01fc22dd2dcc78d6e4f18402a61" />
+    <base_version filename="certlist.mf.base" size="22" timestamp="1482728777" hash="ef22d24cc462dcb6bc021418a3e2542c" />
+    <top_version filename="certlist.mf" size="22" timestamp="1482728777" hash="ef22d24cc462dcb6bc021418a3e2542c" />
+</package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="httplib2" platform="linux_i386" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="httplib2" />
+    <requires name="panda3d" platform="linux_i386" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="httplib2.cmu_1.7.linux_i386.mf" size="154211" timestamp="1302891685" hash="ed124b280f204df71ded18d5823ad4b0" />
+    <compressed_archive filename="httplib2.cmu_1.7.linux_i386.mf.1.pz" size="60213" timestamp="1302891745" hash="4d4b30f04e91b9e1f625547b512f19bd" />
+    <extract filename="datetime.so" size="70296" timestamp="1248032586" hash="2b338e2a221fb041a887dc63f7c08bef" />
+    <base_version filename="httplib2.cmu_1.7.linux_i386.mf.base" size="154211" timestamp="1302891685" hash="ed124b280f204df71ded18d5823ad4b0" />
+    <top_version filename="httplib2.cmu_1.7.linux_i386.mf" size="154211" timestamp="1302891685" hash="ed124b280f204df71ded18d5823ad4b0" />
+</package>

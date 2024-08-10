@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="vision" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Panda3D vision modules" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="vision.cmu_1.7.osx_ppc.mf" size="201367" timestamp="1302893309" hash="dc0bbc5398fbaad0e3c2899dc90f8a3c" />
+    <compressed_archive filename="vision.cmu_1.7.osx_ppc.mf.1.pz" size="70585" timestamp="1302893805" hash="49e4268376b8b01c05702c8d4b600a4f" />
+    <extract filename="libp3vision.dylib" size="201308" timestamp="1302891920" hash="1a848650c82aa49373205b6d2ba197b2" />
+    <base_version filename="vision.cmu_1.7.osx_ppc.mf.base" size="201367" timestamp="1302893309" hash="dc0bbc5398fbaad0e3c2899dc90f8a3c" />
+    <top_version filename="vision.cmu_1.7.osx_ppc.mf" size="201367" timestamp="1302893309" hash="dc0bbc5398fbaad0e3c2899dc90f8a3c" />
+</package>

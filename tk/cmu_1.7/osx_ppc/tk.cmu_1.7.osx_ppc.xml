@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="tk" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Tk GUI Toolkit" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="tk.cmu_1.7.osx_ppc.mf" size="754794" timestamp="1302893429" hash="9f894d8c6116e5b72cfff7c91ea61b16" />
+    <compressed_archive filename="tk.cmu_1.7.osx_ppc.mf.1.pz" size="225224" timestamp="1302893805" hash="688e7423414c81663b31aa3596bc65f6" />
+    <extract filename="_ctypes.so" size="148520" timestamp="1283245735" hash="97601ddc1bb0d71ac9652eea228385ed" />
+    <extract filename="_tkinter.so" size="57688" timestamp="1302893429" hash="32885b2fb60b827479126c8922a3f738" />
+    <extract filename="Tcl" size="71552" timestamp="1221781119" hash="b8f43ffc0965b97353fc6fb11112e059" />
+    <extract filename="Tk" size="70656" timestamp="1221781119" hash="e36ff98eaf4aaf4f22f479fcadfb3e84" />
+    <base_version filename="tk.cmu_1.7.osx_ppc.mf.base" size="754794" timestamp="1302893429" hash="9f894d8c6116e5b72cfff7c91ea61b16" />
+    <top_version filename="tk.cmu_1.7.osx_ppc.mf" size="754794" timestamp="1302893429" hash="9f894d8c6116e5b72cfff7c91ea61b16" />
+</package>

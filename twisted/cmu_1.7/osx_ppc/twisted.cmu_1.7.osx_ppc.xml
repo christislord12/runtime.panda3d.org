@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package name="twisted" platform="osx_ppc" version="cmu_1.7" seq="2" patch_version="1">
+    <config display_name="Twisted" />
+    <requires name="panda3d" platform="osx_ppc" version="cmu_1.7" seq="1" host="https://runtime.panda3d.org/" />
+    <uncompressed_archive filename="twisted.cmu_1.7.osx_ppc.mf" size="9284767" timestamp="1302893454" hash="5b89d48827661caa818ce2e55fc4c32b" />
+    <compressed_archive filename="twisted.cmu_1.7.osx_ppc.mf.1.pz" size="2218414" timestamp="1302893807" hash="c21d10dd550d741704f51b92d7adba6e" />
+    <extract filename="_CF.so" size="115908" timestamp="1283245483" hash="a355321682c84a7772b28abe78f5b554" />
+    <extract filename="_ctypes.so" size="148520" timestamp="1283245735" hash="97601ddc1bb0d71ac9652eea228385ed" />
+    <extract filename="_curses.so" size="91580" timestamp="1302893452" hash="5b0ce55e54cecc8fcfca477fb79eb743" />
+    <extract filename="_hotshot.so" size="28080" timestamp="1283245309" hash="ba366fb2e653acb9091447cfe7d4ff87" />
+    <extract filename="_lsprof.so" size="22460" timestamp="1283245311" hash="b721a0284a01563d06bcb363746950a6" />
+    <extract filename="bz2.so" size="142456" timestamp="1283245418" hash="d1ac9a609bd4f913553ab2673aa3077e" />
+    <extract filename="crypt.so" size="9008" timestamp="1283245355" hash="ca8bcb3f58718f30be9f2ec18277cb62" />
+    <extract filename="grp.so" size="10368" timestamp="1283245324" hash="bdf25cca87a196e3543abdacbee204aa" />
+    <extract filename="icglue.so" size="17460" timestamp="1283245514" hash="ac1d55c6513aed074db6e7e4a15e4ab0" />
+    <extract filename="parser.so" size="72380" timestamp="1283245334" hash="f8e890d4cdcf250cca9424b65a171aa5" />
+    <extract filename="twisted/internet/_sigchld.so" size="9640" timestamp="1288188625" hash="1dd6a3d83abe399fccd62225aca0ee39" />
+    <extract filename="twisted/internet/cfsupport.so" size="47792" timestamp="1288188625" hash="417699119323bad886cf52e48cf63127" />
+    <extract filename="twisted/protocols/_c_urlarg.so" size="9652" timestamp="1288188626" hash="31cab44b152af9e1c692f6e7638f6351" />
+    <extract filename="twisted/python/_initgroups.so" size="9084" timestamp="1288188626" hash="ee042ac1b25990fade0dead7c080fdc8" />
+    <extract filename="twisted/runner/portmap.so" size="9124" timestamp="1288188626" hash="7b68c49cbf848f68f86b86ddc33de7bf" />
+    <extract filename="twisted/test/raiser.so" size="15364" timestamp="1288188626" hash="08d31f718d5bf6e42feba3a3ae02e1bc" />
+    <extract filename="zope/interface/_zope_interface_coptimizations.so" size="34080" timestamp="1288188641" hash="c87bc67c230738136d1385b72cba1639" />
+    <base_version filename="twisted.cmu_1.7.osx_ppc.mf.base" size="9284767" timestamp="1302893454" hash="5b89d48827661caa818ce2e55fc4c32b" />
+    <top_version filename="twisted.cmu_1.7.osx_ppc.mf" size="9284767" timestamp="1302893454" hash="5b89d48827661caa818ce2e55fc4c32b" />
+</package>
